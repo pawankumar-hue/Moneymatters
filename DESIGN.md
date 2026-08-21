@@ -1,41 +1,59 @@
-# DESIGN.md — PW × Instagram EdTech Fusion Design System ⚡📸
+﻿# Design System & UI Architecture: MoneyMatters
 
-## 1. Visual Atmosphere & Fusion Concept
-The **PW × Instagram Design System** bridges Physics Wallah's high-conversion EdTech learning engine with Instagram's modern social media visual language:
-- **Base Aesthetic**: Instagram Pitch Black (`#000000`) & Hairline Dividers (`#262626`) paired with PW Royal Electric Blue (`#6356F6`) & PW Active Amber (`#F59E0B`).
-- **Signature Gradient**:
-  - **Instagram Social Gradient**: `#833AB4` → `#E1306C` → `#FD1D1D` → `#FCAF45`
-  - **PW EdTech Gradient**: `#6356F6` (Electric Royal Blue) → `#3B82F6` (Cyan Blue) → `#10B981` (Emerald Glow)
-- **Density**: Daily Learning & Social Feed (Density 6/10) — high-contrast batch cards, story reels, interactive sliders, and live doubt engine.
+## 1. Design Philosophy: High-Engagement Financial Education
+**MoneyMatters** is designed specifically for Gen-Z college students and early-career individuals in India. Traditional finance apps are often intimidating, text-heavy, and uninspiring. MoneyMatters reimagines financial education by blending:
+- **Bite-Sized Gamification**: Story-driven modules, real-time quizzes, XP progress, and milestone badges.
+- **Deep-Dark Modern Aesthetic**: An immersive, battery-efficient dark theme built with true blacks, slate surfaces, and calibrated high-contrast neon accents.
+- **Micro-Interactions & Haptics**: Snappy feedback, dynamic gradient borders, fluid state transitions, and responsive gestures.
 
-## 2. Color Palette & Calibration
-- **Primary Background**: Pitch Black (`#000000`)
-- **Card Surface**: Deep Dark Surface (`#121212`) & Elevated Card (`#1E1E1E`)
-- **Hairline Divider**: Border Dark (`#262626`)
-- **PW Royal Electric Blue**: `#6356F6`
-- **PW Active Amber Gold**: `#F59E0B`
-- **PW Emerald Success**: `#10B981`
-- **Instagram Pink/Red**: `#E1306C` & Heart Red (`#ED4956`)
-- **Text Hierarchy**: Primary White (`#FFFFFF`), Secondary Muted (`#A8A8A8`)
+---
 
-## 3. PW × Instagram Component Architecture
+## 2. Color Palette & Visual Foundations
 
-### A. Instagram Stories Reels Bar (PW Batch & Quick Actions)
-- **Story Ring**: 68dp circular avatar surrounded by 2.5dp multi-color Instagram/PW gradient ring (`#6356F6` → `#E1306C` → `#FCAF45`).
-- **Story Badges**: "Batch 2026", "18+ Tools", "GPS Path", "AI Saarthi".
+### A. Surfaces & Backgrounds
+| Token | Hex | Role |
+|---|---|---|
+| `SurfaceBackground` | `#0A0E17` | Deep obsidian background minimizing eye strain |
+| `SurfaceCardPrimary` | `#121826` | Primary card and module container surface |
+| `SurfaceCardElevated` | `#1A2234` | Modal dialogs, floating action buttons, popovers |
+| `BorderSubtle` | `#232E48` | Hairline dividers and inactive component outlines |
 
-### B. PW × Instagram Feed Post Card
-- **Header**: Username avatar + PW Verified Batch Tag + Options menu (`...`).
-- **Content Area**: High-contrast card with PW Batch Banner + Progress Bar + Interactive CTAs.
-- **Action Bar**: Instagram Heart Like button, Comment/Quiz check, Share/Send, and Bookmark Save button.
+### B. Accent & Semantic Palette
+| Token | Hex | Role |
+|---|---|---|
+| `ElectricViolet` | `#6366F1` | Primary brand accent & active navigation states |
+| `CyberEmerald` | `#10B981` | Success states, investments, profits, correct answers |
+| `VibrantAmber` | `#F59E0B` | Badges, streak counters, warnings, XP highlights |
+| `CrimsonAlert` | `#EF4444` | Errors, high-risk financial warnings, debt alerts |
+| `SkyCyan` | `#06B6D4` | Secondary interactive elements, links, info badges |
 
-### C. PW Chapter Reader View (Instagram Stories Progress)
-- **Segmented Top Bar**: Instagram Stories progress bar representing current chapter segment in the module.
-- **PW Knowledge Check Card**: High-contrast challenge card with instant answer feedback, explanation breakdown, and +XP reward modal.
+### C. Typography Hierarchy
+- **Heading Display (24sp - 32sp / Bold)**: Clean sans-serif with tight tracking for milestone titles and module headers.
+- **Body Core (14sp - 16sp / Regular & Medium)**: High-legibility typography optimized for bilingual reading (English, Hindi, Hinglish, regional scripts).
+- **Caption & Meta (11sp - 13sp / Semi-Bold)**: Uppercase badges, timestamps, tags, and progress metrics.
 
-### D. PW AI Saarthi Doubt Engine (Instagram DM Style)
-- **Direct Message UI**: Instagram DM style chat interface with PW Royal Blue & Purple gradient bubbles (`#6356F6` → `#833AB4`).
-- **Quick Doubt Chips**: Clickable prompt chips for instant financial & tax doubt resolution.
+---
 
-### E. PW Student Report Card (Instagram Profile Page)
-- **Profile Header**: Instagram profile layout with verified badge, stat counters (23 Modules, XP Points, Completed), PW Story Highlights, and module grid posts.
+## 3. Core Component Guidelines
+
+### A. Story & Reel Progression Bar
+- **Visual**: Segmented linear progress indicators at the top of card-based lessons.
+- **Behavior**: Smooth transitions between conceptual cards, auto-pausing on touch hold, and instant restart/review capabilities.
+
+### B. Interactive Financial Scenario Cards
+- **Visual**: Dual-tone interactive cards with embedded calculators, dynamic sliders, and comparison splits (e.g., SIP vs FD, Old vs New Tax Regime).
+- **Feedback**: Color-coded feedback states with instant explanations on quiz and decision selections.
+
+### C. AI Saarthi Financial Assistant Interface
+- **Layout**: Clean conversational thread with distinct sender/receiver bubbles, dynamic suggested quick-prompts, and inline financial formula rendering.
+
+### D. Milestone Badges & Gamified Profile
+- **Visual**: Hexagonal and circular badge tokens with luminous gradient borders (`#6366F1` → `#06B6D4`).
+- **Data Display**: Streak counter, modules mastered, net financial IQ score, and certificate unlock progress.
+
+---
+
+## 4. Accessibility & Cross-Device Ergonomics
+- **Minimum Tap Target**: 48dp on all touch elements.
+- **Contrast Compliance**: WCAG AA standards (minimum 4.5:1 contrast ratio across all text and background combinations).
+- **Responsive Layout**: Fluid Jetpack Compose layout trees with adaptive margins for compact phones and larger displays.
