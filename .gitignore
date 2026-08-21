@@ -18,3 +18,10 @@ local.properties
 .cxx/
 *.apk
 *.aab
+
+# Unnecessary folders / submodules
+awesome-claude-code-subagents/
+compose-performance-skills/
+table_formatting_report.txt
+validation_report.txt
+validation_report_v2.txt
