@@ -1,7 +1,8 @@
-﻿# 🚀 MoneyMatters — Financial Literacy Platform for Indian College Youth
-
 <div align="center">
-  <p><b>Empowering the next generation of India with practical, jargon-free financial education from scratch to advanced wealth creation.</b></p>
+  <img src="app/src/main/res/drawable/logo.png" alt="MoneyMatters Logo" width="120" style="border-radius: 24px;" />
+  <h1>MoneyMatters</h1>
+  <p><b>Financial Literacy Platform for Indian College Youth</b></p>
+  <p>Empowering the next generation of India with practical, jargon-free financial education from scratch to advanced wealth creation.</p>
 </div>
 
 ---
