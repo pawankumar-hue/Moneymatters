@@ -33,3 +33,6 @@ reference
 # Rules and scripts
 rules/
 scripts/
+
+# Benchmark module
+macrobenchmark/
