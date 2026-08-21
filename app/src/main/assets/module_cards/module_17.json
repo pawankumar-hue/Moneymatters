@@ -1,0 +1,74 @@
+[
+  {
+    "id": "17-1",
+    "title": "AI Scams, Fintech Dark Patterns & Consumer Rights 🛡️",
+    "emoji": "🛡️",
+    "color": "#EF4444",
+    "description": "Deepfake voice scams, QR code scams, instant loan app traps, and RBI Cyber Helpline (1930).",
+    "cards": [
+      {
+        "id": "17-1-1",
+        "topicId": "17-1",
+        "topicTitle": "AI Scams & Fraud",
+        "cardIndex": 1,
+        "totalCardsInTopic": 3,
+        "title": "AI Voice Cloning Scams 🤖",
+        "content": "Scammers 3-second audio clip se dost ya family member ki voice clone kar rahe hain — \"Accident ho gaya, jaldi ₹20,000 UPI karo!\".\n\nGolden Rule: **Code Word Strategy!** Family ke saath Secret Code Word fix karo.",
+        "imagePrompt": "Robot mask next to phone speaker warning waveform, red cyber theme",
+        "color": "#EF4444",
+        "emoji": "🤖",
+        "interactiveType": "choice_sim",
+        "choiceData": {
+          "scenario": "Dost ki same aawaz waala call aaya — urgent ₹15,000 accident hospital payment request. Action?",
+          "choices": [
+            {
+              "text": "Instant UPI Payment maaro",
+              "isCorrect": false,
+              "consequence": "Scam Victims Alert! Voice AI clone thi, ₹15,000 lost."
+            },
+            {
+              "text": "Call cut karke dost ke direct phone/family member ko re-verify karo",
+              "isCorrect": true,
+              "consequence": "Saved! Direct call pe dost hostel mein safe nikla."
+            }
+          ]
+        }
+      },
+      {
+        "id": "17-1-2",
+        "topicId": "17-1",
+        "topicTitle": "AI Scams & Fraud",
+        "cardIndex": 2,
+        "totalCardsInTopic": 3,
+        "title": "QR Code Payment Myth 📲",
+        "content": "**MYTH**: Money receive karne ke liye QR scan karna padta hai.\n**FACT**: QR Code SCAN / PIN enter karne se sirf PAISA JAATA HAI, kabhi AATA NAHI!",
+        "imagePrompt": "Red QR code with prohibition cross badge",
+        "color": "#EF4444",
+        "emoji": "📲",
+        "interactiveType": "quiz",
+        "quizData": {
+          "question": "OLX buyer bol raha hai ki paise RECEIVE karne ke liye UPI PIN dalo. Safe hai?",
+          "options": [
+            "Haan, PIN receive ke liye hota hai",
+            "Nahi! PIN se sirf paise DEDUCT hote hain"
+          ],
+          "correctAnswerIndex": 1,
+          "explanation": "UPI PIN is ONLY for sending money. Receiving money NEVER needs PIN or QR scan!"
+        }
+      },
+      {
+        "id": "17-1-3",
+        "topicId": "17-1",
+        "topicTitle": "AI Scams & Fraud",
+        "cardIndex": 3,
+        "totalCardsInTopic": 3,
+        "title": "🚨 MISSION: Cyber Crime Emergency Setup",
+        "content": "🚨 **TODAY'S MISSION**\n\nCyber Safety Checklist:\n\n- [ ] National Cyber Crime Helpline Number **1930** contacts mein save karo.\n- [ ] Family ke saath Secret Safety Password/Code word fix karo.\n- [ ] Bank app mein International/Contactless limit disable karo.\n- [ ] Unknown instant loan apps uninstall karo.",
+        "imagePrompt": "Shield with 1930 helpline number icon, red theme",
+        "color": "#EF4444",
+        "emoji": "🎯",
+        "interactiveType": "mission_box"
+      }
+    ]
+  }
+]

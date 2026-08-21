@@ -1,0 +1,79 @@
+[
+  {
+    "id": "18-1",
+    "title": "Advanced Wealth Building & Estate Basics 🏆",
+    "emoji": "🏆",
+    "color": "#F59E0B",
+    "description": "REITs, Sovereign Gold Bonds (SGB), Asset Allocation, Estate Planning (Will/Nomination), and Net Worth Tracking.",
+    "cards": [
+      {
+        "id": "18-1-1",
+        "topicId": "18-1",
+        "topicTitle": "Advanced Wealth",
+        "cardIndex": 1,
+        "totalCardsInTopic": 3,
+        "title": "Asset Allocation 100 - Age Rule ⚖️",
+        "content": "Equity Allocation % = **100 - Your Age**.\n\nAt Age 20: 80% Equity (Mutual Funds/Stocks) + 20% Debt (PPF/FD/Gold).\nAt Age 50: 50% Equity + 50% Debt.",
+        "imagePrompt": "Balance scale with stocks pie chart on one side and gold bar on the other, gold theme",
+        "color": "#F59E0B",
+        "emoji": "⚖️",
+        "interactiveType": "calculator",
+        "calcData": {
+          "calcType": "budget",
+          "formula": "none",
+          "inputs": [
+            {
+              "label": "Your Age",
+              "min": 18,
+              "max": 65,
+              "defaultValue": 22,
+              "step": 1,
+              "unit": "Y"
+            }
+          ]
+        }
+      },
+      {
+        "id": "18-1-2",
+        "topicId": "18-1",
+        "topicTitle": "Advanced Wealth",
+        "cardIndex": 2,
+        "totalCardsInTopic": 3,
+        "title": "Physical Gold vs SGB (Sovereign Gold Bond) 🥇",
+        "content": "Physical Gold: Making charges loss (10-25%) + Locker security risk.\nSGB: 2.5% annual interest income + 0% making charge + Tax-Free capital gains after 8 years!",
+        "imagePrompt": "Gold coin with Government of India crest seal",
+        "color": "#F59E0B",
+        "emoji": "🥇",
+        "interactiveType": "choice_sim",
+        "choiceData": {
+          "scenario": "Gold mein ₹50,000 long-term invest karna hai. Physical Jewellery vs SGB?",
+          "choices": [
+            {
+              "text": "Gold Jewellery/Coins shop se lo",
+              "isCorrect": false,
+              "consequence": "Making charge loss 15% + locker charges."
+            },
+            {
+              "text": "Sovereign Gold Bond (SGB) via RBI/Demat",
+              "isCorrect": true,
+              "consequence": "Smart! Extra 2.5% annual interest + Tax-free maturity."
+            }
+          ]
+        }
+      },
+      {
+        "id": "18-1-3",
+        "topicId": "18-1",
+        "topicTitle": "Advanced Wealth",
+        "cardIndex": 3,
+        "totalCardsInTopic": 3,
+        "title": "🚨 MISSION: Nomination Audit",
+        "content": "🚨 **TODAY'S MISSION**\n\nEstate & Nomination Check:\n\n- [ ] All Bank Accounts mein Nominee name added confirm karo.\n- [ ] Mutual Fund & Demat accounts mein Nominee set karo.\n- [ ] Net Worth Statement calculate karo (Assets - Liabilities).\n- [ ] Asset allocation review per 100-age rule.",
+        "imagePrompt": "Gold trophy cup with shield seal",
+        "color": "#F59E0B",
+        "emoji": "🎯",
+        "interactiveType": "mission_box"
+      }
+    ]
+  }
+]

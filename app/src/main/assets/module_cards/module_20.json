@@ -1,0 +1,79 @@
+[
+  {
+    "id": "20-1",
+    "title": "Student Startup & Entrepreneurship Financials 🚀",
+    "emoji": "🚀",
+    "color": "#8B5CF6",
+    "description": "Burn Rate, Runway, Bootstrapping vs Funding, Cap Table, Pitch Deck, and DPIIT Startup India benefits.",
+    "cards": [
+      {
+        "id": "20-1-1",
+        "topicId": "20-1",
+        "topicTitle": "Startup Financials",
+        "cardIndex": 1,
+        "totalCardsInTopic": 3,
+        "title": "Runway & Burn Rate Formula 📉",
+        "content": "Startup Death Reason #1: **Running out of Cash!**\n\n**Burn Rate**: Monthly Cash Outflow - Monthly Cash Inflow.\n**Runway (Months)**: Total Bank Cash Balance ÷ Net Monthly Burn Rate.\n\nExample: ₹6 Lakh bank balance ÷ ₹50,000 monthly burn = **12 Months Runway**.",
+        "imagePrompt": "Rocket flying over runway marked with months timeline, purple and neon vector",
+        "color": "#8B5CF6",
+        "emoji": "📉",
+        "interactiveType": "calculator",
+        "calcData": {
+          "calcType": "budget",
+          "formula": "none",
+          "inputs": [
+            {
+              "label": "Bank Cash Balance",
+              "min": 50000,
+              "max": 5000000,
+              "defaultValue": 600000,
+              "step": 50000,
+              "unit": "₹"
+            }
+          ]
+        }
+      },
+      {
+        "id": "20-1-2",
+        "topicId": "20-1",
+        "topicTitle": "Startup Financials",
+        "cardIndex": 2,
+        "totalCardsInTopic": 3,
+        "title": "Bootstrapping vs VC Equity Dilution 🤝",
+        "content": "Early valuation ₹50 Lakh par 20% equity bechna = **₹10 Lakh for 20%**.\nBaad mein valuation ₹10 Crore hogi toh us 20% ki value **₹2 Crore** ban jayegi!\n\nRule: Bootstrapping se PMF (Product Market Fit) tak pahuncho pehle, seed raise tab karo jab scale karna ho.",
+        "imagePrompt": "Pie chart being sliced into equity portions, purple and gold theme",
+        "color": "#8B5CF6",
+        "emoji": "🤝",
+        "interactiveType": "choice_sim",
+        "choiceData": {
+          "scenario": "Idea stage hai, Angel investor ₹5L de raha hai 30% equity ke liye. Deal ya No Deal?",
+          "choices": [
+            {
+              "text": "Deal! Pehla paisa mil raha hai le lo",
+              "isCorrect": false,
+              "consequence": "Equity Trap! 30% dilution at idea stage VC rounds block kar dega."
+            },
+            {
+              "text": "No Deal! College grant / Bootstrapping se MVP banao",
+              "isCorrect": true,
+              "consequence": "Smart Founder! MVP launch karke higher valuation par raise karo."
+            }
+          ]
+        }
+      },
+      {
+        "id": "20-1-3",
+        "topicId": "20-1",
+        "topicTitle": "Startup Financials",
+        "cardIndex": 3,
+        "totalCardsInTopic": 3,
+        "title": "🚨 MISSION: DPIIT Startup Registration",
+        "content": "🚨 **TODAY'S MISSION**\n\nStartup Setup Checklist:\n\n- [ ] DPIIT Startup India portal (startupindia.gov.in) pe register karo.\n- [ ] 3-year Tax Exemption (Section 80-IAC) application eligibility check.\n- [ ] Founder Vesting Agreement sign karo (4-year vesting, 1-year cliff).\n- [ ] Separate Current Account & CA consultation setup.",
+        "imagePrompt": "Startup India certificate document with rocket badge",
+        "color": "#8B5CF6",
+        "emoji": "🎯",
+        "interactiveType": "mission_box"
+      }
+    ]
+  }
+]

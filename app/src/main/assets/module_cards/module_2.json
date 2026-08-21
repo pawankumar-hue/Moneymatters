@@ -1,0 +1,529 @@
+[
+  {
+    "id": "2-1",
+    "title": "Student Budget Step-by-Step — 5-Step Process",
+    "emoji": "📊",
+    "color": "#10B981",
+    "description": "Practical 5-step budgeting guide tailored for students and beginners with exact allocations.",
+    "cards": [
+      {
+        "id": "2-1-1",
+        "topicId": "2-1",
+        "topicTitle": "Student Budget Step-by-Step",
+        "cardIndex": 1,
+        "totalCardsInTopic": 5,
+        "title": "5-Step Practical Budgeting Process",
+        "content": "Budgeting theory mein aasan lagta hai, par practical kaise karein?\n\n**5 Steps Har Student Ke Liye:**\n\n1. **Calculate Income**: Pocket money ₹3,000 + Tuition ₹4,000 = Guaranteed ₹7,000.\n2. **List Fixed Expenses**: Rent ₹2,500 + Mess ₹2,000 + Recharge ₹299 + WiFi ₹500 = ₹5,498.\n3. **Estimate Variable Expenses**: Outside food ₹1,000 + Transport ₹500 + Outing ₹800 = ₹2,300.\n4. **Fix Savings (Pay Yourself First)**: Income ₹7,000 mein ₹5,498 fixed jaayega. Variable ko ₹1,000 pe lao aur **min ₹500 save karo**!\n5. **Review & Adjust**: Har Sunday 15 minute review karo.",
+        "color": "#10B981",
+        "emoji": "🪜",
+        "interactiveType": "none"
+      },
+      {
+        "id": "2-1-2",
+        "topicId": "2-1",
+        "topicTitle": "Student Budget Step-by-Step",
+        "cardIndex": 2,
+        "totalCardsInTopic": 5,
+        "title": "Template A: Survival Budget (₹5,000 Income)",
+        "content": "Look at the complete breakdown of a **₹5,000/month** survival budget:\n\n| Category | Amount (₹) | % of Income | Notes |\n|---|---|---|---|\n| **Saving** | ₹1,000 | 20% | Auto-debit into separate account |\n| **Rent/Hostel** | ₹1,500 | 30% | Double/triple sharing PG |\n| **Mess/Tiffin** | ₹1,200 | 24% | Basic 2 meals a day |\n| **Transport** | ₹300 | 6% | Bus/metro pass |\n| **Recharge** | ₹199 | 4% | Prepaid plan |\n| **Study** | ₹200 | 4% | Printouts & used books |\n| **Personal** | ₹401 | 8% | Strictly controlled |\n| **Emergency** | ₹200 | 4% | Small buffer |\n\n**Daily limit**: ~₹167/day. Keep ₹47/day buffer for emergency!",
+        "color": "#10B981",
+        "emoji": "🎯",
+        "interactiveType": "calculator",
+        "calcData": {
+          "calcType": "budget",
+          "formula": "none",
+          "inputs": [
+            {
+              "label": "Monthly Income",
+              "min": 1000,
+              "max": 50000,
+              "defaultValue": 5000,
+              "step": 500,
+              "unit": "₹"
+            }
+          ]
+        }
+      },
+      {
+        "id": "2-1-3",
+        "topicId": "2-1",
+        "topicTitle": "Student Budget Step-by-Step",
+        "cardIndex": 3,
+        "totalCardsInTopic": 5,
+        "title": "Template B: Comfortable Budget (₹15,000 Income)",
+        "content": "Working student ya higher stipend for **₹15,000/month**:\n\n| Category | Amount (₹) | % | Notes |\n|---|---|---|---|\n| **Saving** | ₹3,000 | 20% | ₹2,000 SIP + ₹1,000 Emergency |\n| **Rent** | ₹4,000 | 27% | 1RK or shared flat |\n| **Food** | ₹3,000 | 20% | Grocery + mess |\n| **Transport** | ₹1,000 | 7% | Metro + occasional cab |\n| **Skill/Edu** | ₹1,000 | 7% | Online courses & certs |\n| **Personal** | ₹1,500 | 10% | Outings & shopping |\n| **Insurance** | ₹300 | 2% | Basic health plan |\n| **Buffer** | ₹500 | 3% | Build up to ₹30,000 |\n\nEvery single rupee has an assigned task!",
+        "color": "#10B981",
+        "emoji": "💼",
+        "interactiveType": "calculator",
+        "calcData": {
+          "calcType": "budget",
+          "formula": "none",
+          "inputs": [
+            {
+              "label": "Monthly Stipend/Salary (₹)",
+              "min": 5000,
+              "max": 50000,
+              "defaultValue": 15000,
+              "step": 1000,
+              "unit": "₹"
+            }
+          ]
+        }
+      },
+      {
+        "id": "2-1-4",
+        "topicId": "2-1",
+        "topicTitle": "Student Budget Step-by-Step",
+        "cardIndex": 4,
+        "totalCardsInTopic": 5,
+        "title": "Template C: Tightest Budget (₹3,000 Income)",
+        "content": "Dropper student budget for **₹3,000/month**:\n\n- **Saving (10%)**: ₹300 (Habit building!)\n- **Room Rent (share)**: ₹1,000 (3-way PG share)\n- **Food**: ₹1,000 (Mess or self-cooking)\n- **Transport**: ₹200 (Walking + bus)\n- **Study**: ₹300 (Used books & free YouTube/NPTEL)\n- **Phone**: ₹149 (Basic plan)\n- **Buffer**: ₹51\n\nTight budget hai, par zero-based rule se possible hai!",
+        "color": "#10B981",
+        "emoji": "📉",
+        "interactiveType": "choice_sim",
+        "choiceData": {
+          "scenario": "₹3,000 tight income par, kya savings skip karna sahi hai?",
+          "choices": [
+            {
+              "text": "Haan, ₹3,000 kam hai to zero save karo.",
+              "isCorrect": false,
+              "consequence": "Galat! Savings habit amount se nahi, mindset se shuru hoti hai. ₹300 save karo!"
+            },
+            {
+              "text": "Nahi, min ₹300 save karo habit ke liye!",
+              "isCorrect": true,
+              "consequence": "Sahi! ₹300/mo habit lock karta hai jo salary badhne par scale hota hai."
+            }
+          ]
+        }
+      },
+      {
+        "id": "2-1-5",
+        "topicId": "2-1",
+        "topicTitle": "Student Budget Step-by-Step",
+        "cardIndex": 5,
+        "totalCardsInTopic": 5,
+        "title": "🚨 MISSION: Create Your 5-Step Budget",
+        "content": "🚨 **TODAY'S MISSION**\n\n- [ ] Guaranteed income calculate karo.\n- [ ] Fixed expenses minus karo.\n- [ ] Variable expenses ko 30% limits pe cap karo.\n- [ ] Minimum 20% savings auto-debit set karo.\n- [ ] Sunday calendar reminder set karo (15 min budget check).\n\n**Goal**: Living document budget banao, strictly follow karo!",
+        "color": "#10B981",
+        "emoji": "🚀"
+      }
+    ]
+  },
+  {
+    "id": "2-2",
+    "title": "Expense Tracking — Measure & Improve",
+    "emoji": "📝",
+    "color": "#3B82F6",
+    "description": "What isn't measured isn't improved. Learn 3 tracking methods.",
+    "cards": [
+      {
+        "id": "2-2-1",
+        "topicId": "2-2",
+        "topicTitle": "Expense Tracking",
+        "cardIndex": 1,
+        "totalCardsInTopic": 4,
+        "title": "\"What Isn't Measured Isn't Improved\"",
+        "content": "Agar pata hi nahi paisa kahan ja raha hai, toh control kaise karoge?\n\n**Expense Tracking Ke 3 Faayde:**\n1. **Patterns samjho** — \"Hey, ₹1,500/month sirf chai pe!\"\n2. **Invisible leaks pakdo** — Unnecessary impulse purchases.\n3. **Better budget banao** — Next month ke real data se update karo.",
+        "color": "#3B82F6",
+        "emoji": "🔍",
+        "interactiveType": "none"
+      },
+      {
+        "id": "2-2-2",
+        "topicId": "2-2",
+        "topicTitle": "Expense Tracking",
+        "cardIndex": 2,
+        "totalCardsInTopic": 4,
+        "title": "3 Main Tracking Methods",
+        "content": "**1. Notebook Method** — Old school simple method. Date, item, amount, Need/Want column write down.\n\n**2. App Method (axio/Walnut & Goodbudget)** — SMS auto-read tracking for lazy people.\n\n**3. UPI Statement Analysis** — Google Pay / PhonePe CSV export karke Excel pivot table banao.\n\n**Recommendation**: Weekly tracking + monthly analysis. Every Sunday 15 minutes!",
+        "color": "#3B82F6",
+        "emoji": "📱",
+        "interactiveType": "none"
+      },
+      {
+        "id": "2-2-3",
+        "topicId": "2-2",
+        "topicTitle": "Expense Tracking",
+        "cardIndex": 3,
+        "totalCardsInTopic": 4,
+        "title": "Sample Weekly Expense Tracker",
+        "content": "| Category | W1 | W2 | W3 | W4 | Total | Limit | Status |\n|---|---|---|---|---|---|---|---|\n| **Food** | ₹800 | ₹750 | ₹900 | ₹850 | ₹3,300 | ₹3,000 | ⚠️ Over |\n| **Transport** | ₹200 | ₹250 | ₹200 | ₹300 | ₹950 | ₹1,000 | ✅ OK |\n| **Outings** | ₹400 | ₹100 | ₹500 | ₹200 | ₹1,200 | ₹1,000 | ⚠️ Over |\n| **Personal** | ₹300 | ₹200 | ₹150 | ₹100 | ₹750 | ₹800 | ✅ OK |\n\nWeek 3 mein leak pakda gaya — next week adjust karo!",
+        "color": "#3B82F6",
+        "emoji": "📊",
+        "interactiveType": "calculator",
+        "calcData": {
+          "calcType": "budget",
+          "formula": "none",
+          "inputs": [
+            {
+              "label": "Weekly Food Limit (₹)",
+              "min": 500,
+              "max": 5000,
+              "defaultValue": 750,
+              "step": 100,
+              "unit": "₹"
+            }
+          ]
+        }
+      },
+      {
+        "id": "2-2-4",
+        "topicId": "2-2",
+        "topicTitle": "Expense Tracking",
+        "cardIndex": 4,
+        "totalCardsInTopic": 4,
+        "title": "🚨 MISSION: Track 5 Transactions",
+        "content": "🚨 **TODAY'S MISSION**\n\n- [ ] GPay/PhonePe payment history kholo.\n- [ ] Last 5 transactions list karo.\n- [ ] Column banao: Need vs Want.\n- [ ] Weekly review calendar alarm set karo.\n\n**Pro Tip**: Invisible leaks stop hone se hi month end savings badhti hai!",
+        "color": "#3B82F6",
+        "emoji": "🎯"
+      }
+    ]
+  },
+  {
+    "id": "2-3",
+    "title": "Needs vs Wants Deep Dive",
+    "emoji": "🤔",
+    "color": "#8B5CF6",
+    "description": "30 real student scenarios and the 48-hour rule decision tree.",
+    "cards": [
+      {
+        "id": "2-3-1",
+        "topicId": "2-3",
+        "topicTitle": "Needs vs Wants Deep Dive",
+        "cardIndex": 1,
+        "totalCardsInTopic": 4,
+        "title": "30 Real Student Scenarios Breakdown",
+        "content": "| Item | Type | Reasoning |\n|---|---|---|\n| **Tuition Fees** | NEED | Education non-negotiable |\n| **Branded Backpack** | WANT | Normal bag works |\n| **Netflix Sub** | WANT | YouTube free hai |\n| **Doctor Visit** | NEED | Health first |\n| **Gaming Laptop** | WANT | Normal laptop coding ke liye kaafi |\n| **Daily Starbucks** | WANT | ₹300/day = ₹9,000/month! |\n| **PG Rent** | NEED | Basic shelter |\n| **Single Room** | WANT | Sharing PG is cheaper |",
+        "color": "#8B5CF6",
+        "emoji": "⚖️",
+        "interactiveType": "none"
+      },
+      {
+        "id": "2-3-2",
+        "topicId": "2-3",
+        "topicTitle": "Needs vs Wants Deep Dive",
+        "cardIndex": 2,
+        "totalCardsInTopic": 4,
+        "title": "The 5 Gray Areas (Context Matters)",
+        "content": "Context shift se Need vs Want badal jaata hai:\n\n- **Laptop**: CS student ke liye NEED, Lit student ke liye WANT.\n- **Gym**: Medical recommendation pe NEED, six-pack abs ke liye WANT.\n- **Smartphone**: Basic phone NEED, iPhone 16 WANT (unless photography professional).\n- **5G Data**: Basic 1GB/day NEED, Unlimited 5G WANT.",
+        "color": "#8B5CF6",
+        "emoji": "🔄",
+        "interactiveType": "choice_sim",
+        "choiceData": {
+          "scenario": "Tum CS student ho aur tumhare coding assignment ke liye laptop slow chal raha hai. Naya gaming laptop loge ya normal coding laptop?",
+          "choices": [
+            {
+              "text": "Gaming laptop ₹1.2 Lakh pe EMI lo!",
+              "isCorrect": false,
+              "consequence": "Trap! Coding ke liye normal ₹40k laptop kaafi hai. Extra ₹80k debt waste hai."
+            },
+            {
+              "text": "Normal coding laptop ₹40k me lo.",
+              "isCorrect": true,
+              "consequence": "Smart! Need fulfill ho gayi without unnecessary want debt."
+            }
+          ]
+        }
+      },
+      {
+        "id": "2-3-3",
+        "topicId": "2-3",
+        "topicTitle": "Needs vs Wants Deep Dive",
+        "cardIndex": 3,
+        "totalCardsInTopic": 4,
+        "title": "The Decision Tree & 48-Hour Rule",
+        "content": "**48-Hour Rule on Wants:**\nKuch bhi impulsive kharidne se pehle 48 ghante wait karo. 90% times khareedne ka mann khatam ho jaata hai!\n\n```\nExpense → Need? \n  ↓ YES → Cheaper option search karo\n  ↓ NO (WANT) → 48-Hour Rule lagao\n```",
+        "color": "#8B5CF6",
+        "emoji": "⏳",
+        "interactiveType": "choice_sim",
+        "choiceData": {
+          "scenario": "Wishlist item ₹3,500 ka hai. Sale end hone mein 2 ghante bache hain. Kya karoge?",
+          "choices": [
+            {
+              "text": "Turant khareed lo!",
+              "isCorrect": false,
+              "consequence": "Impulse trap! 90% cheezein sale ke baad yaad bhi nahi rehti."
+            },
+            {
+              "text": "48-Hour Rule lagao aur cart me chhodo.",
+              "isCorrect": true,
+              "consequence": "Smart! 48 ghante baad real need nahi lagne par ₹3,500 bach jayenge."
+            }
+          ]
+        }
+      },
+      {
+        "id": "2-3-4",
+        "topicId": "2-3",
+        "topicTitle": "Needs vs Wants Deep Dive",
+        "cardIndex": 4,
+        "totalCardsInTopic": 4,
+        "title": "🚨 MISSION: Apply 48-Hour Rule",
+        "content": "🚨 **TODAY'S MISSION**\n\n- [ ] Apni Amazon/Flipkart wishlist check karo.\n- [ ] Har item pe 3-question test lagao.\n- [ ] Wants wale items ko delete ya 48-hour delay tag do.\n\n**Result**: Instant impulse saving!",
+        "color": "#8B5CF6",
+        "emoji": "🛡️"
+      }
+    ]
+  },
+  {
+    "id": "2-4",
+    "title": "Common Budget Mistakes & Solutions",
+    "emoji": "⚠️",
+    "color": "#EF4444",
+    "description": "15 detailed student budget mistakes with actionable solutions.",
+    "cards": [
+      {
+        "id": "2-4-1",
+        "topicId": "2-4",
+        "topicTitle": "Common Budget Mistakes",
+        "cardIndex": 1,
+        "totalCardsInTopic": 5,
+        "title": "Top Mistakes: Invisible Leaks & Sales Trap",
+        "content": "**Mistake 1**: Spend first then see what is left → Solution: Pay yourself first!\n**Mistake 2**: Ignoring small expenses → ₹50 chai × 30 days = ₹1,500/month!\n**Mistake 3**: Sale 70% off trap → Need nahi tha toh ₹0 savings, 100% loss!",
+        "color": "#EF4444",
+        "emoji": "💸",
+        "interactiveType": "calculator",
+        "calcData": {
+          "calcType": "inflation",
+          "formula": "none",
+          "inputs": [
+            {
+              "label": "Daily Tea/Snack Leak (₹)",
+              "min": 10,
+              "max": 500,
+              "defaultValue": 50,
+              "step": 10,
+              "unit": "₹"
+            }
+          ]
+        }
+      },
+      {
+        "id": "2-4-2",
+        "topicId": "2-4",
+        "topicTitle": "Common Budget Mistakes",
+        "cardIndex": 2,
+        "totalCardsInTopic": 5,
+        "title": "Credit Card & EMI Debt Trap",
+        "content": "**Mistake 4: Credit Card as Free Money**\n36-48% annual interest! Minimum ₹500 pay karke bakaya ₹9,500 pe monthly interest lagta rehta hai.\n\n**Solution**: Credit card tabhi use karo jab full bill pay kar sako. Setup auto-debit full payment!",
+        "color": "#EF4444",
+        "emoji": "💳",
+        "interactiveType": "choice_sim",
+        "choiceData": {
+          "scenario": "Credit card bill ₹10,000 aaya hai. Minimum due ₹500 hai. Kya karoge?",
+          "choices": [
+            {
+              "text": "₹500 pay kar deta hoon!",
+              "isCorrect": false,
+              "consequence": "Trap! Bakaya ₹9,500 pe 42% interest laginga. Infinite debt spiral."
+            },
+            {
+              "text": "Poora ₹10,000 pay karunga.",
+              "isCorrect": true,
+              "consequence": "Smart! Zero interest, max credit score benefit."
+            }
+          ]
+        }
+      },
+      {
+        "id": "2-4-3",
+        "topicId": "2-4",
+        "topicTitle": "Common Budget Mistakes",
+        "cardIndex": 3,
+        "totalCardsInTopic": 5,
+        "title": "Subscription Leaks & Peer Pressure",
+        "content": "**Mistake 5: Unused Subscriptions**\n₹249 × 4 apps = ₹996/month ≈ ₹12,000/year invisible leak!\n\n**Mistake 6: Peer Pressure Outings**\nFix monthly outing budget (e.g. ₹1,000 max). Tell friends your limit plainly.",
+        "color": "#EF4444",
+        "emoji": "📺",
+        "interactiveType": "calculator",
+        "calcData": {
+          "calcType": "compounding",
+          "formula": "none",
+          "inputs": [
+            {
+              "label": "Monthly Subscriptions (₹)",
+              "min": 199,
+              "max": 3000,
+              "defaultValue": 996,
+              "step": 100,
+              "unit": "₹"
+            }
+          ]
+        }
+      },
+      {
+        "id": "2-4-4",
+        "topicId": "2-4",
+        "topicTitle": "Common Budget Mistakes",
+        "cardIndex": 4,
+        "totalCardsInTopic": 5,
+        "title": "Rent Overpaying & Skipping Insurance",
+        "content": "**Mistake 7: Single PG Rent**\nSingle room ₹8,000 vs Shared ₹3,000 = ₹60,000/year savings loss!\n\n**Mistake 8: Skipping Health Insurance**\n1 Dengue emergency = ₹1.5 lakh bill! Health insurance ₹500/month gives peace of mind.",
+        "color": "#EF4444",
+        "emoji": "🏥",
+        "interactiveType": "none"
+      },
+      {
+        "id": "2-4-5",
+        "topicId": "2-4",
+        "topicTitle": "Common Budget Mistakes",
+        "cardIndex": 5,
+        "totalCardsInTopic": 5,
+        "title": "🚨 MISSION: Audit Unused Subscriptions",
+        "content": "🚨 **TODAY'S MISSION**\n\n- [ ] Bank statement se auto-debit subscriptions check karo.\n- [ ] Unused apps (Netflix, Prime, Spotify) cancel karo.\n- [ ] Monthly entertainment cap set karo.\n\n**Savings**: Instant ₹500-1,000/month saved!",
+        "color": "#EF4444",
+        "emoji": "✂️"
+      }
+    ]
+  },
+  {
+    "id": "2-5",
+    "title": "Ready-Made Budget Templates",
+    "emoji": "📋",
+    "color": "#06B6D4",
+    "description": "5 complete ready-to-use budget templates for every income level.",
+    "cards": [
+      {
+        "id": "2-5-1",
+        "topicId": "2-5",
+        "topicTitle": "Ready-Made Budget Templates",
+        "cardIndex": 1,
+        "totalCardsInTopic": 4,
+        "title": "Templates for ₹3k & ₹5k Income",
+        "content": "**₹3,000 Income (School/Dropper)**:\n- Savings: ₹300 (10%)\n- Rent: ₹1,000 | Food: ₹1,000 | Study: ₹300 | Phone: ₹149\n\n**₹5,000 Income (Part-Time)**:\n- Savings: ₹1,000 (20%)\n- Rent: ₹1,500 | Food: ₹1,200 | Transport: ₹300 | Personal: ₹401",
+        "color": "#06B6D4",
+        "emoji": "📌",
+        "interactiveType": "none"
+      },
+      {
+        "id": "2-5-2",
+        "topicId": "2-5",
+        "topicTitle": "Ready-Made Budget Templates",
+        "cardIndex": 2,
+        "totalCardsInTopic": 4,
+        "title": "Templates for ₹10k & ₹20k Income",
+        "content": "**₹10,000 Income (Freelancer)**:\n- Savings: ₹2,000 (SIP + Emergency)\n- Rent: ₹3,000 | Food: ₹2,500 | Skill: ₹500 | Outing: ₹700\n\n**₹20,000 Income (Working Student)**:\n- Savings: ₹4,000 (SIP + PPF)\n- Rent: ₹5,000 | Food: ₹4,000 | Transport: ₹1,500 | Insurance: ₹500",
+        "color": "#06B6D4",
+        "emoji": "📊",
+        "interactiveType": "none"
+      },
+      {
+        "id": "2-5-3",
+        "topicId": "2-5",
+        "topicTitle": "Ready-Made Budget Templates",
+        "cardIndex": 3,
+        "totalCardsInTopic": 4,
+        "title": "Template for ₹35k Salary Fresher",
+        "content": "**₹35,000 Income (Fresher Salary)**:\n- **Savings**: ₹7,000 (20%)\n- **Rent**: ₹7,000 | **Food**: ₹5,000\n- **Parents Support**: ₹5,000\n- **Transport**: ₹2,000 | **Edu**: ₹2,000 | **Outings**: ₹3,000",
+        "color": "#06B6D4",
+        "emoji": "🎓",
+        "interactiveType": "calculator",
+        "calcData": {
+          "calcType": "budget",
+          "formula": "none",
+          "inputs": [
+            {
+              "label": "Fresher Salary (₹)",
+              "min": 15000,
+              "max": 100000,
+              "defaultValue": 35000,
+              "step": 2500,
+              "unit": "₹"
+            }
+          ]
+        }
+      },
+      {
+        "id": "2-5-4",
+        "topicId": "2-5",
+        "topicTitle": "Ready-Made Budget Templates",
+        "cardIndex": 4,
+        "totalCardsInTopic": 4,
+        "title": "🚨 MISSION: Pick Your Template",
+        "content": "🚨 **TODAY'S MISSION**\n\n- [ ] Template 1-5 mein se apna bracket pick karo.\n- [ ] Category values adjust karo.\n- [ ] Savings percentage locked set karo.\n\n**Action**: Budget start today!",
+        "color": "#06B6D4",
+        "emoji": "🎯"
+      }
+    ]
+  },
+  {
+    "id": "2-6",
+    "title": "Irregular Income & Buffer System",
+    "emoji": "🏦",
+    "color": "#F59E0B",
+    "description": "Freelancer's buffer month strategy and joint family dynamics.",
+    "cards": [
+      {
+        "id": "2-6-1",
+        "topicId": "2-6",
+        "topicTitle": "Irregular Income & Buffer System",
+        "cardIndex": 1,
+        "totalCardsInTopic": 4,
+        "title": "Freelancer's Buffer Month System",
+        "content": "Freelancer ki income predictable nahi hoti — kabhi ₹30,000, kabhi ₹0.\n\n**Buffer System Rules:**\n1. Baseline budget minimum guaranteed income pe banao (e.g. ₹8,000).\n2. Ache mahine ka extra (e.g. ₹30k aaya -> ₹22k extra) **Buffer Account** mein daalo.\n3. Bad month (₹0 income) pe buffer account se baseline release karo.",
+        "color": "#F59E0B",
+        "emoji": "🌊",
+        "interactiveType": "calculator",
+        "calcData": {
+          "calcType": "budget",
+          "formula": "none",
+          "inputs": [
+            {
+              "label": "Good Month Income (₹)",
+              "min": 10000,
+              "max": 100000,
+              "defaultValue": 30000,
+              "step": 2500,
+              "unit": "₹"
+            }
+          ]
+        }
+      },
+      {
+        "id": "2-6-2",
+        "topicId": "2-6",
+        "topicTitle": "Irregular Income & Buffer System",
+        "cardIndex": 2,
+        "totalCardsInTopic": 4,
+        "title": "3 Golden Rules for Freelancers",
+        "content": "1. **2-3 Income Streams Maintain Karo**: Coding + Tutoring + Writing.\n2. **Good Month Extra Save 50%**: Overspend mat karo!\n3. **Fixed Expenses Minimal Rakhna**: Rent/Food baseline low rakho.",
+        "color": "#F59E0B",
+        "emoji": "🏆",
+        "interactiveType": "quiz",
+        "quizData": {
+          "question": "Ache mahine mein ₹35,000 aaya jabki baseline ₹10,000 hai. Extra ₹25,000 ka kya karoge?",
+          "options": [
+            "Party aur shopping!",
+            "Buffer account mein save karo."
+          ],
+          "correctAnswerIndex": 1,
+          "explanation": "Extra buffer account mein daalne se ₹0 waale mahine aasaani se nikal jaate hain!"
+        }
+      },
+      {
+        "id": "2-6-3",
+        "topicId": "2-6",
+        "topicTitle": "Irregular Income & Buffer System",
+        "cardIndex": 3,
+        "totalCardsInTopic": 4,
+        "title": "Joint Family Budgeting Dynamics",
+        "content": "Ghar pe rehne par rent nahi hota par parents ko contribution dena zaroori hai.\n\n**Best Approach**: Income ka 20-30% parents ko household contribution do. Clear communication shows financial maturity!",
+        "color": "#F59E0B",
+        "emoji": "🏡",
+        "interactiveType": "none"
+      },
+      {
+        "id": "2-6-4",
+        "topicId": "2-6",
+        "topicTitle": "Irregular Income & Buffer System",
+        "cardIndex": 4,
+        "totalCardsInTopic": 4,
+        "title": "🚨 MISSION: Build Buffer Vault",
+        "content": "🚨 **TODAY'S MISSION — Module 2 Finish!**\n\n- [ ] Buffer account open karo.\n- [ ] Baseline minimum expense figure lock karo.\n- [ ] Module 2 completion quiz try karo!\n\n**Aage Ka Safar**: Budget ready hai, ab Module 3 mein Saving & Investing Ninja Techniques seekhenge! 🚀",
+        "color": "#F59E0B",
+        "emoji": "🚀"
+      }
+    ]
+  }
+]

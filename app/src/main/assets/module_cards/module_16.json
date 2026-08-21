@@ -1,0 +1,79 @@
+[
+  {
+    "id": "16-1",
+    "title": "First Job, CTC Breakdown & Corporate Benefits 💼",
+    "emoji": "💼",
+    "color": "#3B82F6",
+    "description": "CTC vs In-Hand Salary, Basic, HRA, PF, Gratuity, Special Allowance, and Corporate Health Cover.",
+    "cards": [
+      {
+        "id": "16-1-1",
+        "topicId": "16-1",
+        "topicTitle": "First Job CTC",
+        "cardIndex": 1,
+        "totalCardsInTopic": 3,
+        "title": "CTC vs In-Hand Salary 📉",
+        "content": "CTC (Cost to Company) ₹10 LPA hai toh bank mein ₹83,333 aayega? NO!\n\n**Deductions**: Employee PF (12%), Professional Tax (₹200), Income Tax (TDS), Employer PF part, Medical Insurance deduction.\n\nActual In-Hand is usually 70-80% of CTC!",
+        "imagePrompt": "Salary slip graphic with pie slice highlighting take home cash",
+        "color": "#3B82F6",
+        "emoji": "📉",
+        "interactiveType": "calculator",
+        "calcData": {
+          "calcType": "tax",
+          "formula": "none",
+          "inputs": [
+            {
+              "label": "Annual CTC (Lakhs)",
+              "min": 300000,
+              "max": 3000000,
+              "defaultValue": 800000,
+              "step": 50000,
+              "unit": "₹"
+            }
+          ]
+        }
+      },
+      {
+        "id": "16-1-2",
+        "topicId": "16-1",
+        "topicTitle": "First Job CTC",
+        "cardIndex": 2,
+        "totalCardsInTopic": 3,
+        "title": "EPF (Employee Provident Fund) 🏦",
+        "content": "EPF is mandatory saving: **12% Basic Pay by employee + 12% by employer**.\n\nCurrent EPF interest rate: ~8.25% p.a. (Government guaranteed, EEE tax benefit under Old/New regime).",
+        "imagePrompt": "Piggy bank wearing corporate tie with gold coins",
+        "color": "#3B82F6",
+        "emoji": "🏦",
+        "interactiveType": "choice_sim",
+        "choiceData": {
+          "scenario": "VPF (Voluntary Provident Fund) mein extra 10% opt-in karein?",
+          "choices": [
+            {
+              "text": "Nahi, saara liquidity in-hand cash mein chahiye",
+              "isCorrect": false,
+              "consequence": "Missed Tax-Free 8.25% guaranteed compound growth."
+            },
+            {
+              "text": "Haan, 8.25% guaranteed tax-free return build karein",
+              "isCorrect": true,
+              "consequence": "Smart! Long-term risk-free debt portfolio foundation set."
+            }
+          ]
+        }
+      },
+      {
+        "id": "16-1-3",
+        "topicId": "16-1",
+        "topicTitle": "First Job CTC",
+        "cardIndex": 3,
+        "totalCardsInTopic": 3,
+        "title": "🚨 MISSION: Salary Slip Audit",
+        "content": "🚨 **TODAY'S MISSION**\n\nFirst Salary Slip Audit:\n\n- [ ] Basic Pay identify karo (usually 40-50% of CTC).\n- [ ] HRA claim calculation check (Rent receipt submission).\n- [ ] UAN number & EPF portal login activate karo.\n- [ ] Corporate Group Health Insurance dependents verify karo.",
+        "imagePrompt": "Corporate badge and paycheck with green verified seal",
+        "color": "#3B82F6",
+        "emoji": "🎯",
+        "interactiveType": "mission_box"
+      }
+    ]
+  }
+]

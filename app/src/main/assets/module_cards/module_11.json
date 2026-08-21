@@ -1,0 +1,359 @@
+[
+  {
+    "id": "11-1",
+    "title": "Real World: Case Studies 📋",
+    "emoji": "📋",
+    "color": "#8B5CF6",
+    "description": "Theory toh seekh li, ab dekho real life mein log kaise plan karte hain.",
+    "cards": [
+      {
+        "id": "11-1-1",
+        "topicId": "11-1",
+        "topicTitle": "Real World: Case Studies",
+        "cardIndex": 1,
+        "totalCardsInTopic": 3,
+        "title": "Fresher Ka First Budget 💸",
+        "content": "Miliye **Aman** se, jiski pehli job lag gayi hai at `₹25,000/month`.\n\nWoh confused hai ki kahan se shuru kare. Bhaiya ne usse yeh plan diya:\n\n| Category | Amount | % |\n| :--- | :--- | :--- |\n| **Needs (Rent/Food)** | ₹13,000 | 52% |\n| **Wants (Fun/Shopping)** | ₹5,000 | 20% |\n| **Savings (EF + SIP)** | ₹6,000 | 24% |\n| **Tax/Misc** | ₹1,000 | 4% |\n\n**Strategy**: ₹3,000 SIP mein — ₹2,000 Nifty 50 Index Fund + ₹1,000 ELSS (tax saver). Emergency fund 6 months = ₹78,000 target. Health insurance lo (₹500-₹700/month). Term plan bhi consider karo agar parents depend hain. 80C mein ₹1.5 lakh target: ₹12,000 ELSS + ₹12,000 PPF = ₹24,000/year. Gradually increase.",
+        "imagePrompt": "Young Indian professional Aman looking at his first salary slip, excited but confused, modern apartment background, vibrant purple theme",
+        "color": "#8B5CF6",
+        "emoji": "💼",
+        "interactiveType": "calculator",
+        "calcData": {
+          "calcType": "budget",
+          "formula": "none",
+          "inputs": [
+            {
+              "label": "Monthly Salary",
+              "min": 10000,
+              "max": 100000,
+              "defaultValue": 25000,
+              "step": 5000,
+              "unit": "₹"
+            }
+          ]
+        }
+      },
+      {
+        "id": "11-1-2",
+        "topicId": "11-1",
+        "topicTitle": "Real World: Case Studies",
+        "cardIndex": 2,
+        "totalCardsInTopic": 3,
+        "title": "Student Side-Hustle Plan 🎓",
+        "content": "**Priya** college student hai, pocket money + freelancing se `₹8,000` kamati hai.\n\nUska goal hai 1 saal mein naya Laptop lena (`₹50,000`).\n\n**Priya**: Bhaiya, ₹8k mein laptop kaise aayega?\n\n**Bhaiya**: Dekho, ₹3k needs, ₹2k fun, aur ₹3k save karo.\n\n**Priya**: Sirf ₹3k se 1 saal mein ho jayega?\n\n**Bhaiya**: ₹3k * 12 = ₹36k savings. Baki ₹14k freelancing ke bonus projects se target karo!\n\n**Strategy**: \n- ₹3k SIP/month × 12 = ₹36,000\n- Bonus freelance projects ₹1,200/month × 12 = ₹14,400\n- Total: ₹50,400 — Laptop funded!",
+        "imagePrompt": "Student Priya working on her laptop in a hostel room, saving for her dreams, warm purple tones, educational style",
+        "color": "#8B5CF6",
+        "emoji": "🎓",
+        "interactiveType": "choice_sim",
+        "choiceData": {
+          "scenario": "Priya target: 1 saal mein ₹50k laptop fund. Best strategy?",
+          "choices": [
+            {
+              "text": "Spend ₹8k full income, expect last month miracle",
+              "isCorrect": false,
+              "consequence": "Galat! Goal fail ho jayega."
+            },
+            {
+              "text": "₹3k SIP + ₹1.2k bonus freelance projects monthly",
+              "isCorrect": true,
+              "consequence": "Sahi path! 12 months mein ₹50,400 fund ready for laptop without loan."
+            }
+          ]
+        }
+      },
+      {
+        "id": "11-1-3",
+        "topicId": "11-1",
+        "topicTitle": "Real World: Case Studies",
+        "cardIndex": 3,
+        "totalCardsInTopic": 3,
+        "title": "🚨 MISSION: My First Plan",
+        "content": "🚨 **TODAY'S MISSION**\n\nAman ya Priya ki tarah apna ek hypothetical plan banao.\n\n- [ ] Apni expected first salary decide karo.\n- [ ] 50/30/20 rule apply karke dekho.\n- [ ] Ek 'Big Goal' (Laptop/Trip) select karo.\n- [ ] Savings rate calculate karo.\n\n**4 Complete Case Studies Summary:**\n\n| Case | Income | Savings | Strategy |\n| :--- | :--- | :--- | :--- |\n| **College Student** | ₹5,000 | 6% (₹300) | Pehle emergency fund, phir SIP |\n| **Working Student** | ₹15,000 | 27% (₹4,000) | EF + SIP + PPF |\n| **Fresher** | ₹25,000 | 28% (₹7,000) | Diversified portfolio |\n| **3-Yr Experienced** | ₹50,000 | 35% (₹17,500) | SIP + PPF + NPS + Insurance |\n\n**Real Example: 3-Year Experienced Professional (₹50,000/month)**\n\n| Category | Amount | % |\n| :--- | :--- | :--- |\n| **Needs (Family + Rent)** | ₹25,000 | 50% |\n| **Wants (Travel/Shopping)** | ₹7,500 | 15% |\n| **Emergency Fund (Maintain)** | ₹2,500 | 5% |\n| **SIP (Diversified)** | ₹10,000 | 20% |\n| **PPF + NPS** | ₹3,000 | 6% |\n| **Health + Term Insurance** | ₹2,000 | 4% |\n\nStrategy: ₹10,000 SIP split — ₹5,000 Nifty 50 Index, ₹2,500 Midcap, ₹2,500 ELSS. By 30: ₹15-20 lakh if consistent. By 40: ₹75 lakh+ = FIRE possible!",
+        "imagePrompt": "Checklist of financial goals for students, modern infographic, purple and gold theme",
+        "color": "#8B5CF6",
+        "emoji": "🎯",
+        "interactiveType": "mission_box"
+      }
+    ]
+  },
+  {
+    "id": "11-2",
+    "title": "\"What If\" Scenarios — Emergency Handling",
+    "emoji": "🆘",
+    "color": "#EF4444",
+    "description": "Life linear nahi hoti. 5 'what if' scenarios aur unka financial response.",
+    "cards": [
+      {
+        "id": "11-2-1",
+        "topicId": "11-2",
+        "topicTitle": "What If Scenarios",
+        "cardIndex": 1,
+        "totalCardsInTopic": 2,
+        "title": "5 Emergency Scenarios + Response",
+        "content": "Life linear nahi hoti. Yeh 5 \"what if\" scenarios aur unka financial response:\n\n**1. Job Loss:**\n- Emergency fund use karo (3-6 months survive ho jayega)\n- UPI statement audit karo — subscriptions cancel karo\n- Side income search karo (freelancing, tutoring)\n- New job ke liye aggressively apply karo\n- EMI ho toh bank se moratorium mango\n- Credit card bill full pay karo minimum nahi\n- Social media pe network karo — referrals se job milte hain\n\n**2. Medical Emergency:**\n- Health insurance cashless use karo\n- Emergency fund se bridge karo (deductible/co-pay)\n- Government hospital option explore karo (affordable)\n- Mediclaim reimbursement file karo within 30 days\n- Family ko inform karo — emotional + financial support\n- Second opinion lo — unnecessary surgery se bacho\n\n**3. Pandemic/Lockdown:**\n- Emergency fund + savings pe chalo\n- Non-essential expenses zero karo\n- Work from home opportunities dhundho\n- Skill upgrade karo (free courses — Coursera, NPTEL)\n- SIP pause karo temporarily (but mat redeem karo)\n- Government relief schemes check karo\n\n**4. Inflation Spike:**\n- SIP continue karo — market mein dip = discount buy karne ka mauka!\n- FD rates badhenge — renewed FD pe zyada milega\n- Expenses adjust karo — inflation zyada hota hai khane pe\n- Side income badhao — passive income inflation-proof hoti hai\n- Avoid new debt — high inflation + high interest = double hit\n\n**5. Sudden Big Expense:**\n- Emergency fund se repair karo\n- Insurance claim file karo (comprehensive ho toh)\n- Loan against FD lo (1-2% above FD rate, instant)\n- Personal loan last resort — 14-24% interest expensive\n- Family se interest-free loan (formal agreement likh ke)\n- EMI option avoid karo agar possible ho — total cost zyada",
+        "imagePrompt": "Five emergency scenario icons with response plan, red theme, crisis management illustration",
+        "color": "#EF4444",
+        "emoji": "🆘"
+      },
+      {
+        "id": "11-2-2",
+        "topicId": "11-2",
+        "topicTitle": "What If Scenarios",
+        "cardIndex": 2,
+        "totalCardsInTopic": 2,
+        "title": "Emergency Preparedness + Mission",
+        "content": "**Emergency Preparedness Checklist:**\n\n✅ **3-6 months emergency fund** — ready\n✅ **Health insurance** — cashless network hospitals identified\n✅ **Term plan** (agar dependents hain) — family protected\n✅ **Vehicle insurance** — comprehensive\n✅ **SIP running** — wealth building continues\n✅ **Side income source** — backup ready\n✅ **Skills updated** — employable in crisis\n✅ **Network active** — LinkedIn, professional contacts\n\n**Crisis Action Plan Template:**\n\n| Emergency Type | First Action | Second Action | Backup Plan |\n| :--- | :--- | :--- | :--- |\n| Job Loss | Emergency fund use | Side income search | Bank moratorium |\n| Medical | Insurance cashless | Emergency fund bridge | Government hospital |\n| Pandemic | Cut non-essential | WFH search | Government schemes |\n| Inflation | Continue SIP | Adjust expenses | Side income |\n| Big Expense | Emergency fund | Insurance claim | Loan against FD |\n\n**🚨 MISSION: Emergency Plan**\n\n- [ ] Apna emergency fund status check karo (target 3-6 months expenses)\n- [ ] Health insurance active hai? Cashless network hospitals list karo\n- [ ] Term plan (agar dependents hain) — premium paid?\n- [ ] Vehicle insurance current hai?\n- [ ] 2 side income ideas identify karo (skills based)\n- [ ] \"Crisis contact list\" banao — family, friends, financial advisor, bank helpline\n- [ ] Important documents ka backup (cloud + physical)\n\n**Rule**: Emergency kabhi nahi aayegi — yeh soch ke mat baitho. 90% logon ki life mein kisi na kisi emergency aati hai. Prepared raho, panic nahi.",
+        "imagePrompt": "Emergency preparedness checklist with shield icon, red and gold theme, crisis readiness illustration",
+        "color": "#EF4444",
+        "emoji": "🎯"
+      }
+    ]
+  },
+  {
+    "id": "11-3",
+    "title": "Financial Checklist by Life Stage",
+    "emoji": "📅",
+    "color": "#06B6D4",
+    "description": "Har age pe kuch financial milestones hone chahiye. 18 se 60 tak checklist.",
+    "cards": [
+      {
+        "id": "11-3-1",
+        "topicId": "11-3",
+        "topicTitle": "Life Stage Checklist",
+        "cardIndex": 1,
+        "totalCardsInTopic": 2,
+        "title": "Age 18-35 Financial Milestones",
+        "content": "Har age pe kuch financial milestones hone chahiye. Yeh checklist tumhe track rakhne mein madad karegi:\n\n**Age 18 — Financial Awareness**\n- ✅ Savings account kholo (zero balance student)\n- ✅ Budget banao (pocket money se)\n- ✅ Financial content padho (15 min/day)\n- ✅ UPI apps use karo (digital payments)\n\n**Age 21 — First Income + Investing Start**\n- ✅ SIP ₹500-1,000 start karo (Nifty 50 Index Fund)\n- ✅ Emergency fund building shuru (₹500/month)\n- ✅ Health insurance lo (parents ke ya individual)\n- ✅ KYC complete karo (PAN, Aadhaar)\n\n**Age 25 — Stable Income + Tax Planning**\n- ✅ 6 months emergency fund complete\n- ✅ PPF account kholo (₹500-2,000/month)\n- ✅ ITR file karo (har saal)\n- ✅ Term plan consider karo (agar parents depend hain)\n- ✅ Health insurance individual (₹5-10L cover)\n\n**Age 30 — Wealth Building**\n- ✅ ₹10,000+ SIP monthly\n- ✅ Diversified portfolio (equity + debt + gold)\n- ✅ Phase health + life insurance active\n- ✅ Tax optimization (80C, 80D, 80CCD)\n- ✅ NPS start karo (extra ₹50K deduction)\n- ✅ Marriage/family planning financially\n\n**Age 35 — Asset Accumulation**\n- ✅ Home planning (if applicable)\n- ✅ Retirement corpus check (target ₹25-50 lakh)\n- ✅ Kids education fund start\n- ✅ Portfolio rebalance (debt allocation increase)\n- ✅ Term plan top-up (responsibilities badhi)\n- ✅ Critical illness rider add",
+        "imagePrompt": "Timeline from age 18 to 35 with financial milestones, cyan theme, life progression illustration",
+        "color": "#06B6D4",
+        "emoji": "📅"
+      },
+      {
+        "id": "11-3-2",
+        "topicId": "11-3",
+        "topicTitle": "Life Stage Checklist",
+        "cardIndex": 2,
+        "totalCardsInTopic": 2,
+        "title": "Age 40-60 + Mission",
+        "content": "**Age 40 — FIRE Evaluation**\n- ✅ Corpus check — 25x expenses?\n- ✅ Side income = expenses?\n- ✅ Semi-retirement possible?\n- ✅ Debt-free (home loan ya toh clear ya manageable)\n- ✅ Kids higher education fund ready\n- ✅ Estate planning start (will, nominations)\n\n**Age 50 — Pre-Retirement**\n- ✅ Corpus 80% target reached?\n- ✅ Debt free?\n- ✅ Health insurance top-up (senior citizen plan)\n- ✅ Passive income stable?\n- ✅ Retirement date target\n- ✅ Will created and registered\n\n**Age 60 — Retirement**\n- ✅ 4% withdrawal rule se income\n- ✅ Corpus preservation\n- ✅ Estate planning complete\n- ✅ Medical top-up\n- ✅ Senior citizen schemes (SCSS, PMVVY)\n- ✅ Passive income + pension (NPS/EPF/PF)\n\n**🚨 MISSION: Life Stage Audit**\n\n- [ ] Apni current age identify karo\n- [ ] Apne stage ke milestones checklist download karo\n- [ ] Kitne milestones achieve kiye, kitne pending?\n- [ ] 1 saal ke targets set karo (next stage ke liye)\n- [ ] Annual review system banao (har January)\n\n**Quick Audit Template:**\n\n| Milestone | Target Age | My Status | Action Needed |\n| :--- | :--- | :--- | :--- |\n| Savings account | 18 | ✅ Done | — |\n| First SIP | 21 | ✅ Done | — |\n| Emergency fund (3-6 months) | 25 | 🔄 In progress | ₹X more needed |\n| PPF account | 25 | ❌ Not started | Open this month |\n| Term plan | 25-30 | ❌ Not started | Buy this year |\n| Health insurance | 21 | ✅ Done | — |\n| ITR filing | 22+ | ✅ Done | File every year |\n\n**Rule**: Age-wise milestones miss mat karo. 25 pe emergency fund nahi = 30 pe struggle. 30 pe SIP start nahi = 60 pe struggle. Time waits for no one!",
+        "imagePrompt": "Life stage timeline from 40 to 60 with retirement planning, cyan and gold theme, financial freedom illustration",
+        "color": "#06B6D4",
+        "emoji": "🎯"
+      }
+    ]
+  },
+  {
+    "id": "11-4",
+    "title": "Indian Middle Class Financial Reality",
+    "emoji": "📊",
+    "color": "#F59E0B",
+    "description": "Indian middle class ke financial challenges aur opportunities. Reality check + positive approach.",
+    "cards": [
+      {
+        "id": "11-4-1",
+        "topicId": "11-4",
+        "topicTitle": "Middle Class Reality",
+        "cardIndex": 1,
+        "totalCardsInTopic": 2,
+        "title": "Indian Middle Class — Stats + Reality",
+        "content": "**Indian Middle Class Financial Reality — Stats:**\n\n- 90% Indians ki monthly income ₹25,000 se kam hai\n- Average household debt ₹5 lakh hai aur badh raha hai\n- Household debt-to-GDP ratio 41-42% tak pahunch gaya hai (2015 mein 26% tha)\n- Credit card usage 50% badh gaya hai 2022 se\n- Average middle class family ka 35-50% income EMIs mein jaata hai\n- Savings rate giri hai — 23% (2012) se 18% (2025)\n\n**Lekin Acchi Khabar Yeh Hai:**\n- India mein FIRE possible hai (adjusted approach se)\n- Expenses kam hain compared to West\n- Digital infrastructure (UPI, apps) financial access easy bana diya\n- SIP ₹100 se start ho sakti hai\n- Young age mein compound ka full benefit milta hai\n\n**Challenges Hain, Impossible Nahi:**\nDiscipline aur awareness se middle class trap se nikal sakte hain.\n\n**5 Ways to Break Middle Class Trap:**\n\n1. **Start Early** — Compounding ka full benefit. 20 pe start = 30 pe 10x better\n2. **Multiple Income Streams** — Job + side hustle + investments. 1 source = risk\n3. **Disciplined Saving** — 20-30% savings rate maintain\n4. **Smart Investing** — Equity SIP for long-term wealth, not just FD\n5. **Avoid Lifestyle Inflation** — Salary badhi toh expenses proportionally mat badhao\n\n**Middle Class Trap Examples:**\n\n⚠️ **Trap 1**: \"Shaadi ke liye ₹10 lakh loan\" — 5 saal EMI burden\n✅ **Solution**: Plan 5 years ahead, save ₹15,000/month SIP\n\n⚠️ **Trap 2**: \"₹30 lakh car on EMI for status\" — ₹50,000/month EMI\n✅ **Solution**: ₹5 lakh car + ₹25 lakh SIP = real wealth\n\n⚠️ **Trap 3**: \"Big house with ₹40 lakh loan\" — 20 years EMI trap\n✅ **Solution**: Start with small house, upgrade later when affordable\n\n⚠️ **Trap 4**: \"Gold jewellery for investment\" — making charges 25% loss\n✅ **Solution**: SGB (Sovereign Gold Bond) — govt backed + 2.5% interest\n\n⚠️ **Trap 5**: \"Education loan for Tier-3 college\" — bad ROI\n✅ **Solution**: ROI check karo, government college ya scholarship opt karo",
+        "imagePrompt": "Indian middle class financial reality infographic with stats and solutions, amber theme, motivational financial illustration",
+        "color": "#F59E0B",
+        "emoji": "📊"
+      },
+      {
+        "id": "11-4-2",
+        "topicId": "11-4",
+        "topicTitle": "Middle Class Reality",
+        "cardIndex": 2,
+        "totalCardsInTopic": 2,
+        "title": "Break The Trap + Mission",
+        "content": "**How to Break Middle Class Trap — 5-Step Plan:**\n\n**Step 1: Awareness**\n- Apni current financial situation honestly assess karo\n- Income, expenses, savings, debt, investments list karo\n- Weak areas identify karo\n\n**Step 2: Education**\n- Financial literacy seekho (this app, books, podcasts)\n- 15 min/day financial content padho\n- Real examples se seekho (Rich Dad Poor Dad, Psychology of Money)\n\n**Step 3: Action — Start Small**\n- ₹500/month SIP shuru karo\n- ₹500/month emergency fund mein daalo\n- Budget banao aur follow karo\n- Insurance lo (health + term)\n\n**Step 4: Scale Up**\n- Income badhao (skills, side hustle, promotions)\n- Savings rate gradually increase (20% → 30% → 50%)\n- Multiple income streams build karo\n- Long-term wealth building (SIP, PPF, NPS)\n\n**Step 5: Stay Disciplined**\n- Annual review system\n- Lifestyle inflation control\n- Avoid impulse purchases (48-hour rule)\n- Stay invested (don't panic in market crash)\n\n**🚨 MISSION: Middle Class Trap Break**\n\n- [ ] Apni current financial situation list karo (income, expenses, savings, debt)\n- [ ] \"Trap\" identify karo — kahan zyada spend kar rahe ho?\n- [ ] 1 financial goal set karo (e.g., ₹1 lakh emergency fund in 12 months)\n- [ ] SIP start karo (₹500-₹2,000/month)\n- [ ] Side income idea explore karo\n- [ ] Annual review date set karo (har January 1st)\n\n**Reality Check**:\n- ₹5,000/month SIP at 12% for 25 years = **₹95 lakh**\n- ₹10,000/month SIP at 12% for 25 years = **₹1.9 crore**\n- ₹15,000/month SIP at 12% for 25 years = **₹2.85 crore**\n\nYeh numbers middle class trap se nikal ke ameer banne ke math hain. Possible hai — sirf discipline chahiye!\n\n**Rule**: \"Yeh India hai, yahan aisa hi hota hai\" — nahi! Discipline + awareness = escape possible. Apna journey apna hai, comparison mat karo.",
+        "imagePrompt": "Person breaking free from middle class trap with growth chart, amber and gold theme, financial freedom illustration",
+        "color": "#F59E0B",
+        "emoji": "🎯"
+      }
+    ]
+  },
+  {
+    "id": "11-5",
+    "title": "Financial Red Flags in Relationships",
+    "emoji": "❤️",
+    "color": "#EC4899",
+    "description": "Paise ki baat relationship mein important hai. 6 red flags dhyan se dekho.",
+    "cards": [
+      {
+        "id": "11-5-1",
+        "topicId": "11-5",
+        "topicTitle": "Relationship Red Flags",
+        "cardIndex": 1,
+        "totalCardsInTopic": 2,
+        "title": "6 Financial Red Flags in Relationships",
+        "content": "Paise ki baat relationship mein important hai, lekin bahut kam couples ispe baat karte hain. Yeh red flags dhyan se dekho:\n\n**1. Refusal to Discuss Money**\nPartner paiso ki baat karna avoid kare — financial transparency healthy relationship ka part hai. Shaadi se pehle financial compatibility check karo.\n\n**2. Opposite Money Philosophies**\nEk save kare, dusra excess kare — bina compromise ke yeh conflict create karta hai. Pre-marriage financial discussion must.\n\n**3. Secret Spending**\nBade purchases chhupake — yeh breach of trust hai, financial bhi emotional bhi. Joint account + personal account = balance.\n\n**4. Unequal Contribution**\nEk partner sab bear kare bina agreement ke — resentment build hota hai. Clear split: 50-50 ya income proportional.\n\n**5. Debt Disclosure Nahi Karna**\nMarriage se pehle credit score, outstanding debts, financial commitments share karo. Hidden debt shared burden ban jata hai. CIBIL check ek dusre ka!\n\n**6. Financial Control/Abuse**\nPartner har expense approve kare, salary le le, \"allowance\" de — yeh abuse hai. Financial independence = non-negotiable.\n\n**Pre-Marriage Financial Discussion Questions:**\n\n1. Apni monthly income aur expenses share karo\n2. Outstanding loans aur credit card debt disclose karo\n3. Savings aur investments discuss karo\n4. CIBIL score check karo ek dusre ka\n5. Future financial goals set karo (house, kids, retirement)\n6. \"Joint account ya separate?\" decide karo\n7. Family responsibilities (parents support) discuss karo\n8. Insurance coverage review karo\n9. Investment strategy align karo\n10. Emergency fund plan banao\n\n**Healthy Financial Relationship Signs:**\n\n✅ Open communication about money\n✅ Shared financial goals\n✅ Joint + personal accounts (balance)\n✅ Equal contribution (income proportional)\n✅ No financial secrets\n✅ Mutual respect for spending decisions\n✅ Regular financial date nights (monthly budget review)\n✅ Support each other's financial independence",
+        "imagePrompt": "Couple discussing finances with hearts and warning signs, pink theme, relationship finance illustration",
+        "color": "#EC4899",
+        "emoji": "❤️"
+      },
+      {
+        "id": "11-5-2",
+        "topicId": "11-5",
+        "topicTitle": "Relationship Red Flags",
+        "cardIndex": 2,
+        "totalCardsInTopic": 2,
+        "title": "Financial Compatibility Test + Mission",
+        "content": "**Financial Compatibility Test (For Couples):**\n\n**Before Marriage, Discuss These 10 Topics:**\n\n1. **Income & Career Goals**: Apni income aur 5-year career plan share karo\n2. **Debt**: Outstanding loans, credit card debt, EMI commitments\n3. **Savings Rate**: Kitna % income save karte ho? Target kya hai?\n4. **Investment Style**: Conservative/Moderate/Aggressive?\n5. **Family Responsibilities**: Parents support karna hai? Kitna?\n6. **Big Purchases**: House, car, wedding — kab aur kitna?\n7. **Children Planning**: Kids kab? Education fund kaise?\n8. **Insurance**: Health + life insurance coverage\n9. **Retirement Plan**: FIRE target? Early retirement?\n10. **Money Habits**: Impulse buyer ya planner? Kanjoos ya generous?\n\n**Score Each Topic 1-5 (1 = Big Issue, 5 = Aligned):**\n\n- 40-50: Great financial compatibility ✅\n- 30-39: Workable, but discuss gaps 🔄\n- 20-29: Major issues, counseling needed ⚠️\n- Below 20: Serious reconsideration ❌\n\n**🚨 MISSION: Financial Discussion**\n\n**For Couples (married/in relationship):**\n- [ ] Monthly \"financial date night\" schedule karo\n- [ ] Budget review together karo\n- [ ] Joint goals set karo (house, vacation, retirement)\n- [ ] CIBIL scores share karo (transparency)\n- [ ] Insurance coverage review karo\n\n**For Singles:**\n- [ ] Apni financial values clear karo (saver/spender, risk tolerance)\n- [ ] Future partner ke financial criteria list banao\n- [ ] Pre-marriage financial discussion plan karo\n- [ ] Financial independence pehle seekho (then share life)\n\n**Rule**: Financial incompatibility #1 reason for relationship stress. Pre-marriage CIBIL check = practical. Transparent communication = strong foundation.\n\n**Pro Tip**: Joint account for shared expenses (rent, groceries, utilities) + personal accounts for individual spending = best balance. Both partners contribute proportionally to joint account.",
+        "imagePrompt": "Couple doing financial planning together with hearts and checkmarks, pink and gold theme, healthy relationship finance illustration",
+        "color": "#EC4899",
+        "emoji": "🎯"
+      }
+    ]
+  },
+  {
+    "id": "11-6",
+    "title": "Scams Se Bacho! ⚠️",
+    "emoji": "⚠️",
+    "color": "#F43F5E",
+    "description": "India mein digital fraud bahut badh raha hai. Savdhan rahein!",
+    "cards": [
+      {
+        "id": "11-6-1",
+        "topicId": "11-6",
+        "topicTitle": "Scams Se Bacho!",
+        "cardIndex": 1,
+        "totalCardsInTopic": 3,
+        "title": "Escape The Telegram Scam 🛑",
+        "content": "Tumhe ek WhatsApp message aata hai: *\"Ghar baithe ₹5,000 kamayein! Bas YouTube videos like karein.\"*\n\nTum join karte ho aur woh bolte hain — *\"Pehle ₹2,000 deposit karein security ke liye.\"*\n\n**India mein digital fraud rapidly badh raha hai — FY 2024-25 mein ₹4,245 crore ka fraud hua 24 lakh incidents mein (67% increase YoY).** Students especially vulnerable hain kyunki woh digital savvy hain lekin financially inexperienced.\n\n**10 Common Scams Targeting Students:**\n\n| # | Scam Type | How It Works | Warning Sign |\n| :--- | :--- | :--- | :--- |\n| 1 | UPI Collect Request | Fraudster payment request bhejta hai, victim approve kar deta hai | Unknown payment requests — hamesha verify karo |\n| 2 | Part-Time Job Scam | WhatsApp pe \"₹5,000/day from home\" — pehle deposit, phir fraud | Job ke liye paise dena = scam |\n| 3 | Phishing Links | Fake bank SMS/email — credentials churaate hain | URL misspelling, https lock missing |\n| 4 | KYC Verification Call | Bank/RBI officer banke OTP maangte hain | Banks NEVER OTP maangte calls pe |\n| 5 | QR Code Scam | \"Scan QR to receive money\" — actually paisa jaata hai | QR scan = PAYING, not receiving |\n| 6 | Screen Sharing Apps | AnyDesk/TeamViewer install karake phone control | No bank needs remote access |\n| 7 | Fake Internship | Registration fee for guaranteed placement | Real companies don't charge for internships |\n| 8 | Parcel/Customs Scam | \"Parcel with drugs held, pay fine via UPI\" | Customs never demands UPI payment |\n| 9 | Investment Tip Groups | WhatsApp groups promising 200-500% returns | Guaranteed high returns = scam |\n| 10 | Scholarship Refund | \"Your scholarship ready, pay ₹500 processing\" | Real scholarships don't need processing fees |",
+        "imagePrompt": "Smartphone screen showing a suspicious Telegram chat, scam warning, dark red and neon alert colors",
+        "color": "#F43F5E",
+        "emoji": "🛑",
+        "interactiveType": "choice_sim",
+        "choiceData": {
+          "scenario": "Woh bol rahe hain ki ₹2,000 do aur ₹4,000 wapas lo 1 ghante mein. Kya karoge?",
+          "choices": [
+            {
+              "text": "Try karte hain, chhota amount hai.",
+              "isCorrect": false,
+              "consequence": "Trap! Woh ₹2k lekar tumhe block kar denge. Isse 'Task Scam' kehte hain."
+            },
+            {
+              "text": "Block and Report immediately!",
+              "isCorrect": true,
+              "consequence": "Smart! Koi bhi asli job shuru karne ke liye 'Security Deposit' nahi mangti."
+            }
+          ]
+        }
+      },
+      {
+        "id": "11-6-2",
+        "topicId": "11-6",
+        "topicTitle": "Scams Se Bacho!",
+        "cardIndex": 2,
+        "totalCardsInTopic": 3,
+        "title": "UPI QR Code Scam 📲",
+        "content": "OlX pe tumne cycle bechi. Buyer bolta hai — *\"Bhai, main QR bhej raha hoon, scan karo paise receive karne ke liye.\"*\n\n**Myth**: QR Code scan karne se bank account mein paise aate hain.\n**Sach**: Bhai, QR scan karne se hamesha paise JAATE hain. Paise receive karne ke liye kabhi QR scan ya PIN daalne ki zaroorat nahi hoti!\n\n**QR Code Scam Reality:**\n- Fraudster bhejta hai QR code\n- Tum scan karte ho, PIN daalte ho\n- Paise tumhare account se jaate hain (receive nahi hote)\n- \"Scan to receive\" = 100% SCAM\n\n**Fraud Report Karna:**\n- **Cybercrime helpline: 1930**\n- **Website: cybercrime.gov.in**\n- Bank ko turant call karo — freeze account\n- 3 din ke andar report karo = maximum protection\n\n**5 Safety Rules That Prevent 90% of Frauds:**\n\n1. **OTP share nahi karna** — kisi ko bhi, kisi bhi haal mein\n2. **QR scan to receive money = scam**. QR scan = you pay\n3. **Unknown UPI requests reject karo** immediately\n4. **Koi bhi app install karne ko bole remote access ke liye** = scam\n5. **\"Guaranteed high returns\"** = 100% scam. No exceptions\n\n**Red Flags for Investment Scams:**\n\n⚠️ \"Guaranteed 20% return\" — koi guarantee nahi stock market mein\n⚠️ \"Limited time offer\" — urgency create karke pressure\n⚠️ \"Refer and earn\" — pyramid scheme\n⚠️ \"Send ₹10K, get ₹20K back\" — Ponzi scheme\n⚠️ \"WhatsApp/Telegram investment group\" — fake tips\n⚠️ \"SEBI registered\" claim — verify on SEBI website",
+        "imagePrompt": "Person scanning a QR code on phone, caution sign overlay, red and yellow warning tones",
+        "color": "#F43F5E",
+        "emoji": "📲",
+        "interactiveType": "myth_buster",
+        "quizData": {
+          "question": "MYTH: QR Code scan karne se bank account mein paise aate hain.",
+          "options": [
+            "Sahi hai",
+            "Bilkul Galat!"
+          ],
+          "correctAnswerIndex": 1,
+          "explanation": "Bhai, QR scan karne se hamesha paise JAATE hain. Paise receive karne ke liye kabhi QR scan ya PIN daalne ki zaroorat nahi hoti!"
+        }
+      },
+      {
+        "id": "11-6-3",
+        "topicId": "11-6",
+        "topicTitle": "Scams Se Bacho!",
+        "cardIndex": 3,
+        "totalCardsInTopic": 3,
+        "title": "Cyber Security Checklist 🛡️",
+        "content": "🚨 **TODAY'S MISSION — Cyber Security Checklist**\n\nIn 5 rules ko kabhi mat bhulna:\n\n- [ ] OTP kisi se share nahi karna (Not even Bank).\n- [ ] QR scan = You pay. Receive ke liye QR nahi chahiye.\n- [ ] Unknown links pe click mat karo.\n- [ ] 'AnyDesk' ya 'TeamViewer' kisi stranger ke kehne pe download mat karo.\n- [ ] 1930 — Yeh Cyber Crime helpline number save kar lo.\n\n**Additional Safety Measures:**\n\n- [ ] Phone pe screen lock lagao (PIN/pattern/fingerprint)\n- [ ] Banking app use ke baad logout karo\n- [ ] Strong password (12+ characters, mix of all)\n- [ ] 2-factor authentication on (SMS OTP + app notification)\n- [ ] UPI PIN 3 months mein change karo\n- [ ] SIM swap alert: Network suddenly gayab = call customer care\n- [ ] Bank ka official number save karo (card pe likha)\n- [ ] Cyber crime helpline 1930 save karo\n- [ ] cybercrime.gov.in bookmark karo\n\n**What to Do If Scammed:**\n\n1. **Immediately**: Bank ko call karo — account freeze\n2. **Within 3 days**: 1930 helpline pe report karo\n3. **Online**: cybercrime.gov.in pe complaint file karo\n4. **Police**: Local cyber crime cell mein FIR file karo\n5. **Evidence**: Screenshots, transaction IDs, chat history save karo\n\n**Recovery Chance**: \n- 3 days ke andar report = highest recovery chance\n- 3-7 days = medium chance\n- 7+ days = low chance\n\n**Rule**: Scam hone ke baad sharm mat karo. Report karo. Yeh sabke saath ho sakta hai. Awareness se prevention possible hai.",
+        "imagePrompt": "Shield icon with cyber security rules, digital safety infographic, red and silver tones",
+        "color": "#F43F5E",
+        "emoji": "🛡️"
+      }
+    ]
+  },
+  {
+    "id": "11-7",
+    "title": "Psychology of Money 🧠",
+    "emoji": "🧠",
+    "color": "#10B981",
+    "description": "Paisa sirf math nahi, psychology hai. Morgan Housel ke 5 lessons jo har student ko samajhne chahiye.",
+    "cards": [
+      {
+        "id": "11-7-1",
+        "topicId": "11-7",
+        "topicTitle": "Psychology of Money",
+        "cardIndex": 1,
+        "totalCardsInTopic": 3,
+        "title": "Wealth Is What You Don't See 🕵️‍♂️",
+        "content": "Flashy car, iPhone, branded kapde — yeh 'Expenditure' hai, 'Wealth' nahi.\n\nReal wealth woh hai jo tumne invest kiya aur kharcha nahi.\n\n**Morgan Housel ki book \"The Psychology of Money\" ke 5 sabse important lessons:**\n\n**Lesson 1: No One's Crazy**\nPaise ka logic nahi, psychology hai. Log financially galat decisions lete hain kyunki unka emotional experience alag hota. Jo aapke liye bewakoofi lagta hai, dusre ke liye perfectly logical ho sakta hai — kyunki unki life story alag hai. Isliye kisi ki financial choice judge mat karo, samjho.\n\n**Indian context**: Papa FD kyun karte hain? Kyunki unhone 1992 Harshad Mehta scam dekha hai. Unke liye safety = survival.\n\n**Lesson 2: Wealth Is What You Don't See**\nWealth woh hai jo dikhta NAHI. Car, phone, clothes — yeh expenditure hai, wealth nahi. Real wealth = jo paisa aapne invest kiya aur nahi kharcha. Flashy lifestyle wale log ameer dikhte hain, lekin actually broke ho sakte hain. Simple living wale actually wealthy ho sakte hain.\n\n**Indian context**: Neighbour ka ₹30 lakh car = ₹35 lakh loan. Tumhara ₹5 lakh car + ₹25 lakh SIP = real wealth. Instagram pe sab rich dikhte hain — reality: EMI pe hain.\n\n**Priya**: Bhaiya, mera dost nayi car laya, woh toh wealthy hoga na?\n\n**Bhaiya**: Shayad woh ameer 'dikh' raha hai, par `₹15k` EMI bhar raha hai. Wealthy woh hai jisne chupchap `₹15k` SIP mein daale.\n\n**Priya**: Matlab ameer dikhne aur ameer hone mein farq hai?\n\n**Bhaiya**: Zameen-aasmaan ka! Wealthy bano, ameer mat dikho.",
+        "imagePrompt": "Side by side comparison of a person with expensive stuff but debt vs a simple person with massive investments, green and gold theme",
+        "color": "#10B981",
+        "emoji": "🕵️‍♂️",
+        "interactiveType": "none"
+      },
+      {
+        "id": "11-7-2",
+        "topicId": "11-7",
+        "topicTitle": "Psychology of Money",
+        "cardIndex": 2,
+        "totalCardsInTopic": 3,
+        "title": "Time vs Money ⏳",
+        "content": "**Lesson 3: Time Is the Most Powerful Force**\n\nSabse powerful financial force time hai, aur compounding isi ka result hai. `₹1,000`/mahine at 12% for 40 years = `₹1.18 crore` — sirf `₹4.8 lakh` invest kiya, baaki `₹1.13 crore` COMPOUNDING ne kamaya. Late start = compounding ka benefit lost.\n\n**Warren Buffett ki 90% wealth 65 saal ki umr ke BAAD aayi** — compounding ka power.\n\n**Indian context**: 20 pe SIP shuru karo, 60 pe crorepati. 40 pe shuru karo, 60 pe lakhpati.\n\nCompounding ka sabse bada factor 'Amount' nahi, 'Time' hai.\n\nCalculater pe check karo ki 10 saal pehle start karne se kitna farq padta hai:",
+        "imagePrompt": "Timeglass with money flowing through it, compounding visualization, green and gold tones",
+        "color": "#10B981",
+        "emoji": "⏳",
+        "interactiveType": "calculator",
+        "calcData": {
+          "calcType": "compounding",
+          "formula": "sip",
+          "inputs": [
+            {
+              "label": "Monthly SIP",
+              "min": 500,
+              "max": 20000,
+              "defaultValue": 2000,
+              "step": 500,
+              "unit": "₹"
+            },
+            {
+              "label": "Interest Rate (%)",
+              "min": 1,
+              "max": 20,
+              "defaultValue": 12,
+              "step": 1,
+              "unit": "%"
+            },
+            {
+              "label": "Years",
+              "min": 1,
+              "max": 40,
+              "defaultValue": 20,
+              "step": 1,
+              "unit": "Y"
+            }
+          ]
+        }
+      },
+      {
+        "id": "11-7-3",
+        "topicId": "11-7",
+        "topicTitle": "Psychology of Money",
+        "cardIndex": 3,
+        "totalCardsInTopic": 3,
+        "title": "🚨 FINAL MISSION: Graduation! 🎓",
+        "content": "**Lesson 4: Money Buys Freedom**\n\nPaisa aane se zyada important hai — bachne ka RAUM hai. Emergency fund = hospital jaane ki azaadi, toxic boss chhodne ki azaadi, bad job se nikalne ki azaadi.\n\n₹3 lakh emergency fund = 6 months ki FREEDOM. Yeh wealth nahi, freedom hai.\n\n**Indian context**: Job chhodke startup try karna? Emergency fund chahiye. Parents ke pressure mein shaadi nahi karni? Financial independence chahiye. Paisa = choices.\n\n**Lesson 5: Plan for Survival, Not Just Success**\n\nSurvival ka matlab hai — har financial plan mein \"what if things go wrong\" incorporate karo. Optimist bano lekin realistic bano. Emergency fund rakhna, insurance lena, diversification karna — yeh sab survival strategies hain.\n\n\"Hope for the best, plan for the worst\" — yeh niti aapko debt trap se bachayegi.\n\n**Indian context**: 2008 recession, 2020 pandemic, 2024 layoffs — jinke paas emergency fund + insurance + diversified income tha, woh survive kiye. Bina = disaster.\n\n---\n\n🚨 **FINAL MISSION — GRADUATION!**\n\nBadhai ho! Tumne Money Matters complete kar liya hai.\n\n- [ ] Module 1 to 11 ki main seekh ek notebook mein likho.\n- [ ] Aaj hi pehla SIP (`₹100` bhi chalega) start karo.\n- [ ] Yeh app apne 3 doston ke saath share karo.\n- [ ] Future plan: FIRE (Financial Independence) ka target set karo.\n\n---\n\n**KEY TAKEAWAYS (Module 11):**\n- ✅ 4 case studies dikhate hain — ₹5,000 se ₹50,000 tak, har level pe financial plan possible hai\n- ✅ Emergency scenarios ka response ready rakhna — job loss, medical, pandemic ke liye plan B hona chahiye\n- ✅ Age 18 se 60 tak ki checklist follow karo — har decade ka apna financial priority hai\n- ✅ 10 common scams se bacho — OTP share nahi karna, QR scan se paisa nahi milta, high returns = scam\n- ✅ Psychology of Money ka core: Paisa freedom khareedta hai, stuff nahi. Wealth woh hai jo dikhta nahi\n\n**COMMON MISCONCEPTIONS (Module 11):**\n\n⚠️ \"Mera income kam hai, planning kya karna\" → Galat! ₹5,000 pe bhi budget + saving plan banao\n⚠️ \"Scams sirf uneducated logon ke saath hote hain\" → Galat! UPI fraud, phishing — educated log zyada target\n⚠️ \"Financial planning sirf bade logon ke liye hai\" → Galat! Jaldi start = compounding ka maximum benefit\n⚠️ \"Partner se paise ki baat karne se relationship kharab hota hai\" → Galat! Transparency trust badhati hai\n⚠️ \"Emergency kabhi nahi aayegi\" → Galat! 90% logon ki life mein kisi na kisi emergency aati hai\n\n**AAGE KA SAFAR**:\nPura course complete ho gaya! 11 modules — paise ki basic samajh se lekar real-world scenarios tak. Ab action lo: Module 1 se ek cheez aaj implement karo — budget banao, saving shuru karo, SIP start karo, insurance lo.\n\n**Knowledge without action = zero value.** Shuru karo — aaj, abhi! 🚀\n\nBadhai ho! 🏆 Tum ab financial literate ho. Ab responsibility tumhari hai — apni financial future build karo, apne doston ko educate karo, aur financial freedom ka safar shuru karo!\n\n**Money Matters — Complete!** 🎓",
+        "imagePrompt": "Student throwing graduation cap, celebratory atmosphere, financial freedom reached, vibrant green and gold theme",
+        "color": "#10B981",
+        "emoji": "🏆"
+      }
+    ]
+  }
+]

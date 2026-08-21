@@ -1,0 +1,571 @@
+[
+  {
+    "id": "1-1",
+    "title": "Money Kya Hai — Real Meaning Beyond Notes aur Coins",
+    "emoji": "💵",
+    "color": "#3B82F6",
+    "description": "Paisa sirf paper ya metal nahi — yeh ek concept hai, ek medium hai jiske through value exchange hoti hai.",
+    "cards": [
+      {
+        "id": "1-1-1",
+        "topicId": "1-1",
+        "topicTitle": "Money Kya Hai",
+        "cardIndex": 1,
+        "totalCardsInTopic": 6,
+        "title": "Barter Dilemma: Kya Exchange Karoge?",
+        "content": "Socho, agar paisa na hota toh kya hota? Agar tumhe ek chai chahiye aur tumhare paas sirf ek kitab hai...\n\nKya tum chaiwale ko kitab dekar chai le paoge?\n\n**Problem**: \"Double Coincidence of Wants\" — Matlab tumhe woh milna chahiye jo doosre ke paas hai, AUR doosre ko woh chahiye jo tumhare paas hai.\n\nMushkil hai na? Isi problem ko solve karne ke liye **Money** bana!\n\nBarter → Gold Coins → Paper Currency → Digital Money (UPI) → Crypto. Maqsad wahi raha — **Value Exchange**.",
+        "imagePrompt": "Ancient barter system in Indian village, people exchanging goods like grain for clothes, warm earthy tones, educational illustration style",
+        "color": "#3B82F6",
+        "emoji": "🔄",
+        "interactiveType": "choice_sim",
+        "choiceData": {
+          "scenario": "Tumhe chai chahiye, par tumhare paas sirf ek purani Engineering Book hai. Chaiwala kya bolega?",
+          "choices": [
+            {
+              "text": "Kitab de do, chai le lo!",
+              "isCorrect": false,
+              "consequence": "Chaiwala bola: 'Bhai, main chai bechta hoon, exams nahi deta! Mujhe chawal chahiye, kitab nahi.'"
+            },
+            {
+              "text": "Book bech kar paisa lao!",
+              "isCorrect": true,
+              "consequence": "Bilkul! Paisa 'Medium of Exchange' hai. Yeh sab accept karte hain, chahe unhe kitab chahiye ho ya nahi."
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-1-2",
+        "topicId": "1-1",
+        "topicTitle": "Money Kya Hai",
+        "cardIndex": 2,
+        "totalCardsInTopic": 6,
+        "title": "Paisa Aaya Kahan Se? Fiat Currency Ka Funda",
+        "content": "Priya aur Bhaiya ki baatcheet se samjho paise ka safar.\n\n**Priya**: Bhaiya, yeh notes ki value kyun hai? Yeh toh sirf paper hain na?\n\n**Bhaiya**: Sahi pakde ho! Inhe 'Fiat Currency' kehte hain. Inki value isliye hai kyunki Govt ne promise kiya hai — bina kisi gold backing ke.\n\n**Priya**: Matlab pehle gold coins hote the tabhi asli value thi?\n\n**Bhaiya**: Pehle Gold tha, phir paper jo gold se back hota tha. Aaj sirf 'Trust' aur 'Legal Tender' pe duniya chalti hai!\n\nDecember 2025 mein India mein **21.63 billion UPI transactions** hue worth **₹27.97 lakh crore** — yeh dekh lo digital money ka power.",
+        "imagePrompt": "Evolution of money timeline from barter to gold coins to paper currency, Indian historical context, educational infographic style, warm golden tones",
+        "color": "#3B82F6",
+        "emoji": "📜",
+        "interactiveType": "none"
+      },
+      {
+        "id": "1-1-3",
+        "topicId": "1-1",
+        "topicTitle": "Money Kya Hai",
+        "cardIndex": 3,
+        "totalCardsInTopic": 6,
+        "title": "UPI Revolution — India Ka Power!",
+        "content": "India ne duniya ko dikha diya ki digital money kya hota hai. UPI sirf ek app nahi, ek **Financial Revolution** hai.\n\nUPI ke 4 sabse bade faayde:\n- **Instant** — 2 second mein transfer\n- **24/7** — Sunday, holiday, raat 2 AM, kabhi bhi\n- **Free** — koi transaction charge nahi\n- **Universal** — chaiwala se le kar mall tak, sab jagah\n\nNeobanks jaise **Jupiter, Fi, aur Niyo** bhi aa gaye hain jo completely digital banking offer karte hain — bina branch visit ke account khul jaata hai.\n\nSlide karke dekho India mein UPI ka power:",
+        "imagePrompt": "Digital payment revolution in India, UPI QR code scanning on smartphone, modern fintech illustration, vibrant blue and green gradient, tech style",
+        "color": "#3B82F6",
+        "emoji": "📱",
+        "interactiveType": "calculator",
+        "calcData": {
+          "calcType": "compounding",
+          "formula": "none",
+          "inputs": [
+            {
+              "label": "Yearly Transactions (Billions)",
+              "min": 1,
+              "max": 200,
+              "defaultValue": 131,
+              "step": 1,
+              "unit": "B"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-1-4",
+        "topicId": "1-1",
+        "topicTitle": "Money Kya Hai",
+        "cardIndex": 4,
+        "totalCardsInTopic": 6,
+        "title": "Money Ke 5 Main Functions",
+        "content": "Paisa sirf kharch karne ke liye nahi hota. Iske 5 super-powers hain:\n\n| Function | Kya hota hai? | Example 💡 |\n| :--- | :--- | :--- |\n| **Medium of Exchange** | Cheezein kharidne ke liye | Chai ke liye ₹20 dena ☕ |\n| **Unit of Account** | Value measure karne ke liye | Phone ₹15,000 ka hai 📱 |\n| **Store of Value** | Save karne ke liye | Bank mein ₹5k rakhna 🏦 |\n| **Standard of Deferred Payment** | Udhaar/EMI ke liye | ₹1k ki monthly EMI 💸 |\n| **Transfer of Value** | Kahin bhi bhejne ke liye | GPay to Friend 📲 |\n\n**Most Liquid Asset** — Delhi se Mumbai 2 second mein pahunch jaata hai. Real estate ya gold mein yeh flexibility nahi hai.",
+        "imagePrompt": "Five functions of money illustrated as icons, medium of exchange, unit of account, store of value, deferred payment, transfer of value, clean modern infographic, blue theme",
+        "color": "#3B82F6",
+        "emoji": "⚡"
+      },
+      {
+        "id": "1-1-5",
+        "topicId": "1-1",
+        "topicTitle": "Money Kya Hai",
+        "cardIndex": 5,
+        "totalCardsInTopic": 6,
+        "title": "Inflation: Chupta Hua Chor 📉",
+        "content": "Aaj ke `₹100` ki value 5 saal baad `₹100` nahi rahegi. Isse kehte hain **Inflation** (Mehangai).\n\n**Purchasing Power Table (6% Inflation pe):**\n\n| Year | ₹100 ki Real Value | Matlab |\n| :--- | :--- | :--- |\n| **Today** | ₹100 | Aaj ki full value 💰 |\n| **1 year** | ₹94 | Same cheez ₹106 mein milegi |\n| **3 years** | ₹84 | Value ghati 📉 |\n| **5 years** | ₹75 | Adha reh gaya |\n| **10 years** | ₹56 | Almost half! 💸 |\n| **20 years** | ₹31 | Ek third bhi nahi |\n\n**Real Example**: Rahul ne ₹5,000 ka breakdown kiya — ₹2,500 rent, ₹1,500 khana, ₹500 transport, ₹500 recharge. Phir samajh aaya ki ₹5,000 mein kitni purchasing power hai. Paisa sirf ek number nahi, yeh **purchasing power ka representation** hai.\n\nCalculater use karke dekho ki mehangai tumhare paise ko kaise khati hai:",
+        "imagePrompt": "Purchasing power comparison concept, Indian rupee notes shrinking over time, inflation visualization, warm orange and red warning tones, educational illustration",
+        "color": "#3B82F6",
+        "emoji": "📉",
+        "interactiveType": "calculator",
+        "calcData": {
+          "calcType": "inflation",
+          "formula": "none",
+          "inputs": [
+            {
+              "label": "Current Amount",
+              "min": 100,
+              "max": 100000,
+              "defaultValue": 1000,
+              "step": 100,
+              "unit": "₹"
+            },
+            {
+              "label": "Inflation Rate (%)",
+              "min": 1,
+              "max": 15,
+              "defaultValue": 6,
+              "step": 0.5,
+              "unit": "%"
+            },
+            {
+              "label": "Years",
+              "min": 1,
+              "max": 30,
+              "defaultValue": 10,
+              "step": 1,
+              "unit": "Y"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-1-6",
+        "topicId": "1-1",
+        "topicTitle": "Money Kya Hai",
+        "cardIndex": 6,
+        "totalCardsInTopic": 6,
+        "title": "🚨 MISSION: Wallet Audit",
+        "content": "🚨 **TODAY'S MISSION**\n\nBhai, gyaan toh le liya, ab action ki baari hai!\n\n- [ ] Apne UPI apps (GPay/PhonePe) kholo.\n- [ ] Last 5 transactions check karo.\n- [ ] Dekho ki kitna 'Need' tha aur kitna 'Want'.\n- [ ] Ek notebook ya app mein aaj ka kharcha likho.\n\n**Pro Tip**: Paisa sirf ek number nahi — yeh tumhari purchasing power hai. Har ₹100 ki value samjho aur protect karo!",
+        "imagePrompt": "Young Indian student Rahul calculating expenses on paper in a small city room, realistic slice of life illustration, warm domestic lighting, emotional storytelling style",
+        "color": "#3B82F6",
+        "emoji": "🧑"
+      }
+    ]
+  },
+  {
+    "id": "1-2",
+    "title": "Income Kya Hai — Har Rupye Ka Source",
+    "emoji": "💰",
+    "color": "#10B981",
+    "description": "Income ka simple matlab hai — tumhare paas aane wala paisa. Jo bhi source se paisa aata hai, woh income hai.",
+    "cards": [
+      {
+        "id": "1-2-1",
+        "topicId": "1-2",
+        "topicTitle": "Income Kya Hai",
+        "cardIndex": 1,
+        "totalCardsInTopic": 5,
+        "title": "Active vs Passive Income",
+        "content": "**Active Income**: Kaam karo toh paisa aayega. (Job, Tuition)\n**Passive Income**: Ek baar mehnat, baar baar paisa. (YouTube, SIP, Rent)\n\nStudent aur Bhaiya ki baatcheet se samjho:\n\n**Student**: Bhaiya, main part-time job karun ya YouTube?\n\n**Bhaiya**: Active income (job) turant paisa degi, par Passive (YouTube) long term wealth degi.\n\n**Student**: Toh dono kar sakte hain?\n\n**Bhaiya**: Best strategy! Active se bills bharo, Passive build karke financial freedom paao.\n\nActive income examples: Cafe ₹200/hour, Tuition, Freelance writing, Delivery, Internship stipend.\nPassive income examples: YouTube ads, Dividend stocks, SIP growth, Digital products, PG room rent.",
+        "imagePrompt": "Split comparison of active vs passive income, left side person working hard at desk, right side person relaxing while money flows in, modern illustration, green and gold tones",
+        "color": "#10B981",
+        "emoji": "⚡",
+        "interactiveType": "choice_sim",
+        "choiceData": {
+          "scenario": "Bhaiya, main part-time job karun (Active) ya YouTube channel build karun (Passive)?",
+          "choices": [
+            {
+              "text": "Sirf part-time job!",
+              "isCorrect": false,
+              "consequence": "Active income bills pay kar degi, par long-term scale nahi hogi."
+            },
+            {
+              "text": "Active se bills bharo, Passive build karo!",
+              "isCorrect": true,
+              "consequence": "Best strategy! Active income immediate safety degi aur Passive financial freedom."
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-2-2",
+        "topicId": "1-2",
+        "topicTitle": "Income Kya Hai",
+        "cardIndex": 2,
+        "totalCardsInTopic": 5,
+        "title": "Myth-Buster: Side Hustle 🤑",
+        "content": "Log bolte hain student life mein sirf padhai karni chahiye... Par kya yeh sach hai?\n\n**Myth**: Students ko sirf padhai karni chahiye, paise kamana distraction hai.\n\n**Sach**: Aaj ki duniya mein financial independence jaldi shuru karna ek 'Life Skill' hai. Freelancing ya part-time job se tum real world problems solve karna seekhte ho.\n\n**Best Strategy**: 2-3 income streams maintain karo — ek stable (stipend/pocket money), ek variable (freelancing/gig), aur ek passive build karo (YouTube/blogging/SIP).",
+        "imagePrompt": "Indian student working multiple gigs - laptop freelancing, tutoring, food delivery, diverse income sources, modern illustration style, green money theme",
+        "color": "#10B981",
+        "emoji": "📋",
+        "interactiveType": "myth_buster",
+        "quizData": {
+          "question": "MYTH: Students ko sirf padhai karni chahiye, paise kamana distraction hai.",
+          "options": [
+            "Sahi baat hai!",
+            "Galat, skill milti hai!"
+          ],
+          "correctAnswerIndex": 1,
+          "explanation": "Aaj ki duniya mein financial independence jaldi shuru karna ek 'Life Skill' hai. Freelancing ya part-time job se tum real world problems solve karna seekhte ho."
+        }
+      },
+      {
+        "id": "1-2-3",
+        "topicId": "1-2",
+        "topicTitle": "Income Kya Hai",
+        "cardIndex": 3,
+        "totalCardsInTopic": 5,
+        "title": "15 Real Income Sources for Students",
+        "content": "Paisa kamane ke bahut tareeqe hain yaar:\n\n| Source | Monthly Income | Type |\n| :--- | :--- | :--- |\n| **Pocket Money** | ₹500 - ₹5,000 | Stable |\n| **Part-time Tuition** | ₹2,000 - ₹8,000 | Active |\n| **Cafe Job** | ₹4,000 - ₹8,000 | Active |\n| **Delivery Gig** | ₹6,000 - ₹15,000 | Active |\n| **Freelance Coding** | ₹5,000 - ₹50,000 | Active |\n| **Freelance Design** | ₹3,000 - ₹30,000 | Active |\n| **Freelance Writing** | ₹2,000 - ₹20,000 | Active |\n| **Scholarship** | ₹1,000 - ₹25,000 | Stable |\n| **Research Stipend** | ₹8,000 - ₹25,000 | Stable |\n| **YouTube Ad** | ₹500 - ₹50,000 | Passive |\n| **Affiliate Marketing** | ₹500 - ₹20,000 | Passive |\n| **Internship Stipend** | ₹5,000 - ₹25,000 | Active |\n| **Event Photography** | ₹3,000 - ₹15,000 | Active |\n| **Data Entry / Freelance** | ₹3,000 - ₹10,000 | Active |\n| **Campus Ambassador** | ₹2,000 - ₹8,000 | Active |\n\n**Regular vs Irregular Income**: Freelancer ka income har mahine different hota hai — kabhi ₹30,000, kabhi ₹5,000, kabhi ₹0. Aise mein \"buffer month system\" chahiye (Module 2 mein detail).",
+        "imagePrompt": "Multiple income streams flowing into a student's wallet, coins and notes from different sources, fresh green color scheme, modern flat illustration",
+        "color": "#10B981",
+        "emoji": "💵"
+      },
+      {
+        "id": "1-2-4",
+        "topicId": "1-2",
+        "topicTitle": "Income Kya Hai",
+        "cardIndex": 4,
+        "totalCardsInTopic": 5,
+        "title": "🚨 MISSION: Income Hunt",
+        "content": "🚨 **TODAY'S MISSION**\n\nApne skills ki list banao aur dekho tum kahan se `₹1,000` extra kama sakte ho.\n\n- [ ] Canva / Design tools seekho.\n- [ ] Upwork ya Fiverr pe profile dekho.\n- [ ] Apne neighborhood mein tuition ki demand check karo.\n- [ ] Purani books ya gadgets becho (OLX/Cashify).\n- [ ] YouTube channel idea pe kaam shuru karo (passive income build karo).\n\n**Goal**: Is mahine kam se kam `₹1,000` extra kamao — phir use seedha savings mein daalo!",
+        "imagePrompt": "Student juggling three income streams - stable job, freelance laptop, passive investment growing, balanced lifestyle, modern illustration, vibrant green and gold",
+        "color": "#10B981",
+        "emoji": "🎯"
+      },
+      {
+        "id": "1-2-5",
+        "topicId": "1-2",
+        "topicTitle": "Income Kya Hai",
+        "cardIndex": 5,
+        "totalCardsInTopic": 5,
+        "title": "⚠️ Income Ke Baare Mein Common Galtiyan",
+        "content": "⚠️ **YAHAN PE LOG GALTI KARTE HAIN**\n\n1. **Income sirf salary samajhna** — Scholarship, freelance, passive income bhi income hain. Total income calculate karo.\n2. **Side hustle ko distraction samajhna** — Skill + paisa dono milta hai.\n3. **Single income pe depend karna** — 1 income source = 1 point of failure. 2-3 streams banao.\n4. **Passive income ignore karna** — \"Abhi se kya zaroorat\" soch ke miss kar dete hain. YouTube, SIP, digital products — early start = max compounding.\n5. **Income badhe toh expenses bhi badha dena** — \"Lifestyle inflation\" trap. Salary ₹5,000 se ₹15,000 hui? Savings ₹1,000 se ₹3,000 karo, expenses ₹4,000 se ₹12,000 mat badhao.\n\n**Rule**: Active + Passive = Financial Freedom ka formula.",
+        "imagePrompt": "Warning sign next to a stack of coins, red caution theme with green accents, modern flat illustration",
+        "color": "#10B981",
+        "emoji": "⚠️"
+      }
+    ]
+  },
+  {
+    "id": "1-3",
+    "title": "Expense Kya Hai — Paisa Kahan Ja Raha Hai",
+    "emoji": "💸",
+    "color": "#EF4444",
+    "description": "Paisa nikalna expense hai. Fixed, variable, needs, wants — sab expenses ek jaise nahi hote.",
+    "cards": [
+      {
+        "id": "1-3-1",
+        "topicId": "1-3",
+        "topicTitle": "Expense Kya Hai",
+        "cardIndex": 1,
+        "totalCardsInTopic": 4,
+        "title": "Fixed Expenses — Har Mahine Same",
+        "content": "Fixed expenses woh hain jo har mahine same rehte hain. Inhe control karna mushkil hai, lekin predict karna aasan.\n\n**Common Fixed Expenses (Student):**\n\n| Category | Amount (₹) | Notes |\n| :--- | :--- | :--- |\n| Hostel/PG Rent | ₹3,000 - ₹8,000 | Single ya double sharing pe depend |\n| Mess/Food Tiffin | ₹2,500 - ₹4,000 | Mess join kiya toh fixed |\n| College Fees (EMI) | ₹2,000 - ₹10,000 | Education loan EMI ya installment |\n| Phone Recharge | ₹199 - ₹599 | Prepaid plan — data + calls |\n| Transport Pass | ₹500 - ₹2,000 | Bus/Metro monthly pass |\n| Insurance Premium | ₹400 - ₹1,500 | Health ya term insurance |\n| WiFi/Broadband | ₹500 - ₹1,000 | Shared ya individual |\n| Subscription (Netflix etc.) | ₹149 - ₹649 | Monthly auto-debit wale plans |\n\n**Rule**: Fixed expenses pehle budget mein fix karo — yeh \"non-discretionary\" hain, bina pay kiye reh nahi sakte.",
+        "imagePrompt": "Calendar with recurring expense icons, fixed monthly bills illustrated, red and white theme, clean financial infographic",
+        "color": "#EF4444",
+        "emoji": "📌",
+        "interactiveType": "calculator",
+        "calcData": {
+          "calcType": "budget",
+          "formula": "none",
+          "inputs": [
+            {
+              "label": "PG Rent (₹)",
+              "min": 1000,
+              "max": 15000,
+              "defaultValue": 4000,
+              "step": 500,
+              "unit": "₹"
+            },
+            {
+              "label": "Mess & Food (₹)",
+              "min": 1000,
+              "max": 10000,
+              "defaultValue": 3000,
+              "step": 500,
+              "unit": "₹"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-3-2",
+        "topicId": "1-3",
+        "topicTitle": "Expense Kya Hai",
+        "cardIndex": 2,
+        "totalCardsInTopic": 4,
+        "title": "Variable Expenses — Mahine Pe Depend",
+        "content": "Variable expenses mahine pe depend karte hain. Yahan control possible hai!\n\n**Common Variable Expenses:**\n\n| Category | Amount (₹) | Notes |\n| :--- | :--- | :--- |\n| Outside Food/Swiggy | ₹1,000 - ₹5,000 | Mess ke alawa jo khaya |\n| Shopping/Clothes | ₹500 - ₹3,000 | Seasonal ya impulse |\n| Entertainment/Movies | ₹200 - ₹2,000 | Weekend outings |\n| Medical/Pharmacy | ₹0 - ₹2,000 | Unexpected illness |\n| Books/Stationery | ₹200 - ₹1,000 | Semester start mein zyada |\n| Travel/Trips | ₹0 - ₹5,000 | Long weekends |\n| Gym/Sports | ₹500 - ₹2,000 | Monthly membership |\n| Gifts/Events | ₹0 - ₹2,000 | Friends' birthdays |\n| **Chai/Coffee Daily** | ₹300 - ₹1,500 | ₹20/chai × 30 din = ₹600 minimum! |\n| Personal Care | ₹200 - ₹1,000 | Grooming, cosmetics |\n\n⚠️ **Yahan log galti karte hain**: ₹50/day chai × 30 din = ₹1,500/mahine sirf chai pe! Yeh \"invisible leak\" hai.",
+        "imagePrompt": "Variable expense icons scattered around a wallet, fluctuating amounts, red and orange tones, modern flat illustration",
+        "color": "#EF4444",
+        "emoji": "🎯",
+        "interactiveType": "calculator",
+        "calcData": {
+          "calcType": "inflation",
+          "formula": "none",
+          "inputs": [
+            {
+              "label": "Daily Chai/Snack Leak (₹)",
+              "min": 10,
+              "max": 500,
+              "defaultValue": 50,
+              "step": 10,
+              "unit": "₹"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-3-3",
+        "topicId": "1-3",
+        "topicTitle": "Expense Kya Hai",
+        "cardIndex": 3,
+        "totalCardsInTopic": 4,
+        "title": "Needs vs Wants — 3-Question Test",
+        "content": "Har expense pe yeh **3 sawal pucho**:\n\n1. **Kya bina iske reh sakte hain?**\n2. **Kya cheaper option hai?**\n3. **Kya abhi zaroori hai ya baad mein chalega?**\n\nAgar 3 mein se 2 jawab \"haan\" hain, toh woh **WANT** hai, **NEED** nahi.\n\n**Sample Scenarios:**\n\n| Item | Need/Want | Reasoning |\n| :--- | :--- | :--- |\n| College tuition fees | **NEED** | Education basic right |\n| Branded backpack | **WANT** | Normal bag kaam chala sakta hai |\n| Internet recharge | **NEED** | Study, communication zaroori |\n| Netflix subscription | **WANT** | YouTube free hai |\n| Doctor visit (illness) | **NEED** | Health non-negotiable |\n| Branded shoes (3rd pair) | **WANT** | Ek pair kaafi hai |\n| Laptop for coding | **NEED** | CS student ke liye essential |\n| Gaming laptop | **WANT** | Normal laptop coding ke liye kaafi |\n| Daily Starbucks coffee | **WANT** | ₹300/day = ₹9,000/month! |\n| Public transport pass | **NEED** | Commute zaroori hai |\n| iPhone 16 | **WANT** | ₹15,000 phone bhi kaam chala sakta hai |\n\n**Gray Area**: Laptop CS student ke liye **NEED**, English literature student ke liye **WANT**. Gym medical condition pe **NEED**, six-pack abs ke liye **WANT**. Context matters!",
+        "imagePrompt": "Decision tree flowchart with need vs want branches, red and green theme, clean modern infographic",
+        "color": "#EF4444",
+        "emoji": "🤔",
+        "interactiveType": "choice_sim",
+        "choiceData": {
+          "scenario": "Tumhare paas ₹2,000 bache hain. iPhone 16 launch hua hai. Kya karoge?",
+          "choices": [
+            {
+              "text": "EMI pe le leta hoon!",
+              "isCorrect": false,
+              "consequence": "Trap! ₹2,000 EMI + interest = future mein ₹2,500/month jaayega. Aur 6 mahine baad value aadhi ho jayegi."
+            },
+            {
+              "text": "Pehle saving mein daalu, phone baad mein.",
+              "isCorrect": true,
+              "consequence": "Smart! Existing phone kaam chala raha hai. ₹2,000 SIP mein daalo — 5 saal mein ₹2 lakh+ banega. Want ko postpone karo."
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-3-4",
+        "topicId": "1-3",
+        "topicTitle": "Expense Kya Hai",
+        "cardIndex": 4,
+        "totalCardsInTopic": 4,
+        "title": "Discretionary vs Non-Discretionary",
+        "content": "**Non-Discretionary** (bina pay kiye reh nahi sakte): Rent, fees, food, transport. Budget mein pehle inhe cover karo.\n\n**Discretionary** (postpone kar sakte ho): Shopping, movies, expensive gadgets. Yeh baad mein socho.\n\n**3-Question Test Practice:**\nTumhare paas ₹500 bache hain. Sunday hai. Dost party bula rahe hain, par kal phone ka recharge bhi khatam hone wala hai.\n\n**Decision Tree:**\n```\nExpense aaya → Kya bina iske reh sakte hain?\n    ↓ NO → NEED → Cheaper option hai?\n              ↓ YES → Woh lo\n              ↓ NO → Abhi kharido\n    ↓ YES → WANT → Kya abhi zaroori hai?\n              ↓ NO → 48-hour rule → Baad mein socho\n              ↓ YES → Budget mein hai?\n                        ↓ YES → Kharido\n                        ↓ NO → Postpone\n```\n\n**Rule**: 48-hour rule lagao wants pe. Kuch bhi kharidne se pehle 48 ghante socho — 90% cheezein baad mein yaad bhi nahi rehti!",
+        "imagePrompt": "Flowchart showing decision tree for expenses, red and green color coding, clean educational infographic",
+        "color": "#EF4444",
+        "emoji": "🌳"
+      }
+    ]
+  },
+  {
+    "id": "1-4",
+    "title": "Saving Kya Hai — Future Ke Liye Aaj Ka Tyag",
+    "emoji": "🏦",
+    "color": "#8B5CF6",
+    "description": "Saving matlab aaj kam kharcha karo, kal ke liye paise rakhna. 'Pay Yourself First' approach kaam karti hai!",
+    "cards": [
+      {
+        "id": "1-4-1",
+        "topicId": "1-4",
+        "topicTitle": "Saving Kya Hai",
+        "cardIndex": 1,
+        "totalCardsInTopic": 4,
+        "title": "Pay Yourself First — Magic Approach",
+        "content": "Saving ka simple rule: **\"Pehle Save Phir Spend\"**, na ki \"Spend Phir Save\".\n\n**\"Jo Bacha Woh Save\" approach fail kyun hoti hai?**\nKyunki usually kuch nahi bachta! Paisa nikalte rehta hai \"invisible leaks\" se.\n\n**\"Pay Yourself First\" Approach:**\n1. Income aaya → Pehle saving account mein transfer karo\n2. Baaki se expenses chalao\n3. Auto-debit setup karo — salary aate hi ₹1,000 auto-transfer\n\n**Implementation Steps:**\n- Step 1: Alag savings account kholo (same bank ya different)\n- Step 2: Auto-debit instruction do\n- Step 3: Date set karo (salary ke 1 din baad)\n- Step 4: Bhool jao — System apne aap save karega\n\nYeh automate karne se \"bhool jaane\" ki problem solve ho jaati hai.",
+        "imagePrompt": "Person paying themselves first, coins going into savings before expenses, purple and gold tones, modern financial illustration",
+        "color": "#8B5CF6",
+        "emoji": "✨"
+      },
+      {
+        "id": "1-4-2",
+        "topicId": "1-4",
+        "topicTitle": "Saving Kya Hai",
+        "cardIndex": 2,
+        "totalCardsInTopic": 4,
+        "title": "5 Saal Ka Mathematical Result 📊",
+        "content": "Dono approaches ka 5 saal ka comparison dekho — same income, alag result!\n\n| Approach | Monthly Save | 5 Years Total | FD @ 6.5% |\n| :--- | :--- | :--- | :--- |\n| **A: Pay Yourself First** (Priya) | ₹2,000 | ₹1,20,000 | ~₹1,40,000 |\n| **B: Spend Phir Save** (Amit) | ₹500 (avg) | ₹30,000 | ~₹35,000 |\n\nDono ki income same thi, lekin **₹1,05,000 ka farq** aa gaya! Sirf ₹1,500/month ka difference — ek pizza aur movie ka kharcha roko, aur ₹1 lakh bachao.\n\n**10 Reasons Why Saving Zaroori Hai:**\n1. Emergency kabhi bhi aa sakti hai (medical, job loss, device breakdown)\n2. Financial stress reduce hota hai — \"Paisa nahi hai\" ki tension nahi rehti\n3. Future goals achieve (bike, laptop, higher education)\n4. Debt se bach sakte ho (₹50,000 loan @ 18% = ₹72,000+ total pay)\n5. Independence milti hai — kisi ke aage haath nahi failana\n6. Investment ke liye capital (SIP ₹100 se shuru)\n7. Compounding ka faayda (jaldi start = zyada growth)\n8. Habit banta hai (₹500 aaj → ₹5,000 kal)\n9. Life choices open rehti hain (job chhodna, course change, city shift)\n10. Peace of mind = mental health\n\n**Rule**: Saving ≠ Kanjoosi. Saving = future ki planning. Kanjoosi = needs pe bhi paise nahi lagana.",
+        "imagePrompt": "Comparison of two piggy banks growing at different rates over 5 years, purple theme, mathematical growth visualization",
+        "color": "#8B5CF6",
+        "emoji": "📊",
+        "interactiveType": "calculator",
+        "calcData": {
+          "calcType": "compounding",
+          "formula": "none",
+          "inputs": [
+            {
+              "label": "Monthly Saving (₹)",
+              "min": 500,
+              "max": 20000,
+              "defaultValue": 2000,
+              "step": 500,
+              "unit": "₹"
+            },
+            {
+              "label": "Years",
+              "min": 1,
+              "max": 30,
+              "defaultValue": 5,
+              "step": 1,
+              "unit": "Y"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-4-3",
+        "topicId": "1-4",
+        "topicTitle": "Saving Kya Hai",
+        "cardIndex": 3,
+        "totalCardsInTopic": 4,
+        "title": "Saving Ke 10 Barriers Aur Solutions",
+        "content": "Log saving shuru karte hain, lekin 10 common barriers se ruk jaate hain:\n\n| Barrier | Solution |\n| :--- | :--- |\n| \"Itna kam hai kya bachega\" | ₹500 bhi shuru karo — ₹500/m × 5 yr = ₹30,000 minimum |\n| \"Friends spend karte hain, peer pressure\" | Apna budget apna hai. ₹500/month outing limit fix karo |\n| \"Abhi toh young hain, baad mein karenge\" | 20 pe start vs 30 pe = 10 saal compounding miss! ₹83 lakh ka loss |\n| \"Emergency aa gayi toh save kya karenge\" | Emergency fund alag banao. Do buckets — emergency + savings |\n| \"Pata nahi kaise shuru karein\" | Auto-debit setup karo. Bank form bharo, ₹1,000 auto-transfer |\n| \"Kharcha zyada hai\" | Expense audit karo. Chai ₹50/day = ₹1,500/month! |\n| \"Loan le lenge emergency mein\" | ₹50,000 loan @ 18% = ₹72,000+ total. Savings hoti toh bach jaata |\n| \"Investment risky hai, saving safe hai\" | FD/RD safe options se start karo. SIP thoda baad mein |\n| \"Lifestyle inflation\" | Salary ₹5k se ₹15k? Savings ₹1k se ₹3k karo, expenses ₹4k se ₹12k mat badhao |\n| \"Social media FOMO\" | Instagram pe sab rich dikhte hain — reality: woh bhi EMI pe hain |\n\n**Rule**: Start small. ₹500/month is better than ₹0/month. Habit banao, baaki automatic.",
+        "imagePrompt": "Wall of obstacles with arrows breaking through, each barrier labeled, purple and gold theme, motivational illustration",
+        "color": "#8B5CF6",
+        "emoji": "🚧"
+      },
+      {
+        "id": "1-4-4",
+        "topicId": "1-4",
+        "topicTitle": "Saving Kya Hai",
+        "cardIndex": 4,
+        "totalCardsInTopic": 4,
+        "title": "🚨 MISSION: Auto-Debit Setup",
+        "content": "🚨 **TODAY'S MISSION**\n\nBhai, theory kaam nahi aayegi bina action ke. Aaj auto-debit setup karo!\n\n- [ ] Apni bank app kholo (SBI/HDFC/Kotak/Jupiter).\n- [ ] \"Auto-Debit\" ya \"Standing Instruction\" section dhundo.\n- [ ] Ek date fix karo (salary/pocket money aane ke 1 din baad).\n- [ ] Amount ₹500 se shuru karo (chhota lekin consistent).\n- [ ] Savings account mein transfer set karo.\n\n**Pro Tip**: Alag bank ka account kholo (Kotak 811 ya Jupiter — digital, zero balance). UPI mat link karo. \"Out of sight, out of mind\" actually kaam karta hai!\n\n**Action**: ₹500 × 12 months = ₹6,000/year. 5 years = ₹30,000+ bina mehnat ke!",
+        "imagePrompt": "Smartphone screen showing auto-debit setup confirmation, purple and green checkmarks, modern banking app illustration",
+        "color": "#8B5CF6",
+        "emoji": "🎯"
+      }
+    ]
+  },
+  {
+    "id": "1-5",
+    "title": "Budget Kya Hai — Tumhari Financial Life Ka Roadmap",
+    "emoji": "📋",
+    "color": "#10B981",
+    "description": "Budget banaana boring lagta hai, lekin yeh tumhari financial freedom ki pehli seedi hai.",
+    "cards": [
+      {
+        "id": "1-5-1",
+        "topicId": "1-5",
+        "topicTitle": "Budget Kya Hai",
+        "cardIndex": 1,
+        "totalCardsInTopic": 4,
+        "title": "5 Real Budget Scenarios",
+        "content": "Budget sirf ameer logon ka kaam nahi. Dekho 5 alag logon ka budget:\n\n| Person | Income | Issue |\n| :--- | :--- | :--- |\n| **Rohan** (no budget) | ₹15,000 | 15th tak paisa khatam. Friends se ₹5,000 udhaar. Month end = debt 😫 |\n| **Priya** (with budget) | ₹10,000 | ₹2,000 savings, ₹5,000 needs, ₹3,000 wants. Month end = ₹2,000 bank mein 😊 |\n| **Amit** (overspending) | ₹20,000 | ₹12,000 rent (alone), ₹5,000 food. Month end = zero savings |\n| **Sneha** (smart budget) | ₹8,000 | ₹1,500 savings, ₹3,000 rent (shared), ₹2,000 food, ₹1,500 others. 1 saal mein laptop fund! |\n| **Vikram** (no tracking) | varies | ₹500/month kahan jaata hai pata nahi. 1 saal mein ₹6,000 \"kahan gaya pata nahi\" |\n\n**50/30/20 Rule — Magic Formula:**\n\n| Income | Needs (50%) | Wants (30%) | Savings (20%) |\n| :--- | :--- | :--- | :--- |\n| ₹5,000 | ₹2,500 | ₹1,500 | ₹1,000 |\n| ₹15,000 | ₹7,500 | ₹4,500 | ₹3,000 |\n| ₹30,000 | ₹15,000 | ₹9,000 | ₹6,000 |\n\nCalculator use karke dekho tumhari income kaise divide honi chahiye:",
+        "imagePrompt": "Five different budget scenarios illustrated with characters, comparison table format, green theme, modern flat illustration",
+        "color": "#10B981",
+        "emoji": "📐",
+        "interactiveType": "calculator",
+        "calcData": {
+          "calcType": "budget",
+          "formula": "none",
+          "inputs": [
+            {
+              "label": "Monthly Income",
+              "min": 1000,
+              "max": 100000,
+              "defaultValue": 10000,
+              "step": 500,
+              "unit": "₹"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-5-2",
+        "topicId": "1-5",
+        "topicTitle": "Budget Kya Hai",
+        "cardIndex": 2,
+        "totalCardsInTopic": 4,
+        "title": "Zero-Based Budgeting — Har Rupye Ka Kaam",
+        "content": "**Zero-Based Budgeting** mein har rupye ka assignment hota hai — income minus expenses = **ZERO**.\n\nIska matlab yeh nahi ki sab spend karo, balki **savings bhi ek \"expense\" category hai**. Har rupye ko kaam diya jata hai — koi paisa adhoora nahi rehta.\n\n**Example: ₹15,000 income ka Zero-Based Budget:**\n\n| Category | Amount | % |\n| :--- | :--- | :--- |\n| Savings (auto-debit) | ₹3,000 | 20% |\n| Rent (1RK) | ₹4,000 | 27% |\n| Food | ₹2,500 | 17% |\n| Transport | ₹1,500 | 10% |\n| Phone + WiFi | ₹1,200 | 8% |\n| Education/Skill | ₹1,000 | 7% |\n| Entertainment | ₹1,500 | 10% |\n| Insurance | ₹300 | 2% |\n| **TOTAL** | **₹15,000** | **100%** |\n\n**Budget Banaake 5 Faayde:**\n1. Overspending control — pata chalta hai kahan zyada ho raha hai\n2. Financial goals clear — laptop chahiye? ₹2,000/month savings category banao\n3. Stress reduce — pata hai paisa kahan ja raha hai\n4. Saving habit banti hai — auto-debit se discipline automatic\n5. Future planning — 1 saal baad kitna hoga, calculate kar sakte ho",
+        "imagePrompt": "Zero-based budget pie chart with every rupee allocated, green and gold tones, clean modern financial illustration",
+        "color": "#10B981",
+        "emoji": "🎯"
+      },
+      {
+        "id": "1-5-3",
+        "topicId": "1-5",
+        "topicTitle": "Budget Kya Hai",
+        "cardIndex": 3,
+        "totalCardsInTopic": 4,
+        "title": "₹5,000 Income Breakdown Detail",
+        "content": "Dekho ₹5,000 mahine ka income detailed breakdown:\n\n**Needs (₹2,500) — 50%:**\n- ₹1,500 rent (shared PG)\n- ₹800 mess food\n- ₹200 transport (bus pass)\n\n**Wants (₹1,500) — 30%:**\n- ₹500 phone recharge\n- ₹500 outing (limited)\n- ₹500 personal care\n\n**Savings (₹1,000) — 20%:**\n- Auto-debit to RD\n- ₹1,000 × 12 = ₹12,000/year\n- SIP mein daalo toh ₹15,000+ ban jaata\n\n⚠️ **Myth**: \"Budget sirf kanjoos logon ke liye hai\"\n**Sach**: Budget aware logon ke liye hai. Kanjoosi = needs pe bhi paise nahi lagana. Budget = smart allocation.\n\n⚠️ **Myth**: \"₹3,000 mein budget nahi banta\"\n**Sach**: ₹3,000 mein bhi budget banta hai. ₹300 savings bhi budget hai.",
+        "imagePrompt": "Detailed pie chart of 5000 rupee budget, green and blue color coding, clean infographic style",
+        "color": "#10B981",
+        "emoji": "💡"
+      },
+      {
+        "id": "1-5-4",
+        "topicId": "1-5",
+        "topicTitle": "Budget Kya Hai",
+        "cardIndex": 4,
+        "totalCardsInTopic": 4,
+        "title": "🚨 MISSION: Budget Banao Aaj",
+        "content": "🚨 **TODAY'S MISSION**\n\nBhai, bina budget ke andhere mein chal rahe ho. Aaj ek simple budget banao:\n\n- [ ] Apni monthly income likho (pocket money + part-time + freelance).\n- [ ] Fixed expenses list karo (rent, mess, recharge — jo har mahine same).\n- [ ] Variable expenses estimate karo (food, outing, shopping).\n- [ ] 50/30/20 rule apply karo — Needs/Wants/Savings.\n- [ ] Auto-debit setup karo savings ke liye.\n\n**Pro Tip**: Budget rigid nahi, flexible hona chahiye. Life unpredictable hai. Har Sunday 15 minute budget review karo — kahan zyada ho gaya? Next month adjust karo.\n\n**Action**: Budget living document hai. Banao, follow karo, adjust karo. Perfect banne ka wait mat karo — start today!",
+        "imagePrompt": "Person creating a budget on a notebook with calculator, green and gold theme, focused and productive atmosphere",
+        "color": "#10B981",
+        "emoji": "🎯"
+      }
+    ]
+  },
+  {
+    "id": "1-6",
+    "title": "Financial Awareness — Kyun India Mein Missing Hai",
+    "emoji": "🧠",
+    "color": "#F59E0B",
+    "description": "India ki financial literacy rate sirf ~27% hai (NCFE survey), jabki world average ~52% hai. Yeh gap seekhna padta hai.",
+    "cards": [
+      {
+        "id": "1-6-1",
+        "topicId": "1-6",
+        "topicTitle": "Financial Awareness",
+        "cardIndex": 1,
+        "totalCardsInTopic": 4,
+        "title": "Schools Mein Paise Ki Baat Kyun Nahi?",
+        "content": "India mein **76% Indian adults** basic financial concepts nahi samajhte (S&P Global Financial Literacy Survey). Shocking!\n\n**Indian Schools Mein Paise Ki Baat Kyun Nahi Hoti — 5 Reasons:**\n\n1. **Curriculum gap**: CBSE, ICSE, State boards mein financial literacy as a dedicated subject nahi hai. Economics padhte hain lekin personal finance nahi.\n2. **Teacher training nahi**: Teachers khud financially literate nahi hain. Woh compound interest nahi samjha paayenge agar khud nahi samajhte.\n3. **Exam focus**: Sirf marks-oriented education hai. \"Yeh exam mein nahi aata\" — isliye skip.\n4. **Cultural taboo**: Paise ki baat karna \"gair-maruazi\" maana jaata hai. Teachers bhi uncomfortable hote hain.\n5. **No practical application**: Theory padhate hain lekin budget banane, tax file karne, SIP shuru karne jaise practical skills nahi sikhate.\n\n**Parents Se Paise Ki Baat Kyun Sharmaate Hain?**\nIndian culture mein \"paisa personal hai\" maana jaata hai. Bachpan se sikhaya jaata hai ki \"paise ki baat mat karo\". Lekin jab tak baat nahi karoge, tab tak seekh nahi paayenge.\n\nStart small — puchho **\"Papa, humara monthly budget kaise chalta hai?\"** Ya **\"Mummy, yeh FD kaise kaam karti hai?\"**",
+        "imagePrompt": "Empty classroom with financial topics missing from blackboard, warm amber and brown tones, conceptual illustration",
+        "color": "#F59E0B",
+        "emoji": "🏫"
+      },
+      {
+        "id": "1-6-2",
+        "topicId": "1-6",
+        "topicTitle": "Financial Awareness",
+        "cardIndex": 2,
+        "totalCardsInTopic": 4,
+        "title": "Middle Class Mindset Myths — Todna Hai",
+        "content": "Indian middle class ke 5 myth jo todne hain:\n\n| Myth | Sach |\n| :--- | :--- |\n| \"Job safe hai, business risky\" | Job bhi risky — 2023-24 mein tech sector mein 50,000+ layoffs hue. Stability illusion hai |\n| \"Investing gambling hai\" | Informed investing research-based hai. SIP Nifty 50 = systematic wealth building, not gambling |\n| \"Paisa sirf kaam se aata hai\" | Paisa paisa se bhi aata hai — compounding aur investing se. Warren Buffett ka 90% wealth 65+ ki umr mein aaya |\n| \"Loan lena paap hai\" | Good debt wealth create karta hai — education loan, home loan. Bad debt (credit card shopping) paap hai |\n| \"Tax sirf ameer dete hain\" | Salary pe TDS cut hota hai. ₹25,000/month salary pe bhi ITR file karna padta hai |\n\n**Financial Awareness Build Karne Ke 10 Practical Steps:**\n1. Roz 15 minute financial news padho (Economic Times, Moneycontrol)\n2. YouTube pe Indian educators follow karo — CA Rachana Ranade, Ankur Warikoo, Pranjal Kamra\n3. Har mahine apna bank statement analyze karo\n4. Parents se ghar ka budget samjho\n5. \"Psychology of Money\" by Morgan Housel padho (simplest)\n6. \"Paisa Vaisa with Anupam Gupta\" podcast suno\n7. Free NSE certification karo — \"Financial Markets\" course\n8. College mein finance club join karo\n9. Har naye investment pe research karo — blind mat karo\n10. Apne peers se financial discussions karo — normalize karo topic",
+        "imagePrompt": "Hammer breaking myths like stone tablets, amber and gold theme, motivational financial illustration",
+        "color": "#F59E0B",
+        "emoji": "🔨",
+        "interactiveType": "myth_buster",
+        "quizData": {
+          "question": "MYTH: Systematic Nifty 50 Index Mutual Fund SIP gambling hai?",
+          "options": [
+            "Haan, 100% gambling hai!",
+            "Galat, long-term wealth building strategy hai!"
+          ],
+          "correctAnswerIndex": 1,
+          "explanation": "Informed research-based index investing systematic wealth building hota hai, gambling nahi!"
+        }
+      },
+      {
+        "id": "1-6-3",
+        "topicId": "1-6",
+        "topicTitle": "Financial Awareness",
+        "cardIndex": 3,
+        "totalCardsInTopic": 4,
+        "title": "Common Misconceptions — Module 1 Summary",
+        "content": "**COMMON MISCONCEPTIONS (Module 1)**\n\n⚠️ **\"Budget sirf ameer logon ke liye hai\"**\n→ Galat! Budget sabke liye hai, especially kam income walon ke liye. ₹3,000 pe bhi budget banta hai.\n\n⚠️ **\"Saving matlab kanjoosi hai\"**\n→ Galat! Saving matlab future ki planning. Kanjoosi = needs pe bhi paise nahi lagana. Saving = wants postpone karna.\n\n⚠️ **\"Inflation se koi farq nahi padta chhote amounts pe\"**\n→ Galat! 6% inflation pe tumhari purchasing power har saal ghatati hai, chahe ₹100 ho ya ₹1 lakh.\n\n⚠️ **\"Paise ki baat karne se log judge karenge\"**\n→ Galat! Financial awareness strength hai, weakness nahi. Jo log judge karte hain, woh khud financially illiterate hain.\n\n⚠️ **\"Student ko investing nahi karni chahiye\"**\n→ Galat! Jaldi start = zyada compounding. SIP ₹100 se shuru ho sakti hai. Age 20 se start = age 30 se 10x better.\n\n**KEY TAKEAWAYS:**\n- ✅ Paisa purchasing power hai, sirf paper nahi — value samjho aur protect karo\n- ✅ Pay Yourself First — income aaya, pehle save, baaki se chalao\n- ✅ 50/30/20 rule follow karo — needs, wants, savings ka balance\n- ✅ Needs vs Wants ka farq samjho — yeh budgeting ka foundation hai\n- ✅ Financial literacy seekhna zaroori hai — 15 min/day shuru karo",
+        "imagePrompt": "Checkmark and cross icons over various financial myths, amber and red theme, clean infographic",
+        "color": "#F59E0B",
+        "emoji": "🔍"
+      },
+      {
+        "id": "1-6-4",
+        "topicId": "1-6",
+        "topicTitle": "Financial Awareness",
+        "cardIndex": 4,
+        "totalCardsInTopic": 4,
+        "title": "🚨 MISSION: Financial Literacy Journey",
+        "content": "🚨 **TODAY'S MISSION — Financial Literacy Journey Shuru**\n\nBhai, financial literacy ek din ka kaam nahi, ek journey hai. Aaj se shuru karo:\n\n- [ ] YouTube pe ek Indian financial educator subscribe karo (CA Rachana Ranade, Ankur Warikoo, ya Pranjal Kamra).\n- [ ] \"Psychology of Money\" by Morgan Housel book order karo ya library se borrow karo.\n- [ ] Parents se ek financial sawal pucho — \"Papa, humara FD/RD kaise kaam karta hai?\"\n- [ ] Economic Times ya Moneycontrol app download karo, roz 15 min padho.\n- [ ] Apne 2 doston ke saath financial discussion karo — topic normalize karo.\n\n**Bonus**: Apni financial literacy journey ek notebook mein likho. Har week ek naya concept seekho aur apply karo.\n\n**Aage Ka Safar**: Ab jab paise ki basic samajh aa gayi, toh chaliye Module 2 mein budgeting ko real life mein lagate hain — student budget templates, expense tracking, aur practical tips ke saath! 🚀",
+        "imagePrompt": "Student reading financial books with a notebook, warm amber lighting, growth and learning theme, modern illustration",
+        "color": "#F59E0B",
+        "emoji": "📚"
+      }
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "13-1",
+    "title": "Advanced Tax & Freelancer Planning 🧾",
+    "emoji": "🧾",
+    "color": "#10B981",
+    "description": "Freelancers, gig workers, aur Creators ke liye Tax, GST, Section 44ADA presumpive tax, aur ITR Filing roadmap.",
+    "cards": [
+      {
+        "id": "13-1-1",
+        "topicId": "13-1",
+        "topicTitle": "Freelancer Tax",
+        "cardIndex": 1,
+        "totalCardsInTopic": 3,
+        "title": "Section 44ADA Presumptive Tax 💡",
+        "content": "Freelancers (Designers, Coders, Writers) ke liye Section 44ADA ek blessing hai!\n\nGross Receipts ₹75 Lakh tak: **50% income ko straight profit mano, baaki 50% flat expense deduction!**\n\nExample: ₹10 Lakh gross income → Tax sirf ₹5 Lakh taxable income par lagega. Complex expense receipts ki tension zero!",
+        "imagePrompt": "Freelancer laptop workspace with tax shield calculation overlay, emerald green theme",
+        "color": "#10B981",
+        "emoji": "💡",
+        "interactiveType": "calculator",
+        "calcData": {
+          "calcType": "tax",
+          "formula": "none",
+          "inputs": [
+            {
+              "label": "Annual Gross Receipts",
+              "min": 100000,
+              "max": 7500000,
+              "defaultValue": 1000000,
+              "step": 50000,
+              "unit": "₹"
+            }
+          ]
+        }
+      },
+      {
+        "id": "13-1-2",
+        "topicId": "13-1",
+        "topicTitle": "Freelancer Tax",
+        "cardIndex": 2,
+        "totalCardsInTopic": 3,
+        "title": "GST Registration Threshold ⚖️",
+        "content": "**Services GST Limit**: ₹20 Lakh/year (₹10 Lakh in special states).\n**Export of Services**: Upwork/Fiverr cross-border income is 0% GST (LUT filing mandatory).\n\nPenalty Warning: GST threshold cross karke billing bina GSTIN ke karna 100% penalty trigger kar sakta hai.",
+        "imagePrompt": "GST certificate document with floating green coins and balance scale",
+        "color": "#10B981",
+        "emoji": "⚖️",
+        "interactiveType": "choice_sim",
+        "choiceData": {
+          "scenario": "Upwork client US ka hai, ₹5 Lakh payment aane wali hai. GST step kya hoga?",
+          "choices": [
+            {
+              "text": "Normal GST 18% charge karke pay karwao",
+              "isCorrect": false,
+              "consequence": "Wrong! Foreign clients GST pay nahi karte."
+            },
+            {
+              "text": "File LUT (Letter of Undertaking) for 0% Export GST",
+              "isCorrect": true,
+              "consequence": "Correct! Legally 0% GST export benefit unlocked."
+            }
+          ]
+        }
+      },
+      {
+        "id": "13-1-3",
+        "topicId": "13-1",
+        "topicTitle": "Freelancer Tax",
+        "cardIndex": 3,
+        "totalCardsInTopic": 3,
+        "title": "🚨 MISSION: Tax & Advance Tax Schedule",
+        "content": "🚨 **TODAY'S MISSION**\n\nFreelance tax penalties se bacho:\n\n- [ ] Advance Tax dates Note karo (June 15, Sept 15, Dec 15, March 15).\n- [ ] Form 26AS & AIS download karke TDS credit check karo.\n- [ ] 44ADA eligibility check (Gross receipts < ₹75L).\n- [ ] Separate Business Bank Account maintain karo.",
+        "imagePrompt": "Calendar with advance tax dates marked in green checkmarks",
+        "color": "#10B981",
+        "emoji": "🎯",
+        "interactiveType": "mission_box"
+      }
+    ]
+  }
+]

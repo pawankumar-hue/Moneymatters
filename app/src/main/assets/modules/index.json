@@ -1,0 +1,2510 @@
+{
+  "languages": {
+    "en": "English",
+    "hi": "Hindi (हिंदी)",
+    "hinglish": "Hinglish",
+    "bn": "Bengali (বাংলা)",
+    "bho": "Bhojpuri (भोजपुरी)",
+    "gu": "Gujarati (ગુજરાતી)",
+    "kn": "Kannada (કನ್ನಡ)",
+    "ml": "Malayalam (മലയാളം)",
+    "mr": "Marathi (मराठी)",
+    "pa": "Punjabi (ਪੰਜਾਬੀ)",
+    "ta": "Tamil (தமிழ்)",
+    "te": "Telugu (తెలుగు)"
+  },
+  "categories": [
+    "Foundations",
+    "Budgeting & Saving",
+    "Banking & Credit",
+    "Investing & Markets",
+    "Tax & Govt Schemes",
+    "Real World & Career"
+  ],
+  "modules": [
+    {
+      "id": 1,
+      "title": "Module 1: BASIC UNDERSTANDING OF MONEY",
+      "category": "Foundations",
+      "language": "en",
+      "readTimeMinutes": 28,
+      "xpReward": 70,
+      "filename": "en/module_1.json"
+    },
+    {
+      "id": 2,
+      "title": "Module 2: BUDGETING IN REAL LIFE",
+      "category": "Foundations",
+      "language": "en",
+      "readTimeMinutes": 27,
+      "xpReward": 90,
+      "filename": "en/module_2.json"
+    },
+    {
+      "id": 3,
+      "title": "Module 3: SAVING STRATEGIES (SMART SAVING)",
+      "category": "Foundations",
+      "language": "en",
+      "readTimeMinutes": 21,
+      "xpReward": 110,
+      "filename": "en/module_3.json"
+    },
+    {
+      "id": 4,
+      "title": "Module 4: EMERGENCY FUND",
+      "category": "Foundations",
+      "language": "en",
+      "readTimeMinutes": 14,
+      "xpReward": 130,
+      "filename": "en/module_4.json"
+    },
+    {
+      "id": 5,
+      "title": "Module 5: DEBT AND CREDIT (DANGER ZONE)",
+      "category": "Budgeting & Saving",
+      "language": "en",
+      "readTimeMinutes": 57,
+      "xpReward": 150,
+      "filename": "en/module_5.json"
+    },
+    {
+      "id": 6,
+      "title": "Module 6: BANKING BASICS (EVERYDAY BANKING)",
+      "category": "Budgeting & Saving",
+      "language": "en",
+      "readTimeMinutes": 18,
+      "xpReward": 170,
+      "filename": "en/module_6.json"
+    },
+    {
+      "id": 7,
+      "title": "Module 7: INVESTMENT BASICS (GROW YOUR MONEY)",
+      "category": "Banking & Credit",
+      "language": "en",
+      "readTimeMinutes": 19,
+      "xpReward": 190,
+      "filename": "en/module_7.json"
+    },
+    {
+      "id": 8,
+      "title": "Module 8: FINANCIAL INDEPENDENCE",
+      "category": "Banking & Credit",
+      "language": "en",
+      "readTimeMinutes": 51,
+      "xpReward": 210,
+      "filename": "en/module_8.json"
+    },
+    {
+      "id": 9,
+      "title": "Module 9: INSURANCE BASICS",
+      "category": "Banking & Credit",
+      "language": "en",
+      "readTimeMinutes": 18,
+      "xpReward": 230,
+      "filename": "en/module_9.json"
+    },
+    {
+      "id": 10,
+      "title": "Module 10: TAX BASICS FOR STUDENTS",
+      "category": "Investing & Markets",
+      "language": "en",
+      "readTimeMinutes": 15,
+      "xpReward": 250,
+      "filename": "en/module_10.json"
+    },
+    {
+      "id": 11,
+      "title": "Module 11: REAL-WORLD FINANCIAL",
+      "category": "Investing & Markets",
+      "language": "en",
+      "readTimeMinutes": 60,
+      "xpReward": 270,
+      "filename": "en/module_11.json"
+    },
+    {
+      "id": 12,
+      "title": "Module 12: BEHAVIORAL FINANCE AND MONEY PSYCHOLOGY",
+      "category": "Investing & Markets",
+      "language": "en",
+      "readTimeMinutes": 93,
+      "xpReward": 290,
+      "filename": "en/module_12.json"
+    },
+    {
+      "id": 13,
+      "title": "Module 13: ADVANCED TAX AND FREELANCER PLANNING",
+      "category": "Tax & Govt Schemes",
+      "language": "en",
+      "readTimeMinutes": 72,
+      "xpReward": 310,
+      "filename": "en/module_13.json"
+    },
+    {
+      "id": 14,
+      "title": "Module 14: NEGOTIATION AND RELATIONSHIP MONEY SKILLS",
+      "category": "Tax & Govt Schemes",
+      "language": "en",
+      "readTimeMinutes": 102,
+      "xpReward": 330,
+      "filename": "en/module_14.json"
+    },
+    {
+      "id": 15,
+      "title": "Module 15: CREATOR ECONOMY, GIG WORK AND CROSS-BORDER FINANCE",
+      "category": "Tax & Govt Schemes",
+      "language": "en",
+      "readTimeMinutes": 69,
+      "xpReward": 350,
+      "filename": "en/module_15.json"
+    },
+    {
+      "id": 16,
+      "title": "Module 16: FIRST JOB, CTC BREAKDOWN AND CORPORATE BENEFITS",
+      "category": "Tax & Govt Schemes",
+      "language": "en",
+      "readTimeMinutes": 61,
+      "xpReward": 370,
+      "filename": "en/module_16.json"
+    },
+    {
+      "id": 17,
+      "title": "Module 17: AI SCAMS, FINTECH DARK PATTERNS AND CONSUMER RIGHTS",
+      "category": "Tax & Govt Schemes",
+      "language": "en",
+      "readTimeMinutes": 74,
+      "xpReward": 390,
+      "filename": "en/module_17.json"
+    },
+    {
+      "id": 18,
+      "title": "Module 18: ADVANCED WEALTH BUILDING AND ESTATE BASICS",
+      "category": "Tax & Govt Schemes",
+      "language": "en",
+      "readTimeMinutes": 14,
+      "xpReward": 410,
+      "filename": "en/module_18.json"
+    },
+    {
+      "id": 19,
+      "title": "Module 19: GOVERNMENT SCHEMES, STUDENT GRANTS AND SUBSIDIES",
+      "category": "Real World & Career",
+      "language": "en",
+      "readTimeMinutes": 67,
+      "xpReward": 430,
+      "filename": "en/module_19.json"
+    },
+    {
+      "id": 20,
+      "title": "Module 20: STUDENT STARTUP AND ENTREPRENEURSHIP FINANCIALS",
+      "category": "Real World & Career",
+      "language": "en",
+      "readTimeMinutes": 60,
+      "xpReward": 450,
+      "filename": "en/module_20.json"
+    },
+    {
+      "id": 21,
+      "title": "Module 21: TIER-2, TIER-3 AND RURAL STUDENT FINANCE",
+      "category": "Real World & Career",
+      "language": "en",
+      "readTimeMinutes": 52,
+      "xpReward": 470,
+      "filename": "en/module_21.json"
+    },
+    {
+      "id": 22,
+      "title": "Module 22: TURNING 18 LEGAL DOCS, IPOs AND CYBER INSURANCE",
+      "category": "Real World & Career",
+      "language": "en",
+      "readTimeMinutes": 73,
+      "xpReward": 490,
+      "filename": "en/module_22.json"
+    },
+    {
+      "id": 23,
+      "title": "Module 23: WOMEN'S FINANCIAL RIGHTS AND DIVYANGJAN SCHEMES",
+      "category": "Real World & Career",
+      "language": "en",
+      "readTimeMinutes": 63,
+      "xpReward": 510,
+      "filename": "en/module_23.json"
+    },
+    {
+      "id": 1,
+      "title": "Module 1: पैसे की बुनियादी समझ (BASIC UNDERSTANDING OF MONEY)",
+      "category": "Foundations",
+      "language": "hi",
+      "readTimeMinutes": 34,
+      "xpReward": 70,
+      "filename": "hi/module_1.json"
+    },
+    {
+      "id": 2,
+      "title": "Module 2: व्यावहारिक जीवन में बजट (BUDGETING IN REAL LIFE)",
+      "category": "Foundations",
+      "language": "hi",
+      "readTimeMinutes": 30,
+      "xpReward": 90,
+      "filename": "hi/module_2.json"
+    },
+    {
+      "id": 3,
+      "title": "Module 3: बचत की रणनीतियाँ (SMART SAVING)",
+      "category": "Foundations",
+      "language": "hi",
+      "readTimeMinutes": 25,
+      "xpReward": 110,
+      "filename": "hi/module_3.json"
+    },
+    {
+      "id": 4,
+      "title": "Module 4: आपातकालीन निधि (EMERGENCY FUND)",
+      "category": "Foundations",
+      "language": "hi",
+      "readTimeMinutes": 17,
+      "xpReward": 130,
+      "filename": "hi/module_4.json"
+    },
+    {
+      "id": 5,
+      "title": "Module 5: कर्ज और क्रेडिट (DANGER ZONE)",
+      "category": "Budgeting & Saving",
+      "language": "hi",
+      "readTimeMinutes": 68,
+      "xpReward": 150,
+      "filename": "hi/module_5.json"
+    },
+    {
+      "id": 6,
+      "title": "मॉड्यूल 6: बैंकिंग की बुनियादी बातें (दैनिक बैंकिंग) (BANKING BASICS - EVERYDAY BANKING)",
+      "category": "Budgeting & Saving",
+      "language": "hi",
+      "readTimeMinutes": 21,
+      "xpReward": 170,
+      "filename": "hi/module_6.json"
+    },
+    {
+      "id": 7,
+      "title": "मॉड्यूल 7: निवेश की बुनियादी बातें (अपना पैसा बढ़ाएं) (INVESTMENT BASICS - GROW YOUR MONEY)",
+      "category": "Banking & Credit",
+      "language": "hi",
+      "readTimeMinutes": 24,
+      "xpReward": 190,
+      "filename": "hi/module_7.json"
+    },
+    {
+      "id": 8,
+      "title": "मॉड्यूल 8: वित्तीय स्वतंत्रता (FINANCIAL INDEPENDENCE)",
+      "category": "Banking & Credit",
+      "language": "hi",
+      "readTimeMinutes": 61,
+      "xpReward": 210,
+      "filename": "hi/module_8.json"
+    },
+    {
+      "id": 9,
+      "title": "मॉड्यूल 9: बीमा की बुनियादी बातें (INSURANCE BASICS)",
+      "category": "Banking & Credit",
+      "language": "hi",
+      "readTimeMinutes": 21,
+      "xpReward": 230,
+      "filename": "hi/module_9.json"
+    },
+    {
+      "id": 10,
+      "title": "मॉड्यूल 10: छात्रों के लिए कर की बुनियादी बातें (TAX BASICS FOR STUDENTS)",
+      "category": "Investing & Markets",
+      "language": "hi",
+      "readTimeMinutes": 18,
+      "xpReward": 250,
+      "filename": "hi/module_10.json"
+    },
+    {
+      "id": 11,
+      "title": "मॉड्यूल 11: वास्तविक दुनिया के वित्तीय परिदृश्य (REAL-WORLD FINANCIAL)",
+      "category": "Investing & Markets",
+      "language": "hi",
+      "readTimeMinutes": 69,
+      "xpReward": 270,
+      "filename": "hi/module_11.json"
+    },
+    {
+      "id": 12,
+      "title": "मॉड्यूल 12: व्यवहारिक वित्त और धन का मनोविज्ञान (BEHAVIORAL FINANCE AND MONEY PSYCHOLOGY)",
+      "category": "Investing & Markets",
+      "language": "hi",
+      "readTimeMinutes": 64,
+      "xpReward": 290,
+      "filename": "hi/module_12.json"
+    },
+    {
+      "id": 13,
+      "title": "मॉड्यूल 13: उन्नत कर और फ्रीलांसर योजना (ADVANCED TAX AND FREELANCER PLANNING)",
+      "category": "Tax & Govt Schemes",
+      "language": "hi",
+      "readTimeMinutes": 48,
+      "xpReward": 310,
+      "filename": "hi/module_13.json"
+    },
+    {
+      "id": 14,
+      "title": "मॉड्यूल 14: नेगोशिएशन (मोलभाव) और रिलेशनशिप मनी स्किल्स",
+      "category": "Tax & Govt Schemes",
+      "language": "hi",
+      "readTimeMinutes": 112,
+      "xpReward": 330,
+      "filename": "hi/module_14.json"
+    },
+    {
+      "id": 15,
+      "title": "मॉड्यूल 15: क्रिएटर्स इकोनॉमी, गिग वर्क और क्रॉस-बॉर्डर फाइनेंस",
+      "category": "Tax & Govt Schemes",
+      "language": "hi",
+      "readTimeMinutes": 78,
+      "xpReward": 350,
+      "filename": "hi/module_15.json"
+    },
+    {
+      "id": 16,
+      "title": "मॉड्यूल 16: पहली नौकरी, CTC ब्रेकडाउन और कॉर्पोरेट बेनेफिट्स",
+      "category": "Tax & Govt Schemes",
+      "language": "hi",
+      "readTimeMinutes": 66,
+      "xpReward": 370,
+      "filename": "hi/module_16.json"
+    },
+    {
+      "id": 17,
+      "title": "Module 17: AI घोटाले, फिनटेक डार्क पैटर्न और उपभोक्ता अधिकार",
+      "category": "Tax & Govt Schemes",
+      "language": "hi",
+      "readTimeMinutes": 85,
+      "xpReward": 390,
+      "filename": "hi/module_17.json"
+    },
+    {
+      "id": 18,
+      "title": "मॉड्यूल 18: उन्नत धन सृजन और वसीयत/संपदा योजना के मूल सिद्धांत",
+      "category": "Tax & Govt Schemes",
+      "language": "hi",
+      "readTimeMinutes": 15,
+      "xpReward": 410,
+      "filename": "hi/module_18.json"
+    },
+    {
+      "id": 19,
+      "title": "मॉड्यूल 19: सरकारी योजनाएं, छात्र अनुदान और सब्सिडी",
+      "category": "Real World & Career",
+      "language": "hi",
+      "readTimeMinutes": 64,
+      "xpReward": 430,
+      "filename": "hi/module_19.json"
+    },
+    {
+      "id": 20,
+      "title": "मॉड्यूल 20: छात्र स्टार्टअप और उद्यमिता अर्थशास्त्र (FINANCIALS)",
+      "category": "Real World & Career",
+      "language": "hi",
+      "readTimeMinutes": 67,
+      "xpReward": 450,
+      "filename": "hi/module_20.json"
+    },
+    {
+      "id": 21,
+      "title": "मॉड्यूल 21: टायर-2, टायर-3 और ग्रामीण छात्र वित्त",
+      "category": "Real World & Career",
+      "language": "hi",
+      "readTimeMinutes": 58,
+      "xpReward": 470,
+      "filename": "hi/module_21.json"
+    },
+    {
+      "id": 22,
+      "title": "मॉड्यूल 22: 18 साल का होना — कानूनी दस्तावेज, आईपीओ (IPOs) और साइबर बीमा",
+      "category": "Real World & Career",
+      "language": "hi",
+      "readTimeMinutes": 82,
+      "xpReward": 490,
+      "filename": "hi/module_22.json"
+    },
+    {
+      "id": 23,
+      "title": "मॉड्यूल 23: महिलाओं के वित्तीय अधिकार और दिव्यांगजन योजनाएं",
+      "category": "Real World & Career",
+      "language": "hi",
+      "readTimeMinutes": 71,
+      "xpReward": 510,
+      "filename": "hi/module_23.json"
+    },
+    {
+      "id": 6,
+      "title": "Module 6: BANKING BASICS (EVERYDAY",
+      "category": "Budgeting & Saving",
+      "language": "hinglish",
+      "readTimeMinutes": 15,
+      "xpReward": 170,
+      "filename": "hinglish/module_6.json"
+    },
+    {
+      "id": 23,
+      "title": "Module 23: WOMEN'S FINANCIAL RIGHTS AUR DIVYANGJAN SCHEMES",
+      "category": "Real World & Career",
+      "language": "hinglish",
+      "readTimeMinutes": 65,
+      "xpReward": 510,
+      "filename": "hinglish/module_23.json"
+    },
+    {
+      "id": 1,
+      "title": "Module 1: PAISE  KI  BASIC  SAMAJH",
+      "category": "Foundations",
+      "language": "hinglish",
+      "readTimeMinutes": 28,
+      "xpReward": 70,
+      "filename": "hinglish/module_1.json"
+    },
+    {
+      "id": 2,
+      "title": "Module 2: BUDGETING IN REAL LIFE",
+      "category": "Foundations",
+      "language": "hinglish",
+      "readTimeMinutes": 27,
+      "xpReward": 90,
+      "filename": "hinglish/module_2.json"
+    },
+    {
+      "id": 3,
+      "title": "Module 3: SAVING STRATEGIES (SMART",
+      "category": "Foundations",
+      "language": "hinglish",
+      "readTimeMinutes": 20,
+      "xpReward": 110,
+      "filename": "hinglish/module_3.json"
+    },
+    {
+      "id": 4,
+      "title": "Module 4: EMERGENCY FUND",
+      "category": "Foundations",
+      "language": "hinglish",
+      "readTimeMinutes": 15,
+      "xpReward": 130,
+      "filename": "hinglish/module_4.json"
+    },
+    {
+      "id": 5,
+      "title": "Module 5: DEBT AUR CREDIT (DANGER",
+      "category": "Budgeting & Saving",
+      "language": "hinglish",
+      "readTimeMinutes": 57,
+      "xpReward": 150,
+      "filename": "hinglish/module_5.json"
+    },
+    {
+      "id": 7,
+      "title": "Module 7: INVESTMENT BASICS (GROW",
+      "category": "Banking & Credit",
+      "language": "hinglish",
+      "readTimeMinutes": 19,
+      "xpReward": 190,
+      "filename": "hinglish/module_7.json"
+    },
+    {
+      "id": 8,
+      "title": "Module 8: FINANCIAL  INDEPENDENCE",
+      "category": "Banking & Credit",
+      "language": "hinglish",
+      "readTimeMinutes": 53,
+      "xpReward": 210,
+      "filename": "hinglish/module_8.json"
+    },
+    {
+      "id": 9,
+      "title": "Module 9: INSURANCE BASICS",
+      "category": "Banking & Credit",
+      "language": "hinglish",
+      "readTimeMinutes": 19,
+      "xpReward": 230,
+      "filename": "hinglish/module_9.json"
+    },
+    {
+      "id": 10,
+      "title": "Module 10: TAX BASICS FOR STUDENTS",
+      "category": "Investing & Markets",
+      "language": "hinglish",
+      "readTimeMinutes": 16,
+      "xpReward": 250,
+      "filename": "hinglish/module_10.json"
+    },
+    {
+      "id": 11,
+      "title": "Module 11: REAL-WORLD  FINANCIAL",
+      "category": "Investing & Markets",
+      "language": "hinglish",
+      "readTimeMinutes": 61,
+      "xpReward": 270,
+      "filename": "hinglish/module_11.json"
+    },
+    {
+      "id": 12,
+      "title": "Module 12: BEHAVIORAL FINANCE AUR MONEY PSYCHOLOGY",
+      "category": "Investing & Markets",
+      "language": "hinglish",
+      "readTimeMinutes": 97,
+      "xpReward": 290,
+      "filename": "hinglish/module_12.json"
+    },
+    {
+      "id": 13,
+      "title": "Module 13: ADVANCED TAX AND FREELANCER PLANNING",
+      "category": "Tax & Govt Schemes",
+      "language": "hinglish",
+      "readTimeMinutes": 114,
+      "xpReward": 310,
+      "filename": "hinglish/module_13.json"
+    },
+    {
+      "id": 14,
+      "title": "Module 14: NEGOTIATION AUR RELATIONSHIP MONEY SKILLS",
+      "category": "Tax & Govt Schemes",
+      "language": "hinglish",
+      "readTimeMinutes": 103,
+      "xpReward": 330,
+      "filename": "hinglish/module_14.json"
+    },
+    {
+      "id": 15,
+      "title": "Module 15: CREATOR ECONOMY, GIG WORK AUR CROSS-BORDER FINANCE",
+      "category": "Tax & Govt Schemes",
+      "language": "hinglish",
+      "readTimeMinutes": 70,
+      "xpReward": 350,
+      "filename": "hinglish/module_15.json"
+    },
+    {
+      "id": 16,
+      "title": "Module 16: FIRST JOB, CTC BREAKDOWN AUR CORPORATE BENEFITS",
+      "category": "Tax & Govt Schemes",
+      "language": "hinglish",
+      "readTimeMinutes": 61,
+      "xpReward": 370,
+      "filename": "hinglish/module_16.json"
+    },
+    {
+      "id": 17,
+      "title": "Module 17: AI SCAMS, FINTECH DARK PATTERNS AUR CONSUMER RIGHTS",
+      "category": "Tax & Govt Schemes",
+      "language": "hinglish",
+      "readTimeMinutes": 76,
+      "xpReward": 390,
+      "filename": "hinglish/module_17.json"
+    },
+    {
+      "id": 18,
+      "title": "Module 18: ADVANCED WEALTH BUILDING AUR ESTATE BASICS",
+      "category": "Tax & Govt Schemes",
+      "language": "hinglish",
+      "readTimeMinutes": 14,
+      "xpReward": 410,
+      "filename": "hinglish/module_18.json"
+    },
+    {
+      "id": 19,
+      "title": "Module 19: GOVERNMENT SCHEMES, STUDENT GRANTS AUR SUBSIDIES",
+      "category": "Real World & Career",
+      "language": "hinglish",
+      "readTimeMinutes": 67,
+      "xpReward": 430,
+      "filename": "hinglish/module_19.json"
+    },
+    {
+      "id": 20,
+      "title": "Module 20: STUDENT STARTUP AUR ENTREPRENEURSHIP FINANCIALS",
+      "category": "Real World & Career",
+      "language": "hinglish",
+      "readTimeMinutes": 60,
+      "xpReward": 450,
+      "filename": "hinglish/module_20.json"
+    },
+    {
+      "id": 21,
+      "title": "Module 22: TIER-2, TIER-3 AUR RURAL STUDENT FINANCE",
+      "category": "Real World & Career",
+      "language": "hinglish",
+      "readTimeMinutes": 55,
+      "xpReward": 470,
+      "filename": "hinglish/module_21.json"
+    },
+    {
+      "id": 22,
+      "title": "Module 23: TURNING 18 LEGAL DOCS, IPOs AUR CYBER INSURANCE",
+      "category": "Real World & Career",
+      "language": "hinglish",
+      "readTimeMinutes": 76,
+      "xpReward": 490,
+      "filename": "hinglish/module_22.json"
+    },
+    {
+      "id": 1,
+      "title": "Module 1: BASIC UNDERSTANDING OF MONEY",
+      "category": "Foundations",
+      "language": "bn",
+      "readTimeMinutes": 28,
+      "xpReward": 70,
+      "filename": "bn/module_1.json"
+    },
+    {
+      "id": 2,
+      "title": "Module 2: BUDGETING IN REAL LIFE",
+      "category": "Foundations",
+      "language": "bn",
+      "readTimeMinutes": 27,
+      "xpReward": 90,
+      "filename": "bn/module_2.json"
+    },
+    {
+      "id": 3,
+      "title": "Module 3: SAVING STRATEGIES (SMART SAVING)",
+      "category": "Foundations",
+      "language": "bn",
+      "readTimeMinutes": 21,
+      "xpReward": 110,
+      "filename": "bn/module_3.json"
+    },
+    {
+      "id": 4,
+      "title": "Module 4: EMERGENCY FUND",
+      "category": "Foundations",
+      "language": "bn",
+      "readTimeMinutes": 15,
+      "xpReward": 130,
+      "filename": "bn/module_4.json"
+    },
+    {
+      "id": 5,
+      "title": "Module 5: DEBT AND CREDIT (DANGER ZONE)",
+      "category": "Budgeting & Saving",
+      "language": "bn",
+      "readTimeMinutes": 59,
+      "xpReward": 150,
+      "filename": "bn/module_5.json"
+    },
+    {
+      "id": 6,
+      "title": "Module 6: BANKING BASICS (EVERYDAY BANKING)",
+      "category": "Budgeting & Saving",
+      "language": "bn",
+      "readTimeMinutes": 18,
+      "xpReward": 170,
+      "filename": "bn/module_6.json"
+    },
+    {
+      "id": 7,
+      "title": "মডিউল ৭: ইনভেস্টমেন্ট বেসিকস (টাকা বৃদ্ধি করুন)",
+      "category": "Banking & Credit",
+      "language": "bn",
+      "readTimeMinutes": 20,
+      "xpReward": 190,
+      "filename": "bn/module_7.json"
+    },
+    {
+      "id": 8,
+      "title": "মডিউল ৮: ফিনান্সিয়াল ইন্ডিপেন্ডেন্স (আর্থিক স্বাধীনতা)",
+      "category": "Banking & Credit",
+      "language": "bn",
+      "readTimeMinutes": 51,
+      "xpReward": 210,
+      "filename": "bn/module_8.json"
+    },
+    {
+      "id": 9,
+      "title": "মডিউল ৯: ইন্স্যুরেন্স বেসিকস (বীমা প্রাথমিক ধারণা)",
+      "category": "Banking & Credit",
+      "language": "bn",
+      "readTimeMinutes": 18,
+      "xpReward": 230,
+      "filename": "bn/module_9.json"
+    },
+    {
+      "id": 10,
+      "title": "Module 10: TAX BASICS FOR STUDENTS",
+      "category": "Investing & Markets",
+      "language": "bn",
+      "readTimeMinutes": 15,
+      "xpReward": 250,
+      "filename": "bn/module_10.json"
+    },
+    {
+      "id": 11,
+      "title": "Module 11: REAL-WORLD FINANCIAL",
+      "category": "Investing & Markets",
+      "language": "bn",
+      "readTimeMinutes": 59,
+      "xpReward": 270,
+      "filename": "bn/module_11.json"
+    },
+    {
+      "id": 12,
+      "title": "Module 12: বিহেভিওরাল ফাইন্যান্স এবং অর্থের মনস্তত্ত্ব (BEHAVIORAL FINANCE AND MONEY PSYCHOLOGY)",
+      "category": "Investing & Markets",
+      "language": "bn",
+      "readTimeMinutes": 99,
+      "xpReward": 290,
+      "filename": "bn/module_12.json"
+    },
+    {
+      "id": 13,
+      "title": "Module 13: ADVANCED TAX AND FREELANCER PLANNING",
+      "category": "Tax & Govt Schemes",
+      "language": "bn",
+      "readTimeMinutes": 37,
+      "xpReward": 310,
+      "filename": "bn/module_13.json"
+    },
+    {
+      "id": 14,
+      "title": "Module 14: NEGOTIATION AND RELATIONSHIP MONEY SKILLS",
+      "category": "Tax & Govt Schemes",
+      "language": "bn",
+      "readTimeMinutes": 57,
+      "xpReward": 330,
+      "filename": "bn/module_14.json"
+    },
+    {
+      "id": 15,
+      "title": "Module 15: CREATOR ECONOMY, GIG WORK AND CROSS-BORDER FINANCE",
+      "category": "Tax & Govt Schemes",
+      "language": "bn",
+      "readTimeMinutes": 43,
+      "xpReward": 350,
+      "filename": "bn/module_15.json"
+    },
+    {
+      "id": 16,
+      "title": "Module 16: প্রথম চাকরি, CTC বিভাজন এবং কর্পোরেট বেনিফিট",
+      "category": "Tax & Govt Schemes",
+      "language": "bn",
+      "readTimeMinutes": 59,
+      "xpReward": 370,
+      "filename": "bn/module_16.json"
+    },
+    {
+      "id": 17,
+      "title": "Module 17: এআই স্ক্যাম, ফিনটেক ডার্ক প্যাটার্ন এবং ভোক্তা অধিকার",
+      "category": "Tax & Govt Schemes",
+      "language": "bn",
+      "readTimeMinutes": 50,
+      "xpReward": 390,
+      "filename": "bn/module_17.json"
+    },
+    {
+      "id": 18,
+      "title": "Module 18: এডভান্সড ওয়েলথ বিল্ডিং এবং এস্টেট বেসিকস",
+      "category": "Tax & Govt Schemes",
+      "language": "bn",
+      "readTimeMinutes": 13,
+      "xpReward": 410,
+      "filename": "bn/module_18.json"
+    },
+    {
+      "id": 19,
+      "title": "Module 19: সরকারি প্রকল্প, স্টুডেন্ট গ্রান্ট এবং সাবসিডি",
+      "category": "Real World & Career",
+      "language": "bn",
+      "readTimeMinutes": 24,
+      "xpReward": 430,
+      "filename": "bn/module_19.json"
+    },
+    {
+      "id": 20,
+      "title": "Module 20: STUDENT STARTUP AND ENTREPRENEURSHIP FINANCIALS",
+      "category": "Real World & Career",
+      "language": "bn",
+      "readTimeMinutes": 43,
+      "xpReward": 450,
+      "filename": "bn/module_20.json"
+    },
+    {
+      "id": 21,
+      "title": "মডিউল ২১: টায়ার-২, টায়ার-৩ এবং গ্রামীণ শিক্ষার্থীদের অর্থসংস্থান (TIER-2, TIER-3 AND RURAL STUDENT FINANCE)",
+      "category": "Real World & Career",
+      "language": "bn",
+      "readTimeMinutes": 50,
+      "xpReward": 470,
+      "filename": "bn/module_21.json"
+    },
+    {
+      "id": 22,
+      "title": "মডিউল ২২: ১৮ বছর বয়সে পদার্পণে প্রয়োজনীয় আইনি নথি, IPO এবং সাইবার বীমা (TURNING 18 LEGAL DOCS, IPOs AND CYBER INSURANCE)",
+      "category": "Real World & Career",
+      "language": "bn",
+      "readTimeMinutes": 73,
+      "xpReward": 490,
+      "filename": "bn/module_22.json"
+    },
+    {
+      "id": 23,
+      "title": "মডিউল ২৩: নারীদের আর্থিক অধিকার এবং দিব্যাঙ্গজন প্রকল্পসমূহ (WOMEN'S FINANCIAL RIGHTS AND DIVYANGJAN SCHEMES)",
+      "category": "Real World & Career",
+      "language": "bn",
+      "readTimeMinutes": 62,
+      "xpReward": 510,
+      "filename": "bn/module_23.json"
+    },
+    {
+      "id": 1,
+      "title": "Module 1: BASIC UNDERSTANDING OF MONEY",
+      "category": "Foundations",
+      "language": "bho",
+      "readTimeMinutes": 31,
+      "xpReward": 70,
+      "filename": "bho/module_1.json"
+    },
+    {
+      "id": 2,
+      "title": "Module 2: BUDGETING IN REAL LIFE",
+      "category": "Foundations",
+      "language": "bho",
+      "readTimeMinutes": 29,
+      "xpReward": 90,
+      "filename": "bho/module_2.json"
+    },
+    {
+      "id": 3,
+      "title": "Module 3: SAVING STRATEGIES (SMART SAVING)",
+      "category": "Foundations",
+      "language": "bho",
+      "readTimeMinutes": 23,
+      "xpReward": 110,
+      "filename": "bho/module_3.json"
+    },
+    {
+      "id": 4,
+      "title": "Module 4: EMERGENCY FUND",
+      "category": "Foundations",
+      "language": "bho",
+      "readTimeMinutes": 16,
+      "xpReward": 130,
+      "filename": "bho/module_4.json"
+    },
+    {
+      "id": 5,
+      "title": "Module 5: कर्जा आ क्रेडिट (खतरा के क्षेत्र)",
+      "category": "Budgeting & Saving",
+      "language": "bho",
+      "readTimeMinutes": 64,
+      "xpReward": 150,
+      "filename": "bho/module_5.json"
+    },
+    {
+      "id": 6,
+      "title": "Module 6: बैंकिंग के बुनियादी बातें (रोजमर्रा के बैंकिंग)",
+      "category": "Budgeting & Saving",
+      "language": "bho",
+      "readTimeMinutes": 20,
+      "xpReward": 170,
+      "filename": "bho/module_6.json"
+    },
+    {
+      "id": 7,
+      "title": "Module 7: INVESTMENT BASICS (GROW YOUR MONEY)",
+      "category": "Banking & Credit",
+      "language": "bho",
+      "readTimeMinutes": 21,
+      "xpReward": 190,
+      "filename": "bho/module_7.json"
+    },
+    {
+      "id": 8,
+      "title": "Module 8: FINANCIAL INDEPENDENCE",
+      "category": "Banking & Credit",
+      "language": "bho",
+      "readTimeMinutes": 56,
+      "xpReward": 210,
+      "filename": "bho/module_8.json"
+    },
+    {
+      "id": 9,
+      "title": "Module 9: INSURANCE BASICS (बीमा के मूल बातें)",
+      "category": "Banking & Credit",
+      "language": "bho",
+      "readTimeMinutes": 21,
+      "xpReward": 230,
+      "filename": "bho/module_9.json"
+    },
+    {
+      "id": 10,
+      "title": "Module 10: TAX BASICS FOR STUDENTS",
+      "category": "Investing & Markets",
+      "language": "bho",
+      "readTimeMinutes": 18,
+      "xpReward": 250,
+      "filename": "bho/module_10.json"
+    },
+    {
+      "id": 11,
+      "title": "Module 11: असली दुनिया के वित्तीय परिदृश्य (REAL-WORLD FINANCIAL SCENARIOS)",
+      "category": "Investing & Markets",
+      "language": "bho",
+      "readTimeMinutes": 69,
+      "xpReward": 270,
+      "filename": "bho/module_11.json"
+    },
+    {
+      "id": 12,
+      "title": "Module 12: व्यवहार संबंधी वित्त और पैसा के मनोविज्ञान (BEHAVIORAL FINANCE AND MONEY PSYCHOLOGY)",
+      "category": "Investing & Markets",
+      "language": "bho",
+      "readTimeMinutes": 108,
+      "xpReward": 290,
+      "filename": "bho/module_12.json"
+    },
+    {
+      "id": 13,
+      "title": "मॉड्यूल 13: एडवांस टैक्स आ फ्रीलांसर खातिर टैक्स प्लानिंग",
+      "category": "Tax & Govt Schemes",
+      "language": "bho",
+      "readTimeMinutes": 53,
+      "xpReward": 310,
+      "filename": "bho/module_13.json"
+    },
+    {
+      "id": 14,
+      "title": "मॉड्यूल 14: नेगोशिएशन आ रिलेशनशिप मनी स्किल्स",
+      "category": "Tax & Govt Schemes",
+      "language": "bho",
+      "readTimeMinutes": 18,
+      "xpReward": 330,
+      "filename": "bho/module_14.json"
+    },
+    {
+      "id": 15,
+      "title": "Module 15: CREATOR ECONOMY, GIG WORK AND CROSS-BORDER FINANCE",
+      "category": "Tax & Govt Schemes",
+      "language": "bho",
+      "readTimeMinutes": 75,
+      "xpReward": 350,
+      "filename": "bho/module_15.json"
+    },
+    {
+      "id": 16,
+      "title": "Module 16: पहिल जॉब, CTC BREAKDOWN अउर CORPORATE BENEFITS",
+      "category": "Tax & Govt Schemes",
+      "language": "bho",
+      "readTimeMinutes": 63,
+      "xpReward": 370,
+      "filename": "bho/module_16.json"
+    },
+    {
+      "id": 17,
+      "title": "Module 17: AI SCAMS, FINTECH DARK PATTERNS AND CONSUMER RIGHTS",
+      "category": "Tax & Govt Schemes",
+      "language": "bho",
+      "readTimeMinutes": 81,
+      "xpReward": 390,
+      "filename": "bho/module_17.json"
+    },
+    {
+      "id": 18,
+      "title": "Module 18: एडवांस वेल्थ बिल्डिंग आ एस्टेट के बुनियादी बातें (ADVANCED WEALTH BUILDING AND ESTATE BASICS)",
+      "category": "Tax & Govt Schemes",
+      "language": "bho",
+      "readTimeMinutes": 15,
+      "xpReward": 410,
+      "filename": "bho/module_18.json"
+    },
+    {
+      "id": 19,
+      "title": "Module 19: सरकारी योजना, स्टूडेंट ग्रांट आ सब्सिडी (GOVERNMENT SCHEMES, STUDENT GRANTS AND SUBSIDIES)",
+      "category": "Real World & Career",
+      "language": "bho",
+      "readTimeMinutes": 75,
+      "xpReward": 430,
+      "filename": "bho/module_19.json"
+    },
+    {
+      "id": 20,
+      "title": "Module 20: STUDENT STARTUP AND ENTREPRENEURSHIP FINANCIALS",
+      "category": "Real World & Career",
+      "language": "bho",
+      "readTimeMinutes": 71,
+      "xpReward": 450,
+      "filename": "bho/module_20.json"
+    },
+    {
+      "id": 21,
+      "title": "Module 21: TIER-2, TIER-3 AND RURAL STUDENT FINANCE",
+      "category": "Real World & Career",
+      "language": "bho",
+      "readTimeMinutes": 56,
+      "xpReward": 470,
+      "filename": "bho/module_21.json"
+    },
+    {
+      "id": 22,
+      "title": "Module 22: TURNING 18 LEGAL DOCS, IPOs AND CYBER INSURANCE",
+      "category": "Real World & Career",
+      "language": "bho",
+      "readTimeMinutes": 78,
+      "xpReward": 490,
+      "filename": "bho/module_22.json"
+    },
+    {
+      "id": 23,
+      "title": "Module 23: WOMEN'S FINANCIAL RIGHTS AND DIVYANGJAN SCHEMES",
+      "category": "Real World & Career",
+      "language": "bho",
+      "readTimeMinutes": 67,
+      "xpReward": 510,
+      "filename": "bho/module_23.json"
+    },
+    {
+      "id": 1,
+      "title": "Module 1: નાણાંની મૂળભૂત સમજ (BASIC UNDERSTANDING OF MONEY)",
+      "category": "Foundations",
+      "language": "gu",
+      "readTimeMinutes": 30,
+      "xpReward": 70,
+      "filename": "gu/module_1.json"
+    },
+    {
+      "id": 2,
+      "title": "Module 2: વાસ્તવિક જીવનમાં બજેટિંગ (BUDGETING IN REAL LIFE)",
+      "category": "Foundations",
+      "language": "gu",
+      "readTimeMinutes": 28,
+      "xpReward": 90,
+      "filename": "gu/module_2.json"
+    },
+    {
+      "id": 3,
+      "title": "Module 3: બચત વ્યૂહરચનાઓ (સ્માર્ટ સેવિંગ) [SAVING STRATEGIES (SMART SAVING)]",
+      "category": "Foundations",
+      "language": "gu",
+      "readTimeMinutes": 22,
+      "xpReward": 110,
+      "filename": "gu/module_3.json"
+    },
+    {
+      "id": 4,
+      "title": "Module 4: ઇમરજન્સી ફંડ (EMERGENCY FUND)",
+      "category": "Foundations",
+      "language": "gu",
+      "readTimeMinutes": 14,
+      "xpReward": 130,
+      "filename": "gu/module_4.json"
+    },
+    {
+      "id": 5,
+      "title": "Module 5: દેવું અને ક્રેડિટ (ખતરનાક ઝોન) [DEBT AND CREDIT (DANGER ZONE)]",
+      "category": "Budgeting & Saving",
+      "language": "gu",
+      "readTimeMinutes": 62,
+      "xpReward": 150,
+      "filename": "gu/module_5.json"
+    },
+    {
+      "id": 6,
+      "title": "મોડ્યુલ 6: બેંકિંગના મૂળભૂત નિયમો (રોજિંદુ બેંકિંગ)",
+      "category": "Budgeting & Saving",
+      "language": "gu",
+      "readTimeMinutes": 19,
+      "xpReward": 170,
+      "filename": "gu/module_6.json"
+    },
+    {
+      "id": 7,
+      "title": "મોડ્યુલ 7: રોકાણના મૂળભૂત નિયમો (તમારા પૈસા વધારો)",
+      "category": "Banking & Credit",
+      "language": "gu",
+      "readTimeMinutes": 21,
+      "xpReward": 190,
+      "filename": "gu/module_7.json"
+    },
+    {
+      "id": 8,
+      "title": "મોડ્યુલ 8: નાણાકીય સ્વતંત્રતા",
+      "category": "Banking & Credit",
+      "language": "gu",
+      "readTimeMinutes": 52,
+      "xpReward": 210,
+      "filename": "gu/module_8.json"
+    },
+    {
+      "id": 9,
+      "title": "મોડ્યુલ 9: ઈન્સ્યોરન્સના પાયાના સિદ્ધાંતો (INSURANCE BASICS)",
+      "category": "Banking & Credit",
+      "language": "gu",
+      "readTimeMinutes": 19,
+      "xpReward": 230,
+      "filename": "gu/module_9.json"
+    },
+    {
+      "id": 10,
+      "title": "મોડ્યુલ 10: વિદ્યાર્થીઓ માટે ટેક્સની મૂળભૂત વાતો (TAX BASICS FOR STUDENTS)",
+      "category": "Investing & Markets",
+      "language": "gu",
+      "readTimeMinutes": 16,
+      "xpReward": 250,
+      "filename": "gu/module_10.json"
+    },
+    {
+      "id": 11,
+      "title": "મોડ્યુલ 11: વાસ્તવિક દુનિયાના નાણાકીય મુદ્દાઓ (REAL-WORLD FINANCIAL)",
+      "category": "Investing & Markets",
+      "language": "gu",
+      "readTimeMinutes": 63,
+      "xpReward": 270,
+      "filename": "gu/module_11.json"
+    },
+    {
+      "id": 12,
+      "title": "Module 12: વ્યવહારશાસ્ત્રીય નાણાકીય વિજ્ઞાન અને નાણાકીય મનોવિજ્ઞાન",
+      "category": "Investing & Markets",
+      "language": "gu",
+      "readTimeMinutes": 72,
+      "xpReward": 290,
+      "filename": "gu/module_12.json"
+    },
+    {
+      "id": 13,
+      "title": "Module 13: એડવાન્સ ટેક્સ અને ફ્રીલાન્સર પ્લાનિંગ",
+      "category": "Tax & Govt Schemes",
+      "language": "gu",
+      "readTimeMinutes": 76,
+      "xpReward": 310,
+      "filename": "gu/module_13.json"
+    },
+    {
+      "id": 14,
+      "title": "Module 14: નેગોશિયેશન અને રિલેશનશિપ મની સ્કિલ્સ",
+      "category": "Tax & Govt Schemes",
+      "language": "gu",
+      "readTimeMinutes": 21,
+      "xpReward": 330,
+      "filename": "gu/module_14.json"
+    },
+    {
+      "id": 15,
+      "title": "મોડ્યુલ 15: ક્રિએટર ઈકોનોમી, ગિગ વર્ક અને ક્રોસ-બોર્ડર ફાઇનાન્સ",
+      "category": "Tax & Govt Schemes",
+      "language": "gu",
+      "readTimeMinutes": 71,
+      "xpReward": 350,
+      "filename": "gu/module_15.json"
+    },
+    {
+      "id": 16,
+      "title": "Module 16: પ્રથમ જોબ, CTC બ્રેકડાઉન અને કોર્પોરેટ બેનિફિટ્સ",
+      "category": "Tax & Govt Schemes",
+      "language": "gu",
+      "readTimeMinutes": 60,
+      "xpReward": 370,
+      "filename": "gu/module_16.json"
+    },
+    {
+      "id": 17,
+      "title": "મોડ્યુલ 17: AI કૌભાંડો (AI SCAMS), ફિનટેક ડાર્ક પેટર્ન્સ (FINTECH DARK PATTERNS) અને ગ્રાહક અધિકારો (CONSUMER RIGHTS)",
+      "category": "Tax & Govt Schemes",
+      "language": "gu",
+      "readTimeMinutes": 76,
+      "xpReward": 390,
+      "filename": "gu/module_17.json"
+    },
+    {
+      "id": 18,
+      "title": "Module 18: ADVANCED WEALTH BUILDING AND ESTATE BASICS",
+      "category": "Tax & Govt Schemes",
+      "language": "gu",
+      "readTimeMinutes": 14,
+      "xpReward": 410,
+      "filename": "gu/module_18.json"
+    },
+    {
+      "id": 19,
+      "title": "मोड्युल 19: सरकारी योजनाओ, विद्यार्थी ग्रान्ट्स अने सबसिडी",
+      "category": "Real World & Career",
+      "language": "gu",
+      "readTimeMinutes": 36,
+      "xpReward": 430,
+      "filename": "gu/module_19.json"
+    },
+    {
+      "id": 20,
+      "title": "મોડ્યુલ 20: સ્ટુડન્ટ સ્ટાર્ટઅપ અને એન્ટરપ્રિન્યોરશિપ ફાઇનાન્સિયલ્સ",
+      "category": "Real World & Career",
+      "language": "gu",
+      "readTimeMinutes": 61,
+      "xpReward": 450,
+      "filename": "gu/module_20.json"
+    },
+    {
+      "id": 21,
+      "title": "મોડ્યુલ 21: ટાયર-2, ટાયર-3 અને ગ્રામીણ વિદ્યાર્થીનો નાણાકીય",
+      "category": "Real World & Career",
+      "language": "gu",
+      "readTimeMinutes": 40,
+      "xpReward": 470,
+      "filename": "gu/module_21.json"
+    },
+    {
+      "id": 22,
+      "title": "Module 22: 18 વર્ષનું થવું - કાનૂની દસ્તાવેજો, IPOs અને સાયબર વીમા",
+      "category": "Real World & Career",
+      "language": "gu",
+      "readTimeMinutes": 54,
+      "xpReward": 490,
+      "filename": "gu/module_22.json"
+    },
+    {
+      "id": 23,
+      "title": "Module 23",
+      "category": "Real World & Career",
+      "language": "gu",
+      "readTimeMinutes": 37,
+      "xpReward": 510,
+      "filename": "gu/module_23.json"
+    },
+    {
+      "id": 1,
+      "title": "Module 1: BASIC UNDERSTANDING OF MONEY",
+      "category": "Foundations",
+      "language": "kn",
+      "readTimeMinutes": 25,
+      "xpReward": 70,
+      "filename": "kn/module_1.json"
+    },
+    {
+      "id": 2,
+      "title": "ಮಾಡ್ಯೂಲ್ 2: ನೈಜ ಜೀವನದಲ್ಲಿ ಬಜೆಟ್ ನಿರ್ವಹಣೆ (BUDGETING IN REAL LIFE)",
+      "category": "Foundations",
+      "language": "kn",
+      "readTimeMinutes": 26,
+      "xpReward": 90,
+      "filename": "kn/module_2.json"
+    },
+    {
+      "id": 3,
+      "title": "ಮಾಡ್ಯೂಲ್ 3: ಉಳಿತಾಯ ತಂತ್ರಗಳು (ಸ್ಮಾರ್ಟ್ ಉಳಿತಾಯ)",
+      "category": "Foundations",
+      "language": "kn",
+      "readTimeMinutes": 19,
+      "xpReward": 110,
+      "filename": "kn/module_3.json"
+    },
+    {
+      "id": 4,
+      "title": "ಮಾಡ್ಯೂಲ್ 4: ತುರ್ತು ನಿಧಿ",
+      "category": "Foundations",
+      "language": "kn",
+      "readTimeMinutes": 13,
+      "xpReward": 130,
+      "filename": "kn/module_4.json"
+    },
+    {
+      "id": 5,
+      "title": "ಮಾಡ್ಯೂಲ್ 5: ಸಾಲ ಮತ್ತು ಕ್ರೆಡಿಟ್ (ಅಪಾಯದ ವಲಯ)",
+      "category": "Budgeting & Saving",
+      "language": "kn",
+      "readTimeMinutes": 32,
+      "xpReward": 150,
+      "filename": "kn/module_5.json"
+    },
+    {
+      "id": 6,
+      "title": "ಮಾಡ್ಯೂಲ್ 6: ಬ್ಯಾಂಕಿಂಗ್ ಮೂಲಭೂತ ಅಂಶಗಳು (ಪ್ರತಿದಿನದ ಬ್ಯಾಂಕಿಂಗ್)",
+      "category": "Budgeting & Saving",
+      "language": "kn",
+      "readTimeMinutes": 17,
+      "xpReward": 170,
+      "filename": "kn/module_6.json"
+    },
+    {
+      "id": 7,
+      "title": "ಮಾಡ್ಯೂಲ್ 7: ಹೂಡಿಕೆ ಮೂಲಭೂತ ಅಂಶಗಳು (ನಿಮ್ಮ ಹಣವನ್ನು ಬೆಳೆಸಿ)",
+      "category": "Banking & Credit",
+      "language": "kn",
+      "readTimeMinutes": 20,
+      "xpReward": 190,
+      "filename": "kn/module_7.json"
+    },
+    {
+      "id": 8,
+      "title": "ಮಾಡ್ಯೂಲ್ 8: ಹಣಕಾಸು ಸ್ವಾತಂತ್ರ್ಯ",
+      "category": "Banking & Credit",
+      "language": "kn",
+      "readTimeMinutes": 26,
+      "xpReward": 210,
+      "filename": "kn/module_8.json"
+    },
+    {
+      "id": 9,
+      "title": "ಮಾಡ್ಯೂಲ್ 9: ವಿಮಾ ಮೂಲಭೂತ ಅಂಶಗಳು",
+      "category": "Banking & Credit",
+      "language": "kn",
+      "readTimeMinutes": 16,
+      "xpReward": 230,
+      "filename": "kn/module_9.json"
+    },
+    {
+      "id": 10,
+      "title": "ಮಾಡ್ಯೂಲ್ 10: ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ತೆರಿಗೆ ಮೂಲಭೂತ ಅಂಶಗಳು",
+      "category": "Investing & Markets",
+      "language": "kn",
+      "readTimeMinutes": 14,
+      "xpReward": 250,
+      "filename": "kn/module_10.json"
+    },
+    {
+      "id": 11,
+      "title": "ಮಾಡ್ಯೂಲ್ 11: ನೈಜ ಜಗತ್ತಿನ ಹಣಕಾಸು",
+      "category": "Investing & Markets",
+      "language": "kn",
+      "readTimeMinutes": 60,
+      "xpReward": 270,
+      "filename": "kn/module_11.json"
+    },
+    {
+      "id": 12,
+      "title": "ಮಾಡ್ಯೂಲ್ 12: ವರ್ತನಾತ್ಮಕ ಹಣಕಾಸು ಮತ್ತು ಹಣ ಮನೋವಿಜ್ಞಾನ",
+      "category": "Investing & Markets",
+      "language": "kn",
+      "readTimeMinutes": 93,
+      "xpReward": 290,
+      "filename": "kn/module_12.json"
+    },
+    {
+      "id": 13,
+      "title": "ಮಾಡ್ಯೂಲ್ 13: ಸುಧಾರಿತ ತೆರಿಗೆ ಮತ್ತು ಫ್ರೀಲ್ಯಾನ್ಸರ್ ಯೋಜನೆ",
+      "category": "Tax & Govt Schemes",
+      "language": "kn",
+      "readTimeMinutes": 71,
+      "xpReward": 310,
+      "filename": "kn/module_13.json"
+    },
+    {
+      "id": 14,
+      "title": "ಮಾಡ್ಯೂಲ್ 14: ಸಂಧಾನ ಮತ್ತು ಸಂಬಂಧ ಭಾಣ ಕೌಶಲ್ಯಗಳು",
+      "category": "Tax & Govt Schemes",
+      "language": "kn",
+      "readTimeMinutes": 102,
+      "xpReward": 330,
+      "filename": "kn/module_14.json"
+    },
+    {
+      "id": 15,
+      "title": "ಮಾಡ್ಯೂಲ್ 15: ಸೃಷ್ಟಿಕರ್ತ ಆರ್ಥಿಕತೆ, ಗಿಗ್ ಕೆಲಸ ಮತ್ತು ಗಡಿ ಪಾರ ಹಣಕಾಸ್ ಗ್",
+      "category": "Tax & Govt Schemes",
+      "language": "kn",
+      "readTimeMinutes": 69,
+      "xpReward": 350,
+      "filename": "kn/module_15.json"
+    },
+    {
+      "id": 16,
+      "title": "Module 16: ಮೊದಲ ಕೆಲಸ, CTC ವಿಭಜನೆ ಮತ್ತು ಕಾರ್ಪೊರೇಟ್ ಪ್ರಯೋಜನಗಳು",
+      "category": "Tax & Govt Schemes",
+      "language": "kn",
+      "readTimeMinutes": 57,
+      "xpReward": 370,
+      "filename": "kn/module_16.json"
+    },
+    {
+      "id": 17,
+      "title": "ಘಟಕ 17: AI ವಂಚನೆಗಳು, ಫಿಂಟೆಕ್ ಡಾರ್ಕ್ ಪ್ಯಾಟರ್ನ್‌ಗಳು ಮತ್ತು ಗ್ರಾಕ ಹಕ್ಕುಗಳು",
+      "category": "Tax & Govt Schemes",
+      "language": "kn",
+      "readTimeMinutes": 17,
+      "xpReward": 390,
+      "filename": "kn/module_17.json"
+    },
+    {
+      "id": 18,
+      "title": "ಘಟಕ 18: ಸುಧಾರಿತ ಸಂಪತ್ತು ನಿರ್ಮಾಣ ಮತ್ತು ಆಸ್ತಿ ಮೂಲಗಳು",
+      "category": "Tax & Govt Schemes",
+      "language": "kn",
+      "readTimeMinutes": 12,
+      "xpReward": 410,
+      "filename": "kn/module_18.json"
+    },
+    {
+      "id": 19,
+      "title": "ಮಾಡ್ಯೂಲ್ 19: ಸರ್ಕಾರಿ ಯೋಜನೆಗಳು, ವಿದ್ಯಾರ್ಥಿ ಅನುದಾನಗಳು ಮತ್ತು ಸಬ್ಸಿಡಿಗಳು",
+      "category": "Real World & Career",
+      "language": "kn",
+      "readTimeMinutes": 63,
+      "xpReward": 430,
+      "filename": "kn/module_19.json"
+    },
+    {
+      "id": 20,
+      "title": "Module 20: STUDENT STARTUP AND ENTREPRENEURSHIP FINANCIALS",
+      "category": "Real World & Career",
+      "language": "kn",
+      "readTimeMinutes": 3,
+      "xpReward": 450,
+      "filename": "kn/module_20.json"
+    },
+    {
+      "id": 21,
+      "title": "ಮಾಡ್ಯೂಲ್ 21: ಟೈರ್-2, ಟೈರ್-3 ಮತ್ತು ಗ್ರಾಮೀಣ ವಿದ್ಯಾರ್ಥಿ ಹಣಕಾಸು",
+      "category": "Real World & Career",
+      "language": "kn",
+      "readTimeMinutes": 47,
+      "xpReward": 470,
+      "filename": "kn/module_21.json"
+    },
+    {
+      "id": 22,
+      "title": "ಮಾಡ್ಯೂಲ್ 22: 18ಕ್ಕೆ ಕಾಲಿಡುತ್ತಿದ್ದೀರಾ? ಕಾನ್ಫಿಡೆಂಟ್ ಆಗಿ ಕಾನೂನು ದಾಖಲೆಗಳು, IPOಗಳು ಮತ್ತು ಸೈಬರ್ ಇನ್ಶೂರೆನ್ಸ್ ಪಡೆಯಿರಿ!",
+      "category": "Real World & Career",
+      "language": "kn",
+      "readTimeMinutes": 68,
+      "xpReward": 490,
+      "filename": "kn/module_22.json"
+    },
+    {
+      "id": 23,
+      "title": "ಮಾಡ್ಯೂಲ್ 23: ಮಹಿಳೆಯರ ಹಣಕಾಸು ಹಕ್ಕುಗಳು ಮತ್ತು ದಿವ್ಯಾಂಗಜನ ಯೋಜನೆಗಳು",
+      "category": "Real World & Career",
+      "language": "kn",
+      "readTimeMinutes": 59,
+      "xpReward": 510,
+      "filename": "kn/module_23.json"
+    },
+    {
+      "id": 1,
+      "title": "മൊഡ്യൂൾ 1: പണത്തെക്കുറിച്ചുള്ള അടിസ്ഥാന ധാരണ",
+      "category": "Foundations",
+      "language": "ml",
+      "readTimeMinutes": 14,
+      "xpReward": 70,
+      "filename": "ml/module_1.json"
+    },
+    {
+      "id": 2,
+      "title": "മൊഡ്യൂൾ 2: യഥാർത്ഥ ജീവിതത്തിൽ ബജറ്റിംഗ്",
+      "category": "Foundations",
+      "language": "ml",
+      "readTimeMinutes": 3,
+      "xpReward": 90,
+      "filename": "ml/module_2.json"
+    },
+    {
+      "id": 3,
+      "title": "മൊഡ്യൂൾ 3: സേവിംഗ്സ് തന്ത്രങ്ങൾ",
+      "category": "Foundations",
+      "language": "ml",
+      "readTimeMinutes": 3,
+      "xpReward": 110,
+      "filename": "ml/module_3.json"
+    },
+    {
+      "id": 4,
+      "title": "മൊഡ്യൂൾ 4: എമർജൻസി ഫണ്ട്",
+      "category": "Foundations",
+      "language": "ml",
+      "readTimeMinutes": 13,
+      "xpReward": 130,
+      "filename": "ml/module_4.json"
+    },
+    {
+      "id": 5,
+      "title": "MODULE 5: DEBT AND CREDIT (DANGER ZONE)",
+      "category": "Budgeting & Saving",
+      "language": "ml",
+      "readTimeMinutes": 57,
+      "xpReward": 150,
+      "filename": "ml/module_5.json"
+    },
+    {
+      "id": 6,
+      "title": "മൊഡ്യൂൾ 6: ബാങ്കിംഗ് അടിസ്ഥാനങ്ങൾ",
+      "category": "Budgeting & Saving",
+      "language": "ml",
+      "readTimeMinutes": 3,
+      "xpReward": 170,
+      "filename": "ml/module_6.json"
+    },
+    {
+      "id": 7,
+      "title": "Module 7: നിക്ഷേപ അടിസ്ഥാനങ്ങൾ (നിങ്ങളുടെ പണം വളർത്തുക)",
+      "category": "Banking & Credit",
+      "language": "ml",
+      "readTimeMinutes": 17,
+      "xpReward": 190,
+      "filename": "ml/module_7.json"
+    },
+    {
+      "id": 8,
+      "title": "Module 8: FINANCIAL INDEPENDENCE",
+      "category": "Banking & Credit",
+      "language": "ml",
+      "readTimeMinutes": 48,
+      "xpReward": 210,
+      "filename": "ml/module_8.json"
+    },
+    {
+      "id": 9,
+      "title": "മോഡ്യൂൾ 9: ഇൻഷുറൻസ് അടിസ്ഥാനങ്ങൾ",
+      "category": "Banking & Credit",
+      "language": "ml",
+      "readTimeMinutes": 16,
+      "xpReward": 230,
+      "filename": "ml/module_9.json"
+    },
+    {
+      "id": 10,
+      "title": "മോഡ്യൂൾ 10: വിദ്യാർത്ഥികൾക്കുള്ള നികുതി അടിസ്ഥാനങ്ങൾ",
+      "category": "Investing & Markets",
+      "language": "ml",
+      "readTimeMinutes": 13,
+      "xpReward": 250,
+      "filename": "ml/module_10.json"
+    },
+    {
+      "id": 11,
+      "title": "മൊഡ്യൂൾ 11: യഥാർത്ഥ ലോക ഫിനാൻഷ്യൽ സാഹചര്യങ്ങൾ",
+      "category": "Investing & Markets",
+      "language": "ml",
+      "readTimeMinutes": 11,
+      "xpReward": 270,
+      "filename": "ml/module_11.json"
+    },
+    {
+      "id": 12,
+      "title": "മോഡ്യൂൾ 12: ബിഹേവിയറൽ ഫിനാൻസും പണത്തിന്റെ മനഃശാസ്ത്രവും (BEHAVIORAL FINANCE AND MONEY PSYCHOLOGY)",
+      "category": "Investing & Markets",
+      "language": "ml",
+      "readTimeMinutes": 8,
+      "xpReward": 290,
+      "filename": "ml/module_12.json"
+    },
+    {
+      "id": 13,
+      "title": "മൊഡ്യൂൾ 13: അഡ്വാൻസ്ഡ് ടാക്സ് ആൻഡ് ഫ്രീലാൻസർ പ്ലാനിംഗ്",
+      "category": "Tax & Govt Schemes",
+      "language": "ml",
+      "readTimeMinutes": 3,
+      "xpReward": 310,
+      "filename": "ml/module_13.json"
+    },
+    {
+      "id": 14,
+      "title": "Module 14",
+      "category": "Tax & Govt Schemes",
+      "language": "ml",
+      "readTimeMinutes": 3,
+      "xpReward": 330,
+      "filename": "ml/module_14.json"
+    },
+    {
+      "id": 15,
+      "title": "മോഡ്യൂൾ 15: ക്രിയേറ്റർ ഇക്കോണമി, ഗിഗ് വർക്ക്, ക്രോസ്-ബോർഡർ ഫിനാൻസ്",
+      "category": "Tax & Govt Schemes",
+      "language": "ml",
+      "readTimeMinutes": 64,
+      "xpReward": 350,
+      "filename": "ml/module_15.json"
+    },
+    {
+      "id": 16,
+      "title": "മൊഡ്യൂൾ 16: ആദ്യ ജോലി, CTC ബ്രേക്ക്ഡൗൺ, കോർപ്പറേറ്റ് ബെനഫിറ്റുകൾ",
+      "category": "Tax & Govt Schemes",
+      "language": "ml",
+      "readTimeMinutes": 55,
+      "xpReward": 370,
+      "filename": "ml/module_16.json"
+    },
+    {
+      "id": 17,
+      "title": "17.1 ആധുനിക AI ധനകാര്യ തട്ടിപ്പുകളും 2026 സൈബർ ഭീഷണികളും",
+      "category": "Tax & Govt Schemes",
+      "language": "ml",
+      "readTimeMinutes": 17,
+      "xpReward": 390,
+      "filename": "ml/module_17.json"
+    },
+    {
+      "id": 18,
+      "title": "മൊഡ്യൂൾ 18:� വിപുലമായ സമ്പത്ത് നിർമ്മാണവും എസ്റ്റേറ്റ് അടിസ്ഥാനങ്ങളും",
+      "category": "Tax & Govt Schemes",
+      "language": "ml",
+      "readTimeMinutes": 12,
+      "xpReward": 410,
+      "filename": "ml/module_18.json"
+    },
+    {
+      "id": 19,
+      "title": "മോഡ്യൂൾ 19: സർക്കാർ പദ്ധതികൾ, വിദ്യാർത്ഥി ഗ്രാന്റുകൾ, സബ്‌സിഡികൾ",
+      "category": "Real World & Career",
+      "language": "ml",
+      "readTimeMinutes": 60,
+      "xpReward": 430,
+      "filename": "ml/module_19.json"
+    },
+    {
+      "id": 20,
+      "title": "മോഡ്യൂൾ 20: സ്റ്റുഡന്റ് സ്റ്റാർട്ടപ്പും സംരംഭകത്വ ഫിനാൻഷ്യലുകളും (STUDENT STARTUP AND ENTREPRENEURSHIP FINANCIALS)",
+      "category": "Real World & Career",
+      "language": "ml",
+      "readTimeMinutes": 54,
+      "xpReward": 450,
+      "filename": "ml/module_20.json"
+    },
+    {
+      "id": 21,
+      "title": "മൊഡ്യൂൾ 21: ടയർ-2, ടയർ-3, ഗ്രാമീണ വിദ്യാർത്ഥി സാമ്പത്തികം (TIER-2, TIER-3 AND RURAL STUDENT FINANCE)",
+      "category": "Real World & Career",
+      "language": "ml",
+      "readTimeMinutes": 46,
+      "xpReward": 470,
+      "filename": "ml/module_21.json"
+    },
+    {
+      "id": 22,
+      "title": "മൊഡ്യൂൾ 22: 18 വയസ്സാകുന്നത് — നിയമ രേഖകൾ, IPOകൾ & സൈബർ ഇൻഷുറൻസ്",
+      "category": "Real World & Career",
+      "language": "ml",
+      "readTimeMinutes": 5,
+      "xpReward": 490,
+      "filename": "ml/module_22.json"
+    },
+    {
+      "id": 23,
+      "title": "മൊഡ്യൂൾ 23: സ്ത്രീകളുടെ സാമ്പത്തിക അവകാശങ്ങളും ദിവ്യാംഗജൻ പദ്ധതികളും",
+      "category": "Real World & Career",
+      "language": "ml",
+      "readTimeMinutes": 55,
+      "xpReward": 510,
+      "filename": "ml/module_23.json"
+    },
+    {
+      "id": 1,
+      "title": "मॉड्यूल १: पैशांची मूलभूत समज (BASIC UNDERSTANDING OF MONEY)",
+      "category": "Foundations",
+      "language": "mr",
+      "readTimeMinutes": 28,
+      "xpReward": 70,
+      "filename": "mr/module_1.json"
+    },
+    {
+      "id": 2,
+      "title": "Module 2: व्यावहारिक आयुष्यात बजेटिंग (BUDGETING IN REAL LIFE)",
+      "category": "Foundations",
+      "language": "mr",
+      "readTimeMinutes": 29,
+      "xpReward": 90,
+      "filename": "mr/module_2.json"
+    },
+    {
+      "id": 3,
+      "title": "मॉड्यूल ३: बचतीचे धोरण (स्मार्ट बचत)",
+      "category": "Foundations",
+      "language": "mr",
+      "readTimeMinutes": 21,
+      "xpReward": 110,
+      "filename": "mr/module_3.json"
+    },
+    {
+      "id": 4,
+      "title": "मॉड्यूल ४: आणीबाणी निधी (इमर्जन्सी फंड)",
+      "category": "Foundations",
+      "language": "mr",
+      "readTimeMinutes": 14,
+      "xpReward": 130,
+      "filename": "mr/module_4.json"
+    },
+    {
+      "id": 5,
+      "title": "मॉड्यूल ५: कर्ज आणि क्रेडिट (धोक्याचे क्षेत्र)",
+      "category": "Budgeting & Saving",
+      "language": "mr",
+      "readTimeMinutes": 58,
+      "xpReward": 150,
+      "filename": "mr/module_5.json"
+    },
+    {
+      "id": 6,
+      "title": "Module 6: बँक व्यवहार मूलभूत माहिती (दैनंदिन बँक व्यवहार)",
+      "category": "Budgeting & Saving",
+      "language": "mr",
+      "readTimeMinutes": 18,
+      "xpReward": 170,
+      "filename": "mr/module_6.json"
+    },
+    {
+      "id": 7,
+      "title": "Module 7: INVESTMENT BASICS (GROW YOUR MONEY)",
+      "category": "Banking & Credit",
+      "language": "mr",
+      "readTimeMinutes": 20,
+      "xpReward": 190,
+      "filename": "mr/module_7.json"
+    },
+    {
+      "id": 8,
+      "title": "Module 8: FINANCIAL INDEPENDENCE (आर्थिक स्वातंत्र्य)",
+      "category": "Banking & Credit",
+      "language": "mr",
+      "readTimeMinutes": 57,
+      "xpReward": 210,
+      "filename": "mr/module_8.json"
+    },
+    {
+      "id": 9,
+      "title": "मॉड्यूल ९: विम्याची मूलभूत माहिती (INSURANCE BASICS)",
+      "category": "Banking & Credit",
+      "language": "mr",
+      "readTimeMinutes": 19,
+      "xpReward": 230,
+      "filename": "mr/module_9.json"
+    },
+    {
+      "id": 10,
+      "title": "मॉड्यू 10: विद्यार्थ्यांसाठी कराचे मूलभूत नियम (TAX BASICS FOR STUDENTS)",
+      "category": "Investing & Markets",
+      "language": "mr",
+      "readTimeMinutes": 16,
+      "xpReward": 250,
+      "filename": "mr/module_10.json"
+    },
+    {
+      "id": 11,
+      "title": "Module 11: REAL-WORLD FINANCIAL",
+      "category": "Investing & Markets",
+      "language": "mr",
+      "readTimeMinutes": 60,
+      "xpReward": 270,
+      "filename": "mr/module_11.json"
+    },
+    {
+      "id": 12,
+      "title": "Module 12: वर्तनशास्त्र वित्त आणि पैशाचे मानसशास्त्र (BEHAVIORAL FINANCE AND MONEY PSYCHOLOGY)",
+      "category": "Investing & Markets",
+      "language": "mr",
+      "readTimeMinutes": 100,
+      "xpReward": 290,
+      "filename": "mr/module_12.json"
+    },
+    {
+      "id": 13,
+      "title": "मॉड्यूल १३: ॲडव्हान्स टॅक्स आणि फ्रीलान्सर प्लॅनिंग (ADVANCED TAX AND FREELANCER PLANNING)",
+      "category": "Tax & Govt Schemes",
+      "language": "mr",
+      "readTimeMinutes": 75,
+      "xpReward": 310,
+      "filename": "mr/module_13.json"
+    },
+    {
+      "id": 14,
+      "title": "मॉడ्युल 14: वाटाघाटी आणि संबंधातील पैशांचे कौशल्य",
+      "category": "Tax & Govt Schemes",
+      "language": "mr",
+      "readTimeMinutes": 102,
+      "xpReward": 330,
+      "filename": "mr/module_14.json"
+    },
+    {
+      "id": 15,
+      "title": "मॉड्यूल 15: क्रिएटर इकॉनमी, गिग वर्क आणि क्रॉस-बॉर्डर फायनान्स (CREATOR ECONOMY, GIG WORK AND CROSS-BORDER FINANCE)",
+      "category": "Tax & Govt Schemes",
+      "language": "mr",
+      "readTimeMinutes": 69,
+      "xpReward": 350,
+      "filename": "mr/module_15.json"
+    },
+    {
+      "id": 16,
+      "title": "मॉड्यूल 16: पहिली नोकरी, CTC ब्रेकडाऊन आणि कॉर्पोरेट बेनिफिट्स",
+      "category": "Tax & Govt Schemes",
+      "language": "mr",
+      "readTimeMinutes": 59,
+      "xpReward": 370,
+      "filename": "mr/module_16.json"
+    },
+    {
+      "id": 17,
+      "title": "Module 17: AI स्कॅम्स, फिनटेक डार्क पॅटर्न आणि ग्राहक हक्क (AI SCAMS, FINTECH DARK PATTERNS AND CONSUMER RIGHTS)",
+      "category": "Tax & Govt Schemes",
+      "language": "mr",
+      "readTimeMinutes": 74,
+      "xpReward": 390,
+      "filename": "mr/module_17.json"
+    },
+    {
+      "id": 18,
+      "title": "Module 18: प्रगत संपत्ती निर्मिती आणि इस्टेटच्या मूलभूत गोष्टी (ADVANCED WEALTH BUILDING AND ESTATE BASICS)",
+      "category": "Tax & Govt Schemes",
+      "language": "mr",
+      "readTimeMinutes": 14,
+      "xpReward": 410,
+      "filename": "mr/module_18.json"
+    },
+    {
+      "id": 19,
+      "title": "मॉड्यूल १९: सरकारी योजना, विद्यार्थी अनुदाने आणि अनुदाने (GOVERNMENT SCHEMES, STUDENT GRANTS AND SUBSIDIES)",
+      "category": "Real World & Career",
+      "language": "mr",
+      "readTimeMinutes": 65,
+      "xpReward": 430,
+      "filename": "mr/module_19.json"
+    },
+    {
+      "id": 20,
+      "title": "मॉड्यूल 20: स्टुडंट स्टार्टअप आणि आंत्रप्रन्योरशिप फायनान्शियल्स (विद्यार्थी नवउद्योजकता वित्तपुरवठा)",
+      "category": "Real World & Career",
+      "language": "mr",
+      "readTimeMinutes": 58,
+      "xpReward": 450,
+      "filename": "mr/module_20.json"
+    },
+    {
+      "id": 21,
+      "title": "Module 21: टियर-2, टियर-3 आणि ग्रामीण विद्यार्थी अर्थकारण (TIER-2, TIER-3 AND RURAL STUDENT FINANCE)",
+      "category": "Real World & Career",
+      "language": "mr",
+      "readTimeMinutes": 49,
+      "xpReward": 470,
+      "filename": "mr/module_21.json"
+    },
+    {
+      "id": 22,
+      "title": "मॉड्युल २२: वयाची १८ वर्षे पूर्ण: कायदेशीर कागदपत्रे, IPOs आणि सायबर विमा (CYBER INSURANCE)",
+      "category": "Real World & Career",
+      "language": "mr",
+      "readTimeMinutes": 72,
+      "xpReward": 490,
+      "filename": "mr/module_22.json"
+    },
+    {
+      "id": 23,
+      "title": "Module 23: WOMEN'S FINANCIAL RIGHTS AND DIVYANGJAN SCHEMES",
+      "category": "Real World & Career",
+      "language": "mr",
+      "readTimeMinutes": 62,
+      "xpReward": 510,
+      "filename": "mr/module_23.json"
+    },
+    {
+      "id": 1,
+      "title": "ਮਾਡਿਊਲ 1: ਪੈਸਿਆਂ ਦੀ ਮੁੱਢਲੀ ਸਮਝ",
+      "category": "Foundations",
+      "language": "pa",
+      "readTimeMinutes": 31,
+      "xpReward": 70,
+      "filename": "pa/module_1.json"
+    },
+    {
+      "id": 2,
+      "title": "ਮੋਡੀਊਲ 2: ਅਸਲ ਜ਼ਿੰਦਗੀ ਵਿੱਚ ਬਜਟ ਬਣਾਉਣਾ",
+      "category": "Foundations",
+      "language": "pa",
+      "readTimeMinutes": 30,
+      "xpReward": 90,
+      "filename": "pa/module_2.json"
+    },
+    {
+      "id": 3,
+      "title": "ਮੌਡਿਊਲ 3: ਬੱਚਤ ਰਣਨੀਤੀਆਂ (ਸਮਾਰਟ ਬੱਚਤ)",
+      "category": "Foundations",
+      "language": "pa",
+      "readTimeMinutes": 23,
+      "xpReward": 110,
+      "filename": "pa/module_3.json"
+    },
+    {
+      "id": 4,
+      "title": "ਮੌਡਿਊਲ 4: ਐਮਰਜੈਂਸੀ ਫੰਡ",
+      "category": "Foundations",
+      "language": "pa",
+      "readTimeMinutes": 15,
+      "xpReward": 130,
+      "filename": "pa/module_4.json"
+    },
+    {
+      "id": 5,
+      "title": "ਮੌਡਿਊਲ 5: ਕਰਜ਼ਾ ਅਤੇ ਕਰੈਡਿਟ (ਖ਼ਤਰੇ ਦਾ ਖੇਤਰ)",
+      "category": "Budgeting & Saving",
+      "language": "pa",
+      "readTimeMinutes": 58,
+      "xpReward": 150,
+      "filename": "pa/module_5.json"
+    },
+    {
+      "id": 6,
+      "title": "ਮੌਡਿਊਲ 6: ਬੈਂਕਿੰਗ ਦੀਆਂ ਮੂਲ ਗੱਲਾਂ (ਰੋਜ਼ਾਨਾ ਬੈਂਕਿੰਗ)",
+      "category": "Budgeting & Saving",
+      "language": "pa",
+      "readTimeMinutes": 20,
+      "xpReward": 170,
+      "filename": "pa/module_6.json"
+    },
+    {
+      "id": 7,
+      "title": "ਮੌਡਿਊਲ 7: ਨਿਵੇਸ਼ ਦੀਆਂ ਮੂਲ ਗੱਲਾਂ (ਆਪਣੇ ਪੈਸੇ ਨੂੰ ਵਧਾਓ)",
+      "category": "Banking & Credit",
+      "language": "pa",
+      "readTimeMinutes": 21,
+      "xpReward": 190,
+      "filename": "pa/module_7.json"
+    },
+    {
+      "id": 8,
+      "title": "ਮੌਡਿਊਲ 8: ਵਿੱਤੀ ਸੁਤੰਤਰਤਾ",
+      "category": "Banking & Credit",
+      "language": "pa",
+      "readTimeMinutes": 52,
+      "xpReward": 210,
+      "filename": "pa/module_8.json"
+    },
+    {
+      "id": 9,
+      "title": "ਮੌਡਿਊਲ 9: ਬੀਮਾ ਦੇ ਮੂਲ ਤੱਤ",
+      "category": "Banking & Credit",
+      "language": "pa",
+      "readTimeMinutes": 20,
+      "xpReward": 230,
+      "filename": "pa/module_9.json"
+    },
+    {
+      "id": 10,
+      "title": "ਮੌਡਿਊਲ 10: ਵਿਦਿਆਰਥੀਆਂ ਲਈ ਟੈਕਸ ਦੇ ਮੂਲ ਤੱਤ",
+      "category": "Investing & Markets",
+      "language": "pa",
+      "readTimeMinutes": 17,
+      "xpReward": 250,
+      "filename": "pa/module_10.json"
+    },
+    {
+      "id": 11,
+      "title": "ਮੌਡਿਊਲ 11: ਅਸਲ ਦੁਨੀਆ ਦੀਆਂ ਵਿੱਤੀ ਸਥਿਤੀਆਂ",
+      "category": "Investing & Markets",
+      "language": "pa",
+      "readTimeMinutes": 4,
+      "xpReward": 270,
+      "filename": "pa/module_11.json"
+    },
+    {
+      "id": 12,
+      "title": "ਮੋਡਿਊਲ 12: ਬਿਹੀਵੀਅਰਲ ਫਾਈਨੈਂਸ ਅਤੇ ਪੈਸੇ ਦੀ ਮਨੋਵਿਗਿਆਨ (BEHAVIORAL FINANCE AND MONEY PSYCHOLOGY)",
+      "category": "Investing & Markets",
+      "language": "pa",
+      "readTimeMinutes": 71,
+      "xpReward": 290,
+      "filename": "pa/module_12.json"
+    },
+    {
+      "id": 13,
+      "title": "Module 13",
+      "category": "Tax & Govt Schemes",
+      "language": "pa",
+      "readTimeMinutes": 10,
+      "xpReward": 310,
+      "filename": "pa/module_13.json"
+    },
+    {
+      "id": 14,
+      "title": "Module 14: NEGOTIATION AND RELATIONSHIP MONEY SKILLS",
+      "category": "Tax & Govt Schemes",
+      "language": "pa",
+      "readTimeMinutes": 3,
+      "xpReward": 330,
+      "filename": "pa/module_14.json"
+    },
+    {
+      "id": 15,
+      "title": "Module 15: CREATOR ECONOMY, GIG WORK AND CROSS-BORDER FINANCE",
+      "category": "Tax & Govt Schemes",
+      "language": "pa",
+      "readTimeMinutes": 69,
+      "xpReward": 350,
+      "filename": "pa/module_15.json"
+    },
+    {
+      "id": 16,
+      "title": "Module 16: ਪਹਿਲੀ ਨੌਕਰੀ, CTC ਬ੍ਰੇਕਡਾਊਨ ਅਤੇ ਕਾਰਪੋਰੇਟ ਲਾਭ",
+      "category": "Tax & Govt Schemes",
+      "language": "pa",
+      "readTimeMinutes": 62,
+      "xpReward": 370,
+      "filename": "pa/module_16.json"
+    },
+    {
+      "id": 17,
+      "title": "Module 17: AI ਠੱਗੀਆਂ, ਫਿਨਟੈੱਕ ਡਾਰਕ ਪੈਟਰਨ ਅਤੇ ਉਪਭੋਗਤਾ ਅਧਿਕਾਰ",
+      "category": "Tax & Govt Schemes",
+      "language": "pa",
+      "readTimeMinutes": 80,
+      "xpReward": 390,
+      "filename": "pa/module_17.json"
+    },
+    {
+      "id": 18,
+      "title": "ਮੌਡਿਊਲ 18: ਉੱਨਤ ਸੰਪੱਤੀ ਨਿਰਮਾਣ ਅਤੇ ਵਿਰਾਸਤ ਦੇ ਮੂਲ ਸਿਧਾਂਤ",
+      "category": "Tax & Govt Schemes",
+      "language": "pa",
+      "readTimeMinutes": 14,
+      "xpReward": 410,
+      "filename": "pa/module_18.json"
+    },
+    {
+      "id": 19,
+      "title": "ਮਾਡਿਊਲ 19: ਸਰਕਾਰੀ ਸਕੀਮਾਂ, ਵਿਦਿਆਰਥੀ ਗ੍ਰਾਂਟਾਂ ਅਤੇ ਸਬਸਿਡੀਆਂ",
+      "category": "Real World & Career",
+      "language": "pa",
+      "readTimeMinutes": 7,
+      "xpReward": 430,
+      "filename": "pa/module_19.json"
+    },
+    {
+      "id": 20,
+      "title": "Module 20: STUDENT STARTUP AND ENTREPRENEURSHIP FINANCIALS",
+      "category": "Real World & Career",
+      "language": "pa",
+      "readTimeMinutes": 67,
+      "xpReward": 450,
+      "filename": "pa/module_20.json"
+    },
+    {
+      "id": 21,
+      "title": "ਮਾਡਿਊਲ 21: ਟੀਅਰ-2, ਟੀਅਰ-3 ਅਤੇ ਪੇਂਡੂ ਵਿਦਿਆਰਥੀ ਵਿੱਤ",
+      "category": "Real World & Career",
+      "language": "pa",
+      "readTimeMinutes": 3,
+      "xpReward": 470,
+      "filename": "pa/module_21.json"
+    },
+    {
+      "id": 22,
+      "title": "Module 22: TURNING 18 LEGAL DOCS, IPOs AND CYBER INSURANCE",
+      "category": "Real World & Career",
+      "language": "pa",
+      "readTimeMinutes": 3,
+      "xpReward": 490,
+      "filename": "pa/module_22.json"
+    },
+    {
+      "id": 23,
+      "title": "ਮੋਡਿਊਲ 23: ਔਰਤਾਂ ਦੇ ਵਿੱਤੀ ਅਧਿਕਾਰ ਅਤੇ ਦਿਵਿਆਂਗਜਨ ਸਕੀਮਾਂ",
+      "category": "Real World & Career",
+      "language": "pa",
+      "readTimeMinutes": 15,
+      "xpReward": 510,
+      "filename": "pa/module_23.json"
+    },
+    {
+      "id": 1,
+      "title": "Module 1: BASIC UNDERSTANDING OF MONEY",
+      "category": "Foundations",
+      "language": "ta",
+      "readTimeMinutes": 25,
+      "xpReward": 70,
+      "filename": "ta/module_1.json"
+    },
+    {
+      "id": 2,
+      "title": "தொகுதி 2: நிஜ வாழ்க்கையில் பட்ஜெட் போடுதல் (MODULE 2: BUDGETING IN REAL LIFE)",
+      "category": "Foundations",
+      "language": "ta",
+      "readTimeMinutes": 26,
+      "xpReward": 90,
+      "filename": "ta/module_2.json"
+    },
+    {
+      "id": 3,
+      "title": "தொகுதி 3: சேமிப்பு உத்திகள் (சமார்த்தியமான சேமிப்பு) (MODULE 3: SAVING STRATEGIES - SMART SAVING)",
+      "category": "Foundations",
+      "language": "ta",
+      "readTimeMinutes": 20,
+      "xpReward": 110,
+      "filename": "ta/module_3.json"
+    },
+    {
+      "id": 4,
+      "title": "தொகுதி 4: அவசரகால நிதியம் (EMERGENCY FUND)",
+      "category": "Foundations",
+      "language": "ta",
+      "readTimeMinutes": 14,
+      "xpReward": 130,
+      "filename": "ta/module_4.json"
+    },
+    {
+      "id": 5,
+      "title": "தொகுதி 5: கடன் மற்றும் கிரெடிட் அபாயங்கள் (DEBT AND CREDIT - DANGER ZONE)",
+      "category": "Budgeting & Saving",
+      "language": "ta",
+      "readTimeMinutes": 57,
+      "xpReward": 150,
+      "filename": "ta/module_5.json"
+    },
+    {
+      "id": 6,
+      "title": "தொகுதி 6: வங்கி இயலின் அடிப்படை கருத்துகள் (அன்றாட வங்கிச் சேவைகள்)",
+      "category": "Budgeting & Saving",
+      "language": "ta",
+      "readTimeMinutes": 17,
+      "xpReward": 170,
+      "filename": "ta/module_6.json"
+    },
+    {
+      "id": 7,
+      "title": "தொகுதி 7: முதலீட்டு அடிப்படைகள் (உங்கள் பணத்தை வளர்த்தல்)",
+      "category": "Banking & Credit",
+      "language": "ta",
+      "readTimeMinutes": 21,
+      "xpReward": 190,
+      "filename": "ta/module_7.json"
+    },
+    {
+      "id": 8,
+      "title": "Module 8: நிதி சுதந்திரம் (FINANCIAL INDEPENDENCE)",
+      "category": "Banking & Credit",
+      "language": "ta",
+      "readTimeMinutes": 49,
+      "xpReward": 210,
+      "filename": "ta/module_8.json"
+    },
+    {
+      "id": 9,
+      "title": "Module 9: INSURANCE BASICS",
+      "category": "Banking & Credit",
+      "language": "ta",
+      "readTimeMinutes": 18,
+      "xpReward": 230,
+      "filename": "ta/module_9.json"
+    },
+    {
+      "id": 10,
+      "title": "தொகுதி 10: மாணவர்களுக்கான வரி அடிப்படைகள்",
+      "category": "Investing & Markets",
+      "language": "ta",
+      "readTimeMinutes": 15,
+      "xpReward": 250,
+      "filename": "ta/module_10.json"
+    },
+    {
+      "id": 11,
+      "title": "Module 11: நிஜ உலக நிதி மேலாண்மை (REAL-WORLD FINANCIAL)",
+      "category": "Investing & Markets",
+      "language": "ta",
+      "readTimeMinutes": 55,
+      "xpReward": 270,
+      "filename": "ta/module_11.json"
+    },
+    {
+      "id": 12,
+      "title": "Module 12: BEHAVIORAL FINANCE AND MONEY PSYCHOLOGY",
+      "category": "Investing & Markets",
+      "language": "ta",
+      "readTimeMinutes": 88,
+      "xpReward": 290,
+      "filename": "ta/module_12.json"
+    },
+    {
+      "id": 13,
+      "title": "Module 13: ADVANCED TAX AND FREELANCER PLANNING",
+      "category": "Tax & Govt Schemes",
+      "language": "ta",
+      "readTimeMinutes": 7,
+      "xpReward": 310,
+      "filename": "ta/module_13.json"
+    },
+    {
+      "id": 14,
+      "title": "Module 14: NEGOTIATION AND RELATIONSHIP MONEY SKILLS",
+      "category": "Tax & Govt Schemes",
+      "language": "ta",
+      "readTimeMinutes": 4,
+      "xpReward": 330,
+      "filename": "ta/module_14.json"
+    },
+    {
+      "id": 15,
+      "title": "Module 15: CREATOR ECONOMY AND CROSS-BORDER FINANCE",
+      "category": "Tax & Govt Schemes",
+      "language": "ta",
+      "readTimeMinutes": 3,
+      "xpReward": 350,
+      "filename": "ta/module_15.json"
+    },
+    {
+      "id": 16,
+      "title": "அலகு 16: முதல் வேலை, CTC பகுப்பாய்வு மற்றும் கார்ப்பரேட் சலுகைகள்",
+      "category": "Tax & Govt Schemes",
+      "language": "ta",
+      "readTimeMinutes": 57,
+      "xpReward": 370,
+      "filename": "ta/module_16.json"
+    },
+    {
+      "id": 17,
+      "title": "Module 17: AI SCAMS, FINTECH DARK PATTERNS AND CONSUMER RIGHTS",
+      "category": "Tax & Govt Schemes",
+      "language": "ta",
+      "readTimeMinutes": 65,
+      "xpReward": 390,
+      "filename": "ta/module_17.json"
+    },
+    {
+      "id": 18,
+      "title": "Module 18: ADVANCED WEALTH BUILDING AND ESTATE BASICS",
+      "category": "Tax & Govt Schemes",
+      "language": "ta",
+      "readTimeMinutes": 13,
+      "xpReward": 410,
+      "filename": "ta/module_18.json"
+    },
+    {
+      "id": 19,
+      "title": "Module 19: GOVERNMENT SCHEMES AND STUDENT GRANTS",
+      "category": "Real World & Career",
+      "language": "ta",
+      "readTimeMinutes": 3,
+      "xpReward": 430,
+      "filename": "ta/module_19.json"
+    },
+    {
+      "id": 20,
+      "title": "Module 20: STUDENT STARTUP AND ENTREPRENEURSHIP",
+      "category": "Real World & Career",
+      "language": "ta",
+      "readTimeMinutes": 3,
+      "xpReward": 450,
+      "filename": "ta/module_20.json"
+    },
+    {
+      "id": 21,
+      "title": "Module 21: TIER 2, TIER 3 AND RURAL FINANCE",
+      "category": "Real World & Career",
+      "language": "ta",
+      "readTimeMinutes": 3,
+      "xpReward": 470,
+      "filename": "ta/module_21.json"
+    },
+    {
+      "id": 22,
+      "title": "Module 22: TURNING 18",
+      "category": "Real World & Career",
+      "language": "ta",
+      "readTimeMinutes": 3,
+      "xpReward": 490,
+      "filename": "ta/module_22.json"
+    },
+    {
+      "id": 23,
+      "title": "Module 23: WOMEN'S RIGHTS AND DISABILITY SCHEMES",
+      "category": "Real World & Career",
+      "language": "ta",
+      "readTimeMinutes": 3,
+      "xpReward": 510,
+      "filename": "ta/module_23.json"
+    },
+    {
+      "id": 1,
+      "title": "Module 1: డబ్బుపై ప్రాథమిక అవగాహన (BASIC UNDERSTANDING OF MONEY)",
+      "category": "Foundations",
+      "language": "te",
+      "readTimeMinutes": 26,
+      "xpReward": 70,
+      "filename": "te/module_1.json"
+    },
+    {
+      "id": 2,
+      "title": "Module 2: నిజ జీవితంలో బడ్జెట్ (BUDGETING IN REAL LIFE)",
+      "category": "Foundations",
+      "language": "te",
+      "readTimeMinutes": 24,
+      "xpReward": 90,
+      "filename": "te/module_2.json"
+    },
+    {
+      "id": 3,
+      "title": "Module 3: పొదుపు వ్యూహాలు (SMART SAVING)",
+      "category": "Foundations",
+      "language": "te",
+      "readTimeMinutes": 19,
+      "xpReward": 110,
+      "filename": "te/module_3.json"
+    },
+    {
+      "id": 4,
+      "title": "Module 4: అత్యవసర నిధి (EMERGENCY FUND)",
+      "category": "Foundations",
+      "language": "te",
+      "readTimeMinutes": 13,
+      "xpReward": 130,
+      "filename": "te/module_4.json"
+    },
+    {
+      "id": 5,
+      "title": "Module 5: అప్పు మరియు క్రెడిట్ (DANGER ZONE)",
+      "category": "Budgeting & Saving",
+      "language": "te",
+      "readTimeMinutes": 36,
+      "xpReward": 150,
+      "filename": "te/module_5.json"
+    },
+    {
+      "id": 6,
+      "title": "Module 6: బ్యాంకింగ్ ప్రాథమికాలు (BANKING BASICS — EVERYDAY BANKING)",
+      "category": "Budgeting & Saving",
+      "language": "te",
+      "readTimeMinutes": 17,
+      "xpReward": 170,
+      "filename": "te/module_6.json"
+    },
+    {
+      "id": 7,
+      "title": "Module 7: పెట్టుబడి ప్రాథమికాలు (INVESTMENT BASICS — GROW YOUR MONEY)",
+      "category": "Banking & Credit",
+      "language": "te",
+      "readTimeMinutes": 20,
+      "xpReward": 190,
+      "filename": "te/module_7.json"
+    },
+    {
+      "id": 8,
+      "title": "Module 8: ఆర్థిక స్వాతంత్ర్యం (FINANCIAL INDEPENDENCE)",
+      "category": "Banking & Credit",
+      "language": "te",
+      "readTimeMinutes": 8,
+      "xpReward": 210,
+      "filename": "te/module_8.json"
+    },
+    {
+      "id": 9,
+      "title": "Module 9: బీమా ప్రాథమికాలు (INSURANCE BASICS)",
+      "category": "Banking & Credit",
+      "language": "te",
+      "readTimeMinutes": 13,
+      "xpReward": 230,
+      "filename": "te/module_9.json"
+    },
+    {
+      "id": 10,
+      "title": "Module 10: పన్ను ప్రాథమికాలు (TAX BASICS FOR STUDENTS)",
+      "category": "Investing & Markets",
+      "language": "te",
+      "readTimeMinutes": 8,
+      "xpReward": 250,
+      "filename": "te/module_10.json"
+    },
+    {
+      "id": 11,
+      "title": "మాడ్యూల్ 11: వాస్తవ ప్రపంచ ఆర్థిక విషయాలు",
+      "category": "Investing & Markets",
+      "language": "te",
+      "readTimeMinutes": 50,
+      "xpReward": 270,
+      "filename": "te/module_11.json"
+    },
+    {
+      "id": 12,
+      "title": "Module 12: బిహేవియరల్ ఫైనాన్స్ మరియు మనీ సైకాలజీ (BEHAVIORAL FINANCE AND MONEY PSYCHOLOGY)",
+      "category": "Investing & Markets",
+      "language": "te",
+      "readTimeMinutes": 3,
+      "xpReward": 290,
+      "filename": "te/module_12.json"
+    },
+    {
+      "id": 13,
+      "title": "మోడ్యూల్ 13: అడ్వాన్స్‌డ్ టాక్స్ మరియు ఫ్రీలాన్సర్ ప్లానింగ్ (ADVANCED TAX AND FREELANCER PLANNING)",
+      "category": "Tax & Govt Schemes",
+      "language": "te",
+      "readTimeMinutes": 72,
+      "xpReward": 310,
+      "filename": "te/module_13.json"
+    },
+    {
+      "id": 14,
+      "title": "Module 14: NEGOTIATION AND RELATIONSHIP MONEY SKILLS",
+      "category": "Tax & Govt Schemes",
+      "language": "te",
+      "readTimeMinutes": 102,
+      "xpReward": 330,
+      "filename": "te/module_14.json"
+    },
+    {
+      "id": 15,
+      "title": "Module 15: క్రియేటర్ ఎకానమీ, గిగ్ వర్క్ మరియు క్రాస్-బోర్డర్ ఫైనాన్స్",
+      "category": "Tax & Govt Schemes",
+      "language": "te",
+      "readTimeMinutes": 67,
+      "xpReward": 350,
+      "filename": "te/module_15.json"
+    },
+    {
+      "id": 16,
+      "title": "Module 16: మొదటి ఉద్యోగం, CTC బ్రేక్‌డౌన్ మరియు కార్పొరేట్ బెనిఫిట్స్",
+      "category": "Tax & Govt Schemes",
+      "language": "te",
+      "readTimeMinutes": 57,
+      "xpReward": 370,
+      "filename": "te/module_16.json"
+    },
+    {
+      "id": 17,
+      "title": "మాడ్యూల్ 17: AI స్కామ్‌లు, ఫిన్‌టెక్ డార్క్ ప్యాటర్న్‌లు మరియు వినియోగదారుల హక్కులు",
+      "category": "Tax & Govt Schemes",
+      "language": "te",
+      "readTimeMinutes": 68,
+      "xpReward": 390,
+      "filename": "te/module_17.json"
+    },
+    {
+      "id": 18,
+      "title": "Module 18: ADVANCED WEALTH BUILDING AND ESTATE BASICS",
+      "category": "Tax & Govt Schemes",
+      "language": "te",
+      "readTimeMinutes": 13,
+      "xpReward": 410,
+      "filename": "te/module_18.json"
+    },
+    {
+      "id": 19,
+      "title": "మాడ్యూల్ 19: ప్రభుత్వ పథకాలు, విద్యార్థుల గ్రాంట్లు మరియు సబ్సిడీలు",
+      "category": "Real World & Career",
+      "language": "te",
+      "readTimeMinutes": 64,
+      "xpReward": 430,
+      "filename": "te/module_19.json"
+    },
+    {
+      "id": 20,
+      "title": "Module 20: STUDENT STARTUP AND ENTREPRENEURSHIP FINANCIALS",
+      "category": "Real World & Career",
+      "language": "te",
+      "readTimeMinutes": 56,
+      "xpReward": 450,
+      "filename": "te/module_20.json"
+    },
+    {
+      "id": 21,
+      "title": "Module 21: టైర్-2, టైర్-3 మరియు గ్రామీణ విద్యార్థుల ఫైనాన్స్ (TIER-2, TIER-3 AND RURAL STUDENT FINANCE)",
+      "category": "Real World & Career",
+      "language": "te",
+      "readTimeMinutes": 49,
+      "xpReward": 470,
+      "filename": "te/module_21.json"
+    },
+    {
+      "id": 22,
+      "title": "మోడ్యూల్ 22: 18 ఏళ్ళు నిండడం చట్టపరమైన పత్రాలు, IPOలు మరియు సైబర్ ఇన్సూరెన్స్",
+      "category": "Real World & Career",
+      "language": "te",
+      "readTimeMinutes": 69,
+      "xpReward": 490,
+      "filename": "te/module_22.json"
+    },
+    {
+      "id": 23,
+      "title": "మోడ్యూల్ 23: మహిళల ఆర్థిక హక్కులు మరియు దివ్యాంగుల పథకాలు",
+      "category": "Real World & Career",
+      "language": "te",
+      "readTimeMinutes": 60,
+      "xpReward": 510,
+      "filename": "te/module_23.json"
+    }
+  ]
+}

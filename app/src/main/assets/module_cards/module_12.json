@@ -1,0 +1,102 @@
+[
+  {
+    "id": "12-1",
+    "title": "Behavioral Finance — Mind vs Money 🧠",
+    "emoji": "🧠",
+    "color": "#8B5CF6",
+    "description": "Dimag aur paise ka connection samjho. System 1 vs System 2 thinking, Money personality types, aur Cognitive biases.",
+    "cards": [
+      {
+        "id": "12-1-1",
+        "topicId": "12-1",
+        "topicTitle": "Behavioral Finance",
+        "cardIndex": 1,
+        "totalCardsInTopic": 4,
+        "title": "System 1 vs System 2 Thinking 🧠",
+        "content": "Why do smart people make dumb money choices?\n\n**Fast Brain (System 1)**: Emotional, instant, 50% OFF board dekhte hi buy kar lena.\n**Slow Brain (System 2)**: Logical, budget calculation, \"kya sach mein zaroorat hai?\".\n\nMoney decisions mein System 1 dominant hota hai — isliye sale dekh ke ₹15,000 spend ho jaate hain!\n\n| Feature | Traditional Finance | Behavioral Finance |\n|---|---|---|\n| Assumption | Humans are rational | Humans are emotional |\n| Decision | Logic only | Feelings + Logic |\n| Goal | Maximize ROI | Prevent mistakes |",
+        "imagePrompt": "Brain split into two halves: one glowing fast emotional side with shopping bags, one logical calm side with graphs, neon purple art",
+        "color": "#8B5CF6",
+        "emoji": "🧠",
+        "interactiveType": "choice_sim",
+        "choiceData": {
+          "scenario": "Amazon Great Indian Festival: 50% OFF ad dekhte hi pehla thought kya aata hai?",
+          "choices": [
+            {
+              "text": "Fast Brain: Abhi order maaro, mauka dubara nahi aayega!",
+              "isCorrect": false,
+              "consequence": "System 1 Trap! Sale emergency nahi hai, budget out ho jayega."
+            },
+            {
+              "text": "Slow Brain: Pause 24 hours, check if it fits monthly budget.",
+              "isCorrect": true,
+              "consequence": "System 2 Control! Overspending avoided, ₹5,000 saved."
+            }
+          ]
+        }
+      },
+      {
+        "id": "12-1-2",
+        "topicId": "12-1",
+        "topicTitle": "Behavioral Finance",
+        "cardIndex": 2,
+        "totalCardsInTopic": 4,
+        "title": "5 Money Personality Types 🎭",
+        "content": "Tumhara money personality type kya hai?\n\n1. **The Saver**: Money safe rakhta hai, par inflation se wealth lose karta hai.\n2. **The Spender**: Impulse buyer, peer pressure, credit card trap risk.\n3. **The Investor**: Returns focus, over-trading bias risk.\n4. **The Giver**: Extra generous, personal safety net ignore karna.\n5. **The Avoider**: Money talk se bhagna, hidden penalties accumulate karna.",
+        "imagePrompt": "Five characters standing together representing Saver, Spender, Investor, Giver, and Avoider, purple and gold illustration",
+        "color": "#8B5CF6",
+        "emoji": "🎭",
+        "interactiveType": "quiz",
+        "quizData": {
+          "question": "Aapki bank balance dekhne se darr lagta hai aur bills delay hote hain. Profile kya hai?",
+          "options": [
+            "The Saver",
+            "The Avoider"
+          ],
+          "correctAnswerIndex": 1,
+          "explanation": "The Avoider status! Financial date fixed karke step-by-step audit shuru karein."
+        }
+      },
+      {
+        "id": "12-1-3",
+        "topicId": "12-1",
+        "topicTitle": "Behavioral Finance",
+        "cardIndex": 3,
+        "totalCardsInTopic": 4,
+        "title": "Top Cognitive Biases ⚠️",
+        "content": "**1. Anchoring Bias**: MRP ₹2,000 dekh ke ₹999 sasta lagna (actual value ₹300).\n**2. Loss Aversion**: Loss ka dukh profit ki khushi se 2.5x zyada hota hai.\n**3. Herd Mentality**: Crypto/IPO boom mein sab ke saath blind invest karna.\n**4. Sunk Cost Fallacy**: Useless course mein ₹10k lag gaye toh time bhi waste karna.",
+        "imagePrompt": "Mind with gears and warning badges for financial cognitive biases, purple background graphic",
+        "color": "#8B5CF6",
+        "emoji": "⚠️",
+        "interactiveType": "choice_sim",
+        "choiceData": {
+          "scenario": "Boring course pe ₹8,000 de chuke ho. Baaki 20 hours watching continues ya quit?",
+          "choices": [
+            {
+              "text": "Sunk Cost Fallacy: Paise diye hain toh poora dekhoonga",
+              "isCorrect": false,
+              "consequence": "Wrong! ₹8,000 already gone, now 20 hours time also wasted."
+            },
+            {
+              "text": "Smart Cut: Quit course, focus on productive skills",
+              "isCorrect": true,
+              "consequence": "Right! Sunk cost leave karke future benefit maximize kiya."
+            }
+          ]
+        }
+      },
+      {
+        "id": "12-1-4",
+        "topicId": "12-1",
+        "topicTitle": "Behavioral Finance",
+        "cardIndex": 4,
+        "totalCardsInTopic": 4,
+        "title": "🚨 MISSION: Behavioral Nudge Setup",
+        "content": "🚨 **TODAY'S MISSION**\n\nNudges apply karke smart decisions automatic banao:\n\n- [ ] Auto-debit setup for savings (out of sight, out of mind).\n- [ ] 24-hour rule apply karo ₹500+ impulse purchase pe.\n- [ ] Shopping apps phone se uninstall / notifications OFF karo.\n- [ ] Weekly expense log alarm 9 PM fix karo.",
+        "imagePrompt": "Checklist on clipboard with purple pen, golden checkmarks, achievement motivation",
+        "color": "#8B5CF6",
+        "emoji": "🎯",
+        "interactiveType": "mission_box"
+      }
+    ]
+  }
+]

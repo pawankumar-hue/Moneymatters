@@ -1,0 +1,74 @@
+[
+  {
+    "id": "22-1",
+    "title": "Turning 18 Legal Docs, IPOs & Cyber Insurance 📜",
+    "emoji": "📜",
+    "color": "#F59E0B",
+    "description": "PAN Card, Voter ID, Passport, Demat Account at 18, IPO Allotment mechanics, and Personal Cyber Insurance.",
+    "cards": [
+      {
+        "id": "22-1-1",
+        "topicId": "22-1",
+        "topicTitle": "Turning 18 Finance",
+        "cardIndex": 1,
+        "totalCardsInTopic": 3,
+        "title": "Essential Docs at 18 Checklist 📄",
+        "content": "18 saal ke hote hi yeh 4 documents turant banao:\n\n1. **PAN Card** (Online NSDL e-PAN in 10 mins with Aadhaar OTP).\n2. **Bank Account Adult Upgrade** (Minor account ko Major status mein convert karo).\n3. **Voter ID Card** (NVSP portal online).\n4. **Demat Account** (Zerodha/Groww/AngelOne) investment start karne ke liye.",
+        "imagePrompt": "ID card, passport, and PAN card icons grouped with golden 18 badge",
+        "color": "#F59E0B",
+        "emoji": "📄",
+        "interactiveType": "choice_sim",
+        "choiceData": {
+          "scenario": "18 saal ke ho gaye ho. Pehla financial step kya hona chahiye?",
+          "choices": [
+            {
+              "text": "Wait till getting a full-time job at 22",
+              "isCorrect": false,
+              "consequence": "Lost 4 Years! Early CIBIL & Demat investment head-start missed."
+            },
+            {
+              "text": "Apply instant e-PAN & Open Adult Savings/Demat Account",
+              "isCorrect": true,
+              "consequence": "Smart Adult Start! 18 pe hi CIBIL & SIP compounding journey start."
+            }
+          ]
+        }
+      },
+      {
+        "id": "22-1-2",
+        "topicId": "22-1",
+        "topicTitle": "Turning 18 Finance",
+        "cardIndex": 2,
+        "totalCardsInTopic": 3,
+        "title": "IPO Allotment Mechanics 📈",
+        "content": "Retail Individual Investor (RII) quota: **Max ₹2 Lakh application limit**.\n\nOver-subscription lot system: Jab IPO 50x subscribe hota hai, toh allotment **Random Lottery System** se milta hai — ek person ko maximum 1 lot hi milega regardless of total bid amount!",
+        "imagePrompt": "Lottery wheel with stock market candlestick candles, gold vector",
+        "color": "#F59E0B",
+        "emoji": "📈",
+        "interactiveType": "quiz",
+        "quizData": {
+          "question": "IPO allotment chance badhane ke liye ek hi Demat account se multiple application daal sakte hain?",
+          "options": [
+            "Haan, 5 bids lagao",
+            "Nahi, same PAN se single application hi valid hogi"
+          ],
+          "correctAnswerIndex": 1,
+          "explanation": "Multiple bids from same PAN get REJECTED! Different family members ke Demat accounts se bid karna best strategy hai."
+        }
+      },
+      {
+        "id": "22-1-3",
+        "topicId": "22-1",
+        "topicTitle": "Turning 18 Finance",
+        "cardIndex": 3,
+        "totalCardsInTopic": 3,
+        "title": "🚨 MISSION: Adult Legal Docs Setup",
+        "content": "🚨 **TODAY'S MISSION**\n\n18+ Legal Docs Checklist:\n\n- [ ] Instant e-PAN card apply karo (NPS/NSDL portal).\n- [ ] Minor Bank Account ko Major Adult account mein status change karo.\n- [ ] Demat account opening complete karo (KYC).\n- [ ] Driving License / Passport application plan karo.",
+        "imagePrompt": "Golden key unlocking adult financial briefcase",
+        "color": "#F59E0B",
+        "emoji": "🎯",
+        "interactiveType": "mission_box"
+      }
+    ]
+  }
+]

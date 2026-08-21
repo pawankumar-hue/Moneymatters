@@ -1,0 +1,74 @@
+[
+  {
+    "id": "23-1",
+    "title": "Women's Financial Rights & Divyangjan Schemes 🌸",
+    "emoji": "🌸",
+    "color": "#EC4899",
+    "description": "Women's legal inheritance rights, Mahila Samman Savings Certificate, Divyangjan subsidies, and financial autonomy.",
+    "cards": [
+      {
+        "id": "23-1-1",
+        "topicId": "23-1",
+        "topicTitle": "Women & Inclusive Finance",
+        "cardIndex": 1,
+        "totalCardsInTopic": 3,
+        "title": "Hindu Succession Act & Equal Ancestral Rights ⚖️",
+        "content": "2005 Amendment to Hindu Succession Act: **Daughters have 100% EQUAL legal right in ancestral property** as sons — whether married or unmarried!\n\nStridhan (wedding gifts/jewellery given to woman) is **exclusively her absolute property**. Neither husband nor in-laws have legal right over Stridhan.",
+        "imagePrompt": "Scale of justice holding female equality sign and property document, pink and gold theme",
+        "color": "#EC4899",
+        "emoji": "⚖️",
+        "interactiveType": "quiz",
+        "quizData": {
+          "question": "Kya shaadi ke baad beti ka father ki ancestral property par legal right khatam ho jaata hai?",
+          "options": [
+            "Haan, shaadi ke baad beti parivar ka hissa nahi rehti",
+            "Nahi, 2005 Amendment ke baad beti ko equal coparcenary right milta hai"
+          ],
+          "correctAnswerIndex": 1,
+          "explanation": "2005 Hindu Succession Act amendment guarantees equal coparcenary rights to daughters regardless of marital status."
+        }
+      },
+      {
+        "id": "23-1-2",
+        "topicId": "23-1",
+        "topicTitle": "Women & Inclusive Finance",
+        "cardIndex": 2,
+        "totalCardsInTopic": 3,
+        "title": "Mahila Samman Savings & Divyangjan Grants 💳",
+        "content": "**Mahila Samman Savings Certificate (MSSC)**: Fixed 7.5% per annum interest, 2-year tenure for women/girls with partial withdrawal facility.\n\n**Divyangjan Financial Support**: National Handicapped Finance and Development Corporation (NHFDC) offers concessional loans (4%-8% interest) for skill & higher education.",
+        "imagePrompt": "Woman avatar holding certificate seal with pink ribbons",
+        "color": "#EC4899",
+        "emoji": "💳",
+        "interactiveType": "choice_sim",
+        "choiceData": {
+          "scenario": "Short-term 2 saal ke liye safe high-yield savings kahan invest karein?",
+          "choices": [
+            {
+              "text": "Regular Bank FD (6.5% interest)",
+              "isCorrect": false,
+              "consequence": "Decent yield, but lower than Government specialized schemes."
+            },
+            {
+              "text": "Mahila Samman Savings Certificate (7.5% fixed interest)",
+              "isCorrect": true,
+              "consequence": "Maximum Yield! Guaranteed 7.5% p.a. sovereign government safety."
+            }
+          ]
+        }
+      },
+      {
+        "id": "23-1-3",
+        "topicId": "23-1",
+        "topicTitle": "Women & Inclusive Finance",
+        "cardIndex": 3,
+        "totalCardsInTopic": 3,
+        "title": "🚨 MISSION: Financial Independence & Rights Audit",
+        "content": "🚨 **TODAY'S MISSION**\n\nFinancial Inclusion Checklist:\n\n- [ ] Independent bank account in single name (not joint with in-laws/parents).\n- [ ] Mahila Samman / Sukanya Samriddhi Scheme eligibility check.\n- [ ] Stridhan and ancestral legal rights awareness.\n- [ ] NHFDC Divyangjan loan/grant schemes verification.",
+        "imagePrompt": "Shield with pink flower emblem symbolizing financial security",
+        "color": "#EC4899",
+        "emoji": "🎯",
+        "interactiveType": "mission_box"
+      }
+    ]
+  }
+]
