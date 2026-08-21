@@ -29,3 +29,7 @@ validation_report_v2.txt
 # Reference folder
 reference/
 reference
+
+# Rules and scripts
+rules/
+scripts/
