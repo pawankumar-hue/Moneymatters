@@ -120,8 +120,8 @@ moneymatters/
 ### Clone and Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Deepak0205p/moneymatters.git
-   cd moneymatters
+   git clone https://github.com/pawankumar-hue/Moneymatters.git
+   cd Moneymatters
    ```
 2. Open the project folder in **Android Studio**.
 3. Allow Gradle to synchronize dependencies.
