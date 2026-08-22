@@ -1,4 +1,4 @@
-﻿*.iml
+*.iml
 .gradle
 /local.properties
 /.idea/
@@ -34,5 +34,8 @@ reference
 rules/
 scripts/
 
-# Benchmark module
-macrobenchmark/
+# Sensitive files
+google-services.json
+*.keystore
+*.jks
+
